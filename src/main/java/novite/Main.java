@@ -9,6 +9,10 @@ import novite.rs.utility.Config;
 import novite.rs.utility.Stopwatch;
 import novite.rs.utility.logging.LoggerSetup;
 
+/**
+ * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @since Jun 19, 2014
+ */
 public class Main {
 
 	public static void main(String[] args) {

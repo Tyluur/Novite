@@ -23,7 +23,7 @@ repositories {
 }
 
 application {
-    mainClass.set("com.runescape.Main")
+    mainClass.set("novite.rs.Main")
 }
 
 dependencies {
