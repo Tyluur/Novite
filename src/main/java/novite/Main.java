@@ -10,7 +10,7 @@ import novite.rs.utility.Stopwatch;
 import novite.rs.utility.logging.LoggerSetup;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 public class Main {

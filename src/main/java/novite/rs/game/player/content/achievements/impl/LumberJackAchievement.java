@@ -6,7 +6,7 @@ import novite.rs.game.player.content.achievements.Achievement;
 import novite.rs.game.player.content.achievements.Types;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 27, 2014
  */
 public class LumberJackAchievement extends Achievement {

@@ -1,7 +1,7 @@
 package novite.rs.game.player.actions.prayer;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 6, 2014
  */
 public enum Bone {

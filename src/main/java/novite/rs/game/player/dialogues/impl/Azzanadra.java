@@ -6,7 +6,7 @@ import novite.rs.game.player.quests.impl.Desert_Treasure;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class Azzanadra extends Dialogue {

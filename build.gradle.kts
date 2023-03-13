@@ -23,7 +23,7 @@ repositories {
 }
 
 application {
-    mainClass.set("novite.rs.Main")
+    mainClass.set("novite.Main")
 }
 
 dependencies {

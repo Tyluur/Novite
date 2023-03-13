@@ -5,7 +5,7 @@ import novite.rs.game.player.Player;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 1, 2014
  */
 public class Vote extends CommandSkeleton {

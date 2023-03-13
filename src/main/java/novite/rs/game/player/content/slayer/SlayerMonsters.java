@@ -8,7 +8,7 @@ import java.util.Map.Entry;
 import novite.rs.cache.loaders.NPCDefinitions;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 20, 2014
  */
 public enum SlayerMonsters {

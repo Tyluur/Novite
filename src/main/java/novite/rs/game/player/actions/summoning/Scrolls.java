@@ -2,7 +2,7 @@ package novite.rs.game.player.actions.summoning;
 
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 21, 2014
  */
 public enum Scrolls {

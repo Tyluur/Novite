@@ -6,7 +6,7 @@ import novite.rs.game.player.dialogues.impl.HelpDialogue;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 15, 2014
  */
 public class Help extends CommandSkeleton {

@@ -10,7 +10,7 @@ import novite.rs.game.player.actions.crafting.Jewellery;
 import novite.rs.game.player.actions.crafting.Jewellery.GemCreation;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 3, 2014
  */
 public class JewelleryMakingListener extends EventListener {

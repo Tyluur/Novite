@@ -22,7 +22,7 @@ import novite.rs.utility.game.json.impl.ExchangePriceLoader;
  * Handles all interaction with grand exchange buttons, displaying of the items,
  * collecting the items, and all internal processes of the grand exchange
  * 
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class ExchangeManagement {

@@ -17,7 +17,7 @@ import novite.rs.game.player.quests.QuestRequirement;
 import novite.rs.utility.game.ChatColors;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 24, 2014
  */
 @QuestInfo(enumClass = Recipe_For_Disaster.Stages.class)

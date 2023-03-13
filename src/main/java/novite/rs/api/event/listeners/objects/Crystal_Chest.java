@@ -16,7 +16,7 @@ import novite.rs.game.player.dialogues.impl.SimpleItemMessage;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 25, 2014
  */
 public class Crystal_Chest extends EventListener {

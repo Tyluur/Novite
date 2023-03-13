@@ -5,7 +5,7 @@ import novite.rs.game.player.Player;
 import novite.rs.game.player.content.scrolls.ClueScroll;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class McGruborWoodsScroll extends ClueScroll {

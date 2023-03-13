@@ -5,7 +5,7 @@ import novite.rs.game.player.Player;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class ResetQuests extends CommandSkeleton {

@@ -26,7 +26,7 @@ import novite.rs.utility.game.json.impl.ExchangeItemLoader;
 import novite.rs.utility.game.json.impl.ExchangePriceLoader;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class GrandExchangeListener extends EventListener {

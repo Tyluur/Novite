@@ -21,7 +21,7 @@ import novite.rs.utility.logging.types.FileLogger;
 import novite.rs.utility.script.GameScript;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 5, 2014
  */
 public class CashWorthChecker extends GameScript {

@@ -6,7 +6,7 @@ import novite.rs.game.item.ItemsContainer;
 import novite.rs.game.player.Player;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class ExchangeOffer {

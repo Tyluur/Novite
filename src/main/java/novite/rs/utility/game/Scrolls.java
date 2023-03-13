@@ -1,7 +1,7 @@
 package novite.rs.utility.game;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 28, 2014
  */
 public class Scrolls {

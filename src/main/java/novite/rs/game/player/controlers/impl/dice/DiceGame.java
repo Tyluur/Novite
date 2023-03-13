@@ -20,7 +20,7 @@ import novite.rs.utility.Utils;
 import novite.rs.utility.game.ChatColors;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 29, 2014
  */
 public class DiceGame extends Controller {

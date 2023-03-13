@@ -9,7 +9,7 @@ import novite.rs.game.npc.NPC;
 import novite.rs.game.player.Player;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 14, 2014
  */
 public class NoviteGamesHandler extends EventListener {

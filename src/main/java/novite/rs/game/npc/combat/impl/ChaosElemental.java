@@ -15,7 +15,7 @@ import novite.rs.game.player.Player;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 5, 2014
  */
 public class ChaosElemental extends CombatScript {

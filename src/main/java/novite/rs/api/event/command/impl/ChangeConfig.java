@@ -8,7 +8,7 @@ import novite.rs.utility.Config;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Aug 2, 2014
  */
 public class ChangeConfig extends CommandSkeleton {

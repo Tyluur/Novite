@@ -1,7 +1,7 @@
 package novite.rs.game.player.content.exchange;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class ExchangeConfiguration {

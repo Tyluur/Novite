@@ -15,7 +15,7 @@ import novite.rs.game.player.dialogues.SimpleMessage;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 25, 2014
  */
 public class BarrowsChest extends EventListener {

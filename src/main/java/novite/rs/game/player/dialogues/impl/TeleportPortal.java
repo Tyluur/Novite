@@ -7,7 +7,7 @@ import novite.rs.utility.game.ChatColors;
 import novite.rs.utility.game.TeleportLocations;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 15, 2014
  */
 public class TeleportPortal extends Dialogue {

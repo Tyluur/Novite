@@ -1,7 +1,7 @@
 package novite.rs.utility;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 14, 2014
  */
 public class Stopwatch {

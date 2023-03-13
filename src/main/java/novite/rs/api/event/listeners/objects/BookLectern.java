@@ -9,7 +9,7 @@ import novite.rs.game.player.Player;
 import novite.rs.game.player.dialogues.impl.Book_Switcher;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 28, 2014
  */
 public class BookLectern extends EventListener {

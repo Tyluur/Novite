@@ -11,7 +11,7 @@ import novite.rs.game.player.content.exchange.ExchangeManagement;
 import novite.rs.game.player.dialogues.impl.ClerkDialogue;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 20, 2014
  */
 public class GrandExchangeClerk extends EventListener {

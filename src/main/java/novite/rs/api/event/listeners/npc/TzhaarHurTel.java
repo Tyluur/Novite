@@ -10,7 +10,7 @@ import novite.rs.utility.game.json.JsonHandler;
 import novite.rs.utility.game.json.impl.ShopsLoader;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Aug 1, 2014
  */
 public class TzhaarHurTel extends EventListener {

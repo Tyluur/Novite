@@ -1,7 +1,7 @@
 package novite.rs.utility.game.item;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 9, 2014
  */
 public class ItemBonus {

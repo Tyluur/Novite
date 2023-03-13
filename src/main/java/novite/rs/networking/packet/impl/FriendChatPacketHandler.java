@@ -13,7 +13,7 @@ import novite.rs.utility.game.punishments.Punishment.PunishmentType;
 import novite.rs.utility.huffman.Huffman;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 @PacketInformation(listeners = "1,41,32,72,79")

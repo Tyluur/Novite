@@ -13,7 +13,7 @@ import novite.rs.networking.packet.PacketInformation;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 @PacketInformation(listeners = "9,31,28,67,92,66")

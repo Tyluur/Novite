@@ -6,7 +6,7 @@ import novite.rs.game.player.content.TicketSystem;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 20, 2014
  */
 public class AnswerTickets extends CommandSkeleton {

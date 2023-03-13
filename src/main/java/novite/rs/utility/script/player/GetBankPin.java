@@ -13,7 +13,7 @@ import novite.rs.utility.TextIO;
 import novite.rs.utility.script.GameScript;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Aug 9, 2014
  */
 public class GetBankPin extends GameScript {

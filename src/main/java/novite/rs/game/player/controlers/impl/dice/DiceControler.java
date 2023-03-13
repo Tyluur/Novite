@@ -6,7 +6,7 @@ import novite.rs.game.player.RouteEvent;
 import novite.rs.game.player.controlers.Controller;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 8, 2014
  */
 public class DiceControler extends Controller {

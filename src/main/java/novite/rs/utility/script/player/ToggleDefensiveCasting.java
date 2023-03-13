@@ -10,7 +10,7 @@ import novite.rs.utility.Saving;
 import novite.rs.utility.script.GameScript;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Aug 7, 2014
  */
 public class ToggleDefensiveCasting extends GameScript {

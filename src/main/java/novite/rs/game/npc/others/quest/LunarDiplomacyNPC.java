@@ -6,7 +6,7 @@ import novite.rs.game.player.quests.QuestManager;
 import novite.rs.game.player.quests.impl.Lunar_Diplomacy;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class LunarDiplomacyNPC extends QuestNPC {
