@@ -5,7 +5,7 @@ import novite.rs.game.player.dialogues.ChatAnimation;
 import novite.rs.game.player.dialogues.Dialogue;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 30, 2014
  */
 public class RuneSlayer_Master extends Dialogue {

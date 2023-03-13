@@ -7,7 +7,7 @@ import novite.rs.utility.game.Rights;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 1, 2014
  */
 public class CheckVote extends CommandSkeleton {

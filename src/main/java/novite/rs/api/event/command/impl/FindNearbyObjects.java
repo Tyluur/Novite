@@ -12,7 +12,7 @@ import novite.rs.utility.Utils;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 23, 2014
  */
 public class FindNearbyObjects extends CommandSkeleton {

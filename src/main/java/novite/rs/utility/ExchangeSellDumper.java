@@ -10,7 +10,7 @@ import novite.rs.cache.loaders.ItemDefinitions;
 import novite.rs.game.item.ItemConstants;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 23, 2014
  */
 public class ExchangeSellDumper {

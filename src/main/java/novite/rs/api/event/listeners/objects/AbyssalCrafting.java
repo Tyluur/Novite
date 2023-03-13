@@ -10,7 +10,7 @@ import novite.rs.game.player.actions.runecrafting.AbbysObsticals;
 import novite.rs.game.player.content.Runecrafting;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 8, 2014
  */
 public class AbyssalCrafting extends EventListener {

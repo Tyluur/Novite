@@ -8,7 +8,7 @@ import novite.rs.game.npc.combat.CombatScript;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class MeLDScript extends CombatScript {

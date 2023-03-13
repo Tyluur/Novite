@@ -9,7 +9,7 @@ import novite.rs.game.player.Player;
 import novite.rs.game.player.dialogues.impl.TeleportPortal;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 15, 2014
  */
 public class TeleportPortalListener extends EventListener {

@@ -15,7 +15,7 @@ import novite.rs.game.player.quests.QuestRequirement;
 import novite.rs.utility.game.ChatColors;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 @QuestInfo(enumClass = Helpless_Lawgof.Stages.class)

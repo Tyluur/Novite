@@ -21,7 +21,7 @@ import novite.rs.game.player.dialogues.SimpleNPCMessage;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 13, 2014
  */
 public class MainGameHandler implements Runnable {

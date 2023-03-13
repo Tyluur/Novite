@@ -3,7 +3,7 @@ package novite.rs.game.minigames.akrisae;
 import novite.rs.game.item.Item;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 25, 2014
  */
 public class AkrisaeFormulae {

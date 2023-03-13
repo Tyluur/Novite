@@ -13,7 +13,7 @@ import novite.rs.utility.game.json.impl.NPCBonuses;
 import novite.rs.utility.game.npc.NPCCombatDefinitionsL;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class NPCCombatChecker {

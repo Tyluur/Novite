@@ -11,7 +11,7 @@ import novite.rs.game.player.dialogues.impl.SimpleItemMessage;
 import novite.rs.utility.logging.types.FileLogger;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 2, 2014
  */
 public class VoteClaimerListener extends EventListener {

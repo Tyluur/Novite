@@ -7,7 +7,7 @@ import novite.rs.game.player.dialogues.BuyItemDialogue;
 import novite.rs.utility.game.Rights;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 21, 2014
  */
 public class Empty extends CommandSkeleton {

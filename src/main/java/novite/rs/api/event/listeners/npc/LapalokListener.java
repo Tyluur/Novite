@@ -13,7 +13,7 @@ import novite.rs.utility.game.json.JsonHandler;
 import novite.rs.utility.game.json.impl.ShopsLoader;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 20, 2014
  */
 public class LapalokListener extends EventListener {

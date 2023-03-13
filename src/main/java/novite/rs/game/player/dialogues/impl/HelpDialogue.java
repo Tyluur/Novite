@@ -12,7 +12,7 @@ import novite.rs.utility.Utils.CombatRates;
 import novite.rs.utility.game.ChatColors;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 20, 2014
  */
 public class HelpDialogue extends Dialogue {

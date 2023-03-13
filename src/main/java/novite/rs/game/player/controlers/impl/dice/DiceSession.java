@@ -5,7 +5,7 @@ import novite.rs.game.item.ItemsContainer;
 import novite.rs.game.player.Player;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 14, 2014
  */
 public class DiceSession {

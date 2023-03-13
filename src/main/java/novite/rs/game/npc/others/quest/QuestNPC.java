@@ -6,7 +6,7 @@ import novite.rs.game.npc.NPC;
 import novite.rs.game.player.Player;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class QuestNPC extends NPC {

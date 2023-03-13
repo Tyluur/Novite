@@ -15,7 +15,7 @@ import novite.rs.utility.game.json.impl.NPCAutoSpawn.Direction;
 import novite.rs.utility.game.npc.NPCSpawning;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 30, 2014
  */
 public class GodwarsSpawnConverter {

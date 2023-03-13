@@ -16,7 +16,7 @@ import novite.rs.utility.huffman.Huffman;
 import novite.rs.utility.logging.types.FileLogger;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 @PacketInformation(listeners = "23,36,30")

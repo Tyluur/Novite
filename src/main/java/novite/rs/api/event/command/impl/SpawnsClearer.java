@@ -13,7 +13,7 @@ import novite.rs.utility.game.json.impl.NPCAutoSpawn;
 import novite.rs.utility.game.npc.NPCSpawning;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 30, 2014
  */
 public class SpawnsClearer extends CommandSkeleton {

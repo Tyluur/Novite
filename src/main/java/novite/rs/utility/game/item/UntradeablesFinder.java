@@ -11,7 +11,7 @@ import novite.rs.utility.Config;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 public class UntradeablesFinder {

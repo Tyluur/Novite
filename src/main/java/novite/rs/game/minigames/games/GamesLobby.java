@@ -5,7 +5,7 @@ import novite.rs.game.player.controlers.Controller;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 14, 2014
  */
 public class GamesLobby extends Controller {

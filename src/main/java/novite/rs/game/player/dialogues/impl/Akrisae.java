@@ -5,7 +5,7 @@ import novite.rs.game.player.dialogues.Dialogue;
 import novite.rs.utility.game.ChatColors;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 25, 2014
  */
 public class Akrisae extends Dialogue {

@@ -4,7 +4,7 @@ import novite.rs.cache.loaders.ItemDefinitions;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 21, 2014
  */
 public class Drop {

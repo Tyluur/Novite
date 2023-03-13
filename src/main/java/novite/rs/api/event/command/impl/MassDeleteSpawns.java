@@ -14,7 +14,7 @@ import novite.rs.utility.game.npc.NPCSpawning;
 
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 31, 2014
  */
 public class MassDeleteSpawns extends CommandSkeleton {

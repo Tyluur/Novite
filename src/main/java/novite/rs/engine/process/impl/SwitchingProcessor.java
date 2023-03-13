@@ -12,7 +12,7 @@ import novite.rs.game.player.Player;
 import novite.rs.networking.codec.handlers.ButtonHandler;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 8, 2014
  */
 public class SwitchingProcessor implements TimedProcess {

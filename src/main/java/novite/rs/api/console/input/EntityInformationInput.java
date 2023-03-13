@@ -4,7 +4,7 @@ import novite.rs.api.console.ConsoleInput;
 import novite.rs.game.World;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 20, 2014
  */
 public class EntityInformationInput implements ConsoleInput {

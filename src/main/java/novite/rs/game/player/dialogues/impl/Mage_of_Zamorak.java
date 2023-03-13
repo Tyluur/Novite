@@ -5,7 +5,7 @@ import novite.rs.game.player.dialogues.Dialogue;
 import novite.rs.utility.game.TeleportLocations;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 8, 2014
  */
 public class Mage_of_Zamorak extends Dialogue {

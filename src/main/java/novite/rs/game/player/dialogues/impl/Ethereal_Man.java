@@ -6,7 +6,7 @@ import novite.rs.game.player.quests.impl.Lunar_Diplomacy;
 import novite.rs.utility.Utils;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class Ethereal_Man extends Dialogue {

@@ -11,7 +11,7 @@ import novite.rs.game.player.dialogues.impl.AltarBoneD;
 import novite.rs.game.player.dialogues.impl.SimpleItemMessage;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 4, 2014
  */
 public class AltarAction extends Action {

@@ -3,7 +3,7 @@ package novite.rs.game.player.dialogues.impl;
 import novite.rs.game.player.dialogues.Dialogue;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 public class WorldMapConfirmation extends Dialogue {

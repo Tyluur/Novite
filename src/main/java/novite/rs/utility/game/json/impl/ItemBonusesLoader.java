@@ -12,7 +12,7 @@ import novite.rs.utility.game.json.JsonLoader;
 import com.google.gson.reflect.TypeToken;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 9, 2014
  */
 public class ItemBonusesLoader extends JsonLoader<ItemBonus> {

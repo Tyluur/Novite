@@ -15,7 +15,7 @@ import novite.rs.game.player.dialogues.Dialogue;
 import novite.rs.game.player.dialogues.SimpleNPCMessage;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 21, 2014
  */
 public class SlayerRewardsInterface extends EventListener {

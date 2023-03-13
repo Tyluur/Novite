@@ -14,7 +14,7 @@ import novite.rs.game.tasks.WorldTask;
 import novite.rs.game.tasks.WorldTasksManager;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 21, 2014
  */
 public class Sandwich_Lady extends RandomEvent {

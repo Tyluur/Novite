@@ -23,7 +23,7 @@ import novite.rs.utility.game.json.JsonLoader;
 import com.google.gson.reflect.TypeToken;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class ExchangeItemLoader extends JsonLoader<ExchangeOffer> {

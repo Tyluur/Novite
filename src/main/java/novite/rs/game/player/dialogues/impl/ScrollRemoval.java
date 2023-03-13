@@ -5,7 +5,7 @@ import novite.rs.game.player.content.scrolls.ScrollType;
 import novite.rs.game.player.dialogues.Dialogue;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 22, 2014
  */
 public class ScrollRemoval extends Dialogue {

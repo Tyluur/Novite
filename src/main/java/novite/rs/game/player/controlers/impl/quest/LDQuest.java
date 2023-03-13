@@ -7,7 +7,7 @@ import novite.rs.game.npc.others.quest.LunarDiplomacyNPC;
 import novite.rs.game.player.controlers.Controller;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 29, 2014
  */
 public class LDQuest extends Controller {

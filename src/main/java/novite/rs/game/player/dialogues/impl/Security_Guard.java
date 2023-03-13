@@ -7,7 +7,7 @@ import novite.rs.game.player.dialogues.ChatAnimation;
 import novite.rs.game.player.dialogues.Dialogue;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 26, 2014
  */
 public class Security_Guard extends Dialogue {

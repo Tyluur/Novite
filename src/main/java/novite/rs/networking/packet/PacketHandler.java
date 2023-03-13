@@ -4,7 +4,7 @@ import novite.rs.game.player.Player;
 import novite.rs.networking.codec.stream.InputStream;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jun 19, 2014
  */
 public abstract class PacketHandler {

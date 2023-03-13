@@ -10,7 +10,7 @@ import novite.rs.game.player.dialogues.impl.SimpleItemMessage;
 import novite.rs.utility.game.Scrolls;
 
 /**
- * @author Lazarus <lazarus.rs.king@gmail.com>
+ * @author Tyluur <itstyluur@icloud.com>
  * @since Jul 6, 2014
  */
 public class PrayerScrollListeners extends EventListener {
