@@ -1,0 +1,3391 @@
+[Aug 22, 2014 12:02:16 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 750 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 12:02:16 AM] Extreme game cycle: 760
+[Aug 22, 2014 12:03:13 AM] 
+Took 10 ms to process tasks
+Took 1 ms to process players
+Took 775 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:03:13 AM] Extreme game cycle: 791
+[Aug 22, 2014 12:03:15 AM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 797 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 12:03:15 AM] Extreme game cycle: 811
+[Aug 22, 2014 12:05:27 AM] 
+Took 0 ms to process tasks
+Took 978 ms to process players
+Took 10 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 12:05:27 AM] Extreme game cycle: 994
+[Aug 22, 2014 12:06:12 AM] 
+Took 0 ms to process tasks
+Took 1195 ms to process players
+Took 11 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 12:06:12 AM] Extreme game cycle: 1210
+[Aug 22, 2014 12:07:35 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 786 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 12:07:35 AM] Extreme game cycle: 802
+[Aug 22, 2014 12:08:09 AM] 
+Took 0 ms to process tasks
+Took 1030 ms to process players
+Took 25 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:08:09 AM] Extreme game cycle: 1060
+[Aug 22, 2014 12:12:58 AM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 730 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:12:58 AM] Extreme game cycle: 737
+[Aug 22, 2014 12:32:10 AM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 796 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 12:32:10 AM] Extreme game cycle: 805
+[Aug 22, 2014 12:46:23 AM] 
+Took 0 ms to process tasks
+Took 820 ms to process players
+Took 20 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 12:46:23 AM] Extreme game cycle: 845
+[Aug 22, 2014 2:11:07 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 726 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 2:11:07 AM] Extreme game cycle: 732
+[Aug 22, 2014 2:39:15 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:40:49 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:44:16 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:46:18 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:49:01 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:49:03 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 2:49:13 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 3:03:30 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 3:03:37 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 3:25:54 AM] 
+Took 0 ms to process tasks
+Took 344 ms to process players
+Took 14 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 3:25:54 AM] Extreme game cycle: 361
+[Aug 22, 2014 3:42:08 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 3:45:36 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 4:15:37 AM] 
+Took 189 ms to process tasks
+Took 2 ms to process players
+Took 13 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 4:15:37 AM] Extreme game cycle: 207
+[Aug 22, 2014 4:47:58 AM] java.lang.IndexOutOfBoundsException: Index: 251, Size: 30
+[Aug 22, 2014 4:47:58 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:47:58 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:47:58 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:47:58 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:47:58 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:47:58 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:47:58 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:47:58 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:47:58 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:47:58 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:47:58 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:47:59 AM] java.lang.IndexOutOfBoundsException: Index: 250, Size: 30
+[Aug 22, 2014 4:47:59 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:47:59 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:47:59 AM] java.lang.IndexOutOfBoundsException: Index: 250, Size: 30
+[Aug 22, 2014 4:47:59 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:47:59 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:47:59 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:47:59 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:47:59 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:00 AM] java.lang.IndexOutOfBoundsException: Index: 248, Size: 30
+[Aug 22, 2014 4:48:00 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:00 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:00 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:00 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:00 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:00 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:00 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:00 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:00 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:00 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:00 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:01 AM] java.lang.IndexOutOfBoundsException: Index: 247, Size: 30
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:01 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:01 AM] java.lang.IndexOutOfBoundsException: Index: 247, Size: 30
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:01 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:01 AM] java.lang.IndexOutOfBoundsException: Index: 248, Size: 30
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:01 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:01 AM] java.lang.IndexOutOfBoundsException: Index: 248, Size: 30
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:01 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:01 AM] java.lang.IndexOutOfBoundsException: Index: 249, Size: 30
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:01 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:01 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:01 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:01 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:02 AM] java.lang.IndexOutOfBoundsException: Index: 250, Size: 30
+[Aug 22, 2014 4:48:02 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:02 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:02 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:02 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:02 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:02 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:02 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:02 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:02 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:02 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:02 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:48:03 AM] java.lang.IndexOutOfBoundsException: Index: 187, Size: 30
+[Aug 22, 2014 4:48:03 AM] 	at java.util.ArrayList.rangeCheck(ArrayList.java:635)
+[Aug 22, 2014 4:48:03 AM] 	at java.util.ArrayList.get(ArrayList.java:411)
+[Aug 22, 2014 4:48:03 AM] 	at novite.rs.game.minigames.games.MainGameHandler.withdrawItemChest(MainGameHandler.java:392)
+[Aug 22, 2014 4:48:03 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:958)
+[Aug 22, 2014 4:48:03 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:48:03 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:48:03 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:48:03 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:48:03 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:48:03 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:48:03 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 6:00:00 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 667 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 6:00:00 AM] Extreme game cycle: 675
+[Aug 22, 2014 6:24:42 AM] Bad animation!!!!! 17408
+[Aug 22, 2014 6:45:28 AM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 11 ms to process npcs
+Took 782 ms to send local updating
+
+[Aug 22, 2014 6:45:28 AM] Extreme game cycle: 797
+[Aug 22, 2014 7:35:42 AM] 
+Took 1 ms to process tasks
+Took 31 ms to process players
+Took 164 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 22, 2014 7:35:42 AM] Extreme game cycle: 207
+[Aug 22, 2014 7:36:01 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 252 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 7:36:01 AM] Extreme game cycle: 271
+[Aug 22, 2014 7:47:23 AM] java.lang.ArrayIndexOutOfBoundsException: 4096
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:182)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.Entity.calcFollow(Entity.java:1195)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.player.actions.PlayerCombat.checkAll(PlayerCombat.java:3058)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.player.actions.PlayerCombat.process(PlayerCombat.java:71)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.player.ActionManager.process(ActionManager.java:16)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.game.player.Player.processEntity(Player.java:554)
+[Aug 22, 2014 7:47:23 AM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:42)
+[Aug 22, 2014 7:47:23 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 7:47:23 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 7:47:23 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 7:47:23 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 7:47:23 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 8:10:01 AM] 
+Took 0 ms to process tasks
+Took 27 ms to process players
+Took 144 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 8:10:01 AM] Extreme game cycle: 223
+[Aug 22, 2014 8:10:08 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 134 ms to process npcs
+Took 60 ms to send local updating
+
+[Aug 22, 2014 8:10:08 AM] Extreme game cycle: 202
+[Aug 22, 2014 8:10:13 AM] 
+Took 0 ms to process tasks
+Took 62 ms to process players
+Took 280 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 22, 2014 8:10:13 AM] Extreme game cycle: 372
+[Aug 22, 2014 8:10:14 AM] 
+Took 0 ms to process tasks
+Took 64 ms to process players
+Took 415 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 22, 2014 8:10:14 AM] Extreme game cycle: 497
+[Aug 22, 2014 8:10:15 AM] 
+Took 1 ms to process tasks
+Took 121 ms to process players
+Took 151 ms to process npcs
+Took 28 ms to send local updating
+
+[Aug 22, 2014 8:10:15 AM] Extreme game cycle: 303
+[Aug 22, 2014 8:10:15 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 217 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:10:15 AM] Extreme game cycle: 303
+[Aug 22, 2014 8:10:21 AM] 
+Took 0 ms to process tasks
+Took 291 ms to process players
+Took 21 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 8:10:21 AM] Extreme game cycle: 317
+[Aug 22, 2014 8:10:22 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 143 ms to process npcs
+Took 64 ms to send local updating
+
+[Aug 22, 2014 8:10:22 AM] Extreme game cycle: 212
+[Aug 22, 2014 8:10:24 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 394 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:10:24 AM] Extreme game cycle: 403
+[Aug 22, 2014 8:10:24 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 251 ms to process npcs
+Took 33 ms to send local updating
+
+[Aug 22, 2014 8:10:24 AM] Extreme game cycle: 286
+[Aug 22, 2014 8:10:25 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 240 ms to process npcs
+Took 144 ms to send local updating
+
+[Aug 22, 2014 8:10:25 AM] Extreme game cycle: 386
+[Aug 22, 2014 8:10:25 AM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 93 ms to process npcs
+Took 168 ms to send local updating
+
+[Aug 22, 2014 8:10:26 AM] Extreme game cycle: 265
+[Aug 22, 2014 8:10:26 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 397 ms to process npcs
+Took 85 ms to send local updating
+
+[Aug 22, 2014 8:10:26 AM] Extreme game cycle: 484
+[Aug 22, 2014 8:10:27 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 46 ms to process npcs
+Took 474 ms to send local updating
+
+[Aug 22, 2014 8:10:27 AM] Extreme game cycle: 543
+[Aug 22, 2014 8:13:56 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 729 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 8:13:56 AM] Extreme game cycle: 738
+[Aug 22, 2014 8:20:07 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 661 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 8:20:07 AM] Extreme game cycle: 671
+[Aug 22, 2014 8:25:02 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 779 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:25:02 AM] Extreme game cycle: 785
+[Aug 22, 2014 8:26:28 AM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 727 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:26:28 AM] Extreme game cycle: 738
+[Aug 22, 2014 8:27:10 AM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 728 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 22, 2014 8:27:10 AM] Extreme game cycle: 744
+[Aug 22, 2014 8:33:11 AM] 
+Took 1 ms to process tasks
+Took 1875 ms to process players
+Took 20 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:33:11 AM] Extreme game cycle: 1903
+[Aug 22, 2014 8:34:17 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 51 ms to process npcs
+Took 690 ms to send local updating
+
+[Aug 22, 2014 8:34:17 AM] Extreme game cycle: 745
+[Aug 22, 2014 8:38:00 AM] 
+Took 1 ms to process tasks
+Took 7 ms to process players
+Took 711 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:38:00 AM] Extreme game cycle: 723
+[Aug 22, 2014 8:38:42 AM] 
+Took 0 ms to process tasks
+Took 703 ms to process players
+Took 11 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:38:42 AM] Extreme game cycle: 721
+[Aug 22, 2014 8:39:44 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:39:49 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:39:51 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:39:59 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:40:02 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:40:07 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:40:13 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:40:16 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:40:21 AM] Bad animation!!!!! 16122
+[Aug 22, 2014 8:47:31 AM] 
+Took 0 ms to process tasks
+Took 1209 ms to process players
+Took 19 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 8:47:31 AM] Extreme game cycle: 1234
+[Aug 22, 2014 8:51:28 AM] 
+Took 2 ms to process tasks
+Took 710 ms to process players
+Took 23 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 8:51:28 AM] Extreme game cycle: 740
+[Aug 22, 2014 8:53:09 AM] 
+Took 0 ms to process tasks
+Took 1367 ms to process players
+Took 29 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:53:09 AM] Extreme game cycle: 1403
+[Aug 22, 2014 8:53:44 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1236 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 22, 2014 8:53:44 AM] Extreme game cycle: 1254
+[Aug 22, 2014 8:55:41 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 724 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 22, 2014 8:55:41 AM] Extreme game cycle: 755
+[Aug 22, 2014 9:06:19 AM] 
+Took 0 ms to process tasks
+Took 663 ms to process players
+Took 13 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 9:06:19 AM] Extreme game cycle: 683
+[Aug 22, 2014 9:18:18 AM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 720 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 9:18:18 AM] Extreme game cycle: 729
+[Aug 22, 2014 9:34:55 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 774 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 9:34:55 AM] Extreme game cycle: 779
+[Aug 22, 2014 9:39:07 AM] 
+Took 0 ms to process tasks
+Took 950 ms to process players
+Took 13 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 9:39:07 AM] Extreme game cycle: 968
+[Aug 22, 2014 9:40:38 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1022 ms to process npcs
+Took 17 ms to send local updating
+
+[Aug 22, 2014 9:40:38 AM] Extreme game cycle: 1042
+[Aug 22, 2014 9:40:40 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 950 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 9:40:40 AM] Extreme game cycle: 967
+[Aug 22, 2014 10:03:28 AM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 118,981 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+[Aug 22, 2014 10:03:28 AM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 10:03:28 AM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 10:03:28 AM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2568)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1557)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.api.database.ForumIntegration.correctCredentials(ForumIntegration.java:117)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decodeWorldLogin(LoginPacketsDecoder.java:147)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decode(LoginPacketsDecoder.java:36)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:03:28 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:03:28 AM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 10:03:28 AM] 	... 25 more
+[Aug 22, 2014 10:03:28 AM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 120,289 milliseconds ago.  The last packet sent successfully to the server was 1 milliseconds ago.
+[Aug 22, 2014 10:03:28 AM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 10:03:28 AM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 10:03:28 AM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2568)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1557)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.game.player.Player.getForumTable(Player.java:740)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.game.player.Player.canSetEmail(Player.java:3209)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.game.player.Player.requiresEmailSet(Player.java:3233)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:179)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:03:28 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:03:28 AM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 10:03:28 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 10:03:28 AM] 	... 26 more
+[Aug 22, 2014 10:03:28 AM] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.game.player.Player.canSetEmail(Player.java:3209)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.game.player.Player.requiresEmailSet(Player.java:3233)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:179)
+[Aug 22, 2014 10:03:28 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:03:28 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:03:28 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:03:28 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:04:54 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 735 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 10:04:54 AM] Extreme game cycle: 740
+[Aug 22, 2014 10:06:58 AM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 145,094 milliseconds ago.  The last packet sent successfully to the server was 1 milliseconds ago.
+[Aug 22, 2014 10:06:58 AM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 10:06:58 AM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 10:06:58 AM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1749)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1666)
+[Aug 22, 2014 10:06:58 AM] 	at novite.rs.api.database.mysql.impl.Highscores.saveNewHighscores(Highscores.java:37)
+[Aug 22, 2014 10:06:58 AM] 	at novite.rs.game.player.Player.realFinish(Player.java:943)
+[Aug 22, 2014 10:06:58 AM] 	at novite.rs.game.player.Player.finish(Player.java:908)
+[Aug 22, 2014 10:06:58 AM] 	at novite.rs.networking.ServerChannelHandler.channelDisconnected(ServerChannelHandler.java:55)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.Channels.fireChannelDisconnected(Channels.java:399)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:721)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:89)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:06:58 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:06:58 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:06:58 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:06:58 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:06:58 AM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 10:06:58 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 10:06:58 AM] 	... 25 more
+[Aug 22, 2014 10:07:19 AM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 165,860 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+[Aug 22, 2014 10:07:19 AM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 10:07:19 AM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 10:07:19 AM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2568)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1557)
+[Aug 22, 2014 10:07:19 AM] 	at novite.rs.api.database.ForumIntegration.isBanned(ForumIntegration.java:55)
+[Aug 22, 2014 10:07:19 AM] 	at novite.rs.utility.game.json.impl.PunishmentLoader.isBanned(PunishmentLoader.java:99)
+[Aug 22, 2014 10:07:19 AM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decodeWorldLogin(LoginPacketsDecoder.java:184)
+[Aug 22, 2014 10:07:19 AM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decode(LoginPacketsDecoder.java:36)
+[Aug 22, 2014 10:07:19 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:07:19 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:07:19 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:07:19 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:07:19 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:07:19 AM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 10:07:19 AM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 10:07:19 AM] 	... 26 more
+[Aug 22, 2014 10:08:35 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 755 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:08:35 AM] Extreme game cycle: 769
+[Aug 22, 2014 10:08:38 AM] 
+Took 0 ms to process tasks
+Took 3113 ms to process players
+Took 9 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:08:38 AM] Extreme game cycle: 3129
+[Aug 22, 2014 10:17:50 AM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 706 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:17:50 AM] Extreme game cycle: 715
+[Aug 22, 2014 10:20:04 AM] 
+Took 0 ms to process tasks
+Took 727 ms to process players
+Took 42 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 22, 2014 10:20:04 AM] Extreme game cycle: 783
+[Aug 22, 2014 10:21:24 AM] 
+Took 0 ms to process tasks
+Took 560 ms to process players
+Took 23 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 10:21:24 AM] Extreme game cycle: 587
+[Aug 22, 2014 10:28:27 AM] 
+Took 0 ms to process tasks
+Took 2475 ms to process players
+Took 22 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:28:27 AM] Extreme game cycle: 2503
+[Aug 22, 2014 10:30:01 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 734 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:30:01 AM] Extreme game cycle: 743
+[Aug 22, 2014 10:33:31 AM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 807 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:33:31 AM] Extreme game cycle: 814
+[Aug 22, 2014 10:43:01 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 844 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:43:01 AM] Extreme game cycle: 853
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5297
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 211
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 207
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5293
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 209
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5318
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5296
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5298
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 12174
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5294
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5323
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5292
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 12176
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5295
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5100
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5321
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5311
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 5281
+[Aug 22, 2014 10:45:49 AM] [SEVERE] No grand exchange item found for id: 203
+[Aug 22, 2014 10:49:49 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 725 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 10:49:49 AM] Extreme game cycle: 729
+[Aug 22, 2014 10:52:34 AM] 
+Took 84 ms to process tasks
+Took 4 ms to process players
+Took 738 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:52:34 AM] Extreme game cycle: 833
+[Aug 22, 2014 10:52:37 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1294 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 10:52:37 AM] Extreme game cycle: 1305
+[Aug 22, 2014 10:52:38 AM] 
+Took 0 ms to process tasks
+Took 65 ms to process players
+Took 27 ms to process npcs
+Took 432 ms to send local updating
+
+[Aug 22, 2014 10:52:38 AM] Extreme game cycle: 526
+[Aug 22, 2014 10:52:38 AM] 
+Took 2 ms to process tasks
+Took 192 ms to process players
+Took 123 ms to process npcs
+Took 144 ms to send local updating
+
+[Aug 22, 2014 10:52:38 AM] Extreme game cycle: 464
+[Aug 22, 2014 10:52:41 AM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 24 ms to process npcs
+Took 194 ms to send local updating
+
+[Aug 22, 2014 10:52:41 AM] Extreme game cycle: 223
+[Aug 22, 2014 10:52:51 AM] 
+Took 0 ms to process tasks
+Took 79 ms to process players
+Took 269 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:52:51 AM] Extreme game cycle: 356
+[Aug 22, 2014 10:53:13 AM] 
+Took 2 ms to process tasks
+Took 10728 ms to process players
+Took 54 ms to process npcs
+Took 18 ms to send local updating
+
+[Aug 22, 2014 10:53:13 AM] Extreme game cycle: 10803
+[Aug 22, 2014 10:53:35 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 66 ms to process npcs
+Took 313 ms to send local updating
+
+[Aug 22, 2014 10:53:35 AM] Extreme game cycle: 383
+[Aug 22, 2014 10:53:38 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 62 ms to process npcs
+Took 211 ms to send local updating
+
+[Aug 22, 2014 10:53:38 AM] Extreme game cycle: 276
+[Aug 22, 2014 10:53:47 AM] 
+Took 0 ms to process tasks
+Took 234 ms to process players
+Took 12 ms to process npcs
+Took 27 ms to send local updating
+
+[Aug 22, 2014 10:53:47 AM] Extreme game cycle: 276
+[Aug 22, 2014 10:54:05 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 45 ms to process npcs
+Took 185 ms to send local updating
+
+[Aug 22, 2014 10:54:05 AM] Extreme game cycle: 339
+[Aug 22, 2014 10:54:06 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 139 ms to process npcs
+Took 285 ms to send local updating
+
+[Aug 22, 2014 10:54:06 AM] Extreme game cycle: 433
+[Aug 22, 2014 10:54:06 AM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 107 ms to process npcs
+Took 108 ms to send local updating
+
+[Aug 22, 2014 10:54:06 AM] Extreme game cycle: 232
+[Aug 22, 2014 10:54:08 AM] 
+Took 1 ms to process tasks
+Took 207 ms to process players
+Took 115 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:54:08 AM] Extreme game cycle: 328
+[Aug 22, 2014 10:54:21 AM] 
+Took 0 ms to process tasks
+Took 2772 ms to process players
+Took 13 ms to process npcs
+Took 37 ms to send local updating
+
+[Aug 22, 2014 10:54:21 AM] Extreme game cycle: 2824
+[Aug 22, 2014 10:54:21 AM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 212 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 10:54:21 AM] Extreme game cycle: 225
+[Aug 22, 2014 10:54:22 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 221 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:54:22 AM] Extreme game cycle: 229
+[Aug 22, 2014 10:54:34 AM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 23 ms to process npcs
+Took 194 ms to send local updating
+
+[Aug 22, 2014 10:54:34 AM] Extreme game cycle: 221
+[Aug 22, 2014 10:54:37 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 246 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 10:54:37 AM] Extreme game cycle: 252
+[Aug 22, 2014 10:54:55 AM] 
+Took 0 ms to process tasks
+Took 232 ms to process players
+Took 35 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 10:54:55 AM] Extreme game cycle: 277
+[Aug 22, 2014 10:55:00 AM] 
+Took 0 ms to process tasks
+Took 317 ms to process players
+Took 96 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:55:00 AM] Extreme game cycle: 418
+[Aug 22, 2014 10:55:00 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 101 ms to process npcs
+Took 101 ms to send local updating
+
+[Aug 22, 2014 10:55:00 AM] Extreme game cycle: 207
+[Aug 22, 2014 10:55:03 AM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 132 ms to process npcs
+Took 490 ms to send local updating
+
+[Aug 22, 2014 10:55:03 AM] Extreme game cycle: 625
+[Aug 22, 2014 10:55:04 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 263 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 10:55:04 AM] Extreme game cycle: 283
+[Aug 22, 2014 10:55:05 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 212 ms to process npcs
+Took 39 ms to send local updating
+
+[Aug 22, 2014 10:55:05 AM] Extreme game cycle: 255
+[Aug 22, 2014 10:55:15 AM] 
+Took 0 ms to process tasks
+Took 372 ms to process players
+Took 14 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:55:15 AM] Extreme game cycle: 392
+[Aug 22, 2014 10:55:33 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 524 ms to process npcs
+Took 65 ms to send local updating
+
+[Aug 22, 2014 10:55:33 AM] Extreme game cycle: 593
+[Aug 22, 2014 10:55:33 AM] 
+Took 5 ms to process tasks
+Took 2 ms to process players
+Took 205 ms to process npcs
+Took 70 ms to send local updating
+
+[Aug 22, 2014 10:55:33 AM] Extreme game cycle: 284
+[Aug 22, 2014 10:55:34 AM] 
+Took 0 ms to process tasks
+Took 8 ms to process players
+Took 318 ms to process npcs
+Took 38 ms to send local updating
+
+[Aug 22, 2014 10:55:34 AM] Extreme game cycle: 366
+[Aug 22, 2014 10:56:09 AM] 
+Took 20 ms to process tasks
+Took 68 ms to process players
+Took 230 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 10:56:09 AM] Extreme game cycle: 326
+[Aug 22, 2014 10:56:10 AM] 
+Took 0 ms to process tasks
+Took 299 ms to process players
+Took 285 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:56:10 AM] Extreme game cycle: 590
+[Aug 22, 2014 10:56:12 AM] 
+Took 0 ms to process tasks
+Took 679 ms to process players
+Took 322 ms to process npcs
+Took 603 ms to send local updating
+
+[Aug 22, 2014 10:56:12 AM] Extreme game cycle: 1609
+[Aug 22, 2014 10:56:14 AM] 
+Took 0 ms to process tasks
+Took 17 ms to process players
+Took 1502 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 10:56:14 AM] Extreme game cycle: 1535
+[Aug 22, 2014 10:56:15 AM] 
+Took 0 ms to process tasks
+Took 76 ms to process players
+Took 1160 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:56:15 AM] Extreme game cycle: 1243
+[Aug 22, 2014 10:56:36 AM] 
+Took 1 ms to process tasks
+Took 2841 ms to process players
+Took 12 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:56:36 AM] Extreme game cycle: 2862
+[Aug 22, 2014 11:00:11 AM] 
+Took 0 ms to process tasks
+Took 364 ms to process players
+Took 11 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 11:00:11 AM] Extreme game cycle: 511
+[Aug 22, 2014 11:00:12 AM] 
+Took 1 ms to process tasks
+Took 179 ms to process players
+Took 123 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 11:00:12 AM] Extreme game cycle: 307
+[Aug 22, 2014 11:00:18 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 334 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 11:00:18 AM] Extreme game cycle: 346
+[Aug 22, 2014 11:00:21 AM] 
+Took 0 ms to process tasks
+Took 7 ms to process players
+Took 182 ms to process npcs
+Took 299 ms to send local updating
+
+[Aug 22, 2014 11:00:21 AM] Extreme game cycle: 492
+[Aug 22, 2014 11:01:40 AM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1113 ms to process npcs
+Took 17 ms to send local updating
+
+[Aug 22, 2014 11:01:40 AM] Extreme game cycle: 1134
+[Aug 22, 2014 11:20:10 AM] 
+Took 19 ms to process tasks
+Took 295 ms to process players
+Took 23 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:20:10 AM] Extreme game cycle: 343
+[Aug 22, 2014 11:20:14 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 295 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 11:20:14 AM] Extreme game cycle: 301
+[Aug 22, 2014 11:20:24 AM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 210 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 11:20:24 AM] Extreme game cycle: 223
+[Aug 22, 2014 11:23:08 AM] 
+Took 0 ms to process tasks
+Took 974 ms to process players
+Took 14 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 11:23:08 AM] Extreme game cycle: 992
+[Aug 22, 2014 11:26:06 AM] 
+Took 1 ms to process tasks
+Took 863 ms to process players
+Took 19 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:26:06 AM] Extreme game cycle: 889
+[Aug 22, 2014 11:30:15 AM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 463 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:30:15 AM] Extreme game cycle: 472
+[Aug 22, 2014 11:30:18 AM] 
+Took 266 ms to process tasks
+Took 1 ms to process players
+Took 20 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 11:30:18 AM] Extreme game cycle: 498
+[Aug 22, 2014 11:52:17 AM] 
+Took 0 ms to process tasks
+Took 15 ms to process players
+Took 1089 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 11:52:17 AM] Extreme game cycle: 1108
+[Aug 22, 2014 12:16:28 PM] 
+Took 278 ms to process tasks
+Took 25 ms to process players
+Took 10 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:16:28 PM] Extreme game cycle: 318
+[Aug 22, 2014 12:18:43 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 49 ms to process npcs
+Took 745 ms to send local updating
+
+[Aug 22, 2014 12:18:43 PM] Extreme game cycle: 798
+[Aug 22, 2014 12:22:55 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 705 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:22:55 PM] Extreme game cycle: 721
+[Aug 22, 2014 12:28:16 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 744 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:28:16 PM] Extreme game cycle: 753
+[Aug 22, 2014 12:30:03 PM] 
+Took 1 ms to process tasks
+Took 680 ms to process players
+Took 20 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 12:30:03 PM] Extreme game cycle: 708
+[Aug 22, 2014 12:32:10 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 38 ms to process npcs
+Took 734 ms to send local updating
+
+[Aug 22, 2014 12:32:10 PM] Extreme game cycle: 775
+[Aug 22, 2014 12:32:30 PM] 
+Took 1 ms to process tasks
+Took 1552 ms to process players
+Took 27 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 22, 2014 12:32:30 PM] Extreme game cycle: 1592
+[Aug 22, 2014 12:32:34 PM] 
+Took 0 ms to process tasks
+Took 3532 ms to process players
+Took 11 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 12:32:34 PM] Extreme game cycle: 3550
+[Aug 22, 2014 12:32:47 PM] 
+Took 0 ms to process tasks
+Took 1779 ms to process players
+Took 15 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 12:32:47 PM] Extreme game cycle: 1798
+[Aug 22, 2014 12:41:15 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 28 ms to process npcs
+Took 734 ms to send local updating
+
+[Aug 22, 2014 12:41:15 PM] Extreme game cycle: 773
+[Aug 22, 2014 12:46:06 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 779 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 12:46:06 PM] Extreme game cycle: 789
+[Aug 22, 2014 12:47:41 PM] 
+Took 2 ms to process tasks
+Took 1010 ms to process players
+Took 20 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:47:41 PM] Extreme game cycle: 1037
+[Aug 22, 2014 12:48:57 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 237,672 milliseconds ago.  The last packet sent successfully to the server was 1 milliseconds ago.
+[Aug 22, 2014 12:48:57 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 12:48:57 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 12:48:57 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1749)
+[Aug 22, 2014 12:48:57 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1666)
+[Aug 22, 2014 12:48:57 PM] 	at novite.rs.api.database.mysql.impl.Highscores.saveNewHighscores(Highscores.java:37)
+[Aug 22, 2014 12:48:58 PM] 	at novite.rs.game.player.Player.realFinish(Player.java:943)
+[Aug 22, 2014 12:48:58 PM] 	at novite.rs.game.player.Player.finish(Player.java:908)
+[Aug 22, 2014 12:48:58 PM] 	at novite.rs.networking.ServerChannelHandler.channelDisconnected(ServerChannelHandler.java:55)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.Channels.fireChannelDisconnected(Channels.java:399)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:721)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:89)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 12:48:58 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 12:48:58 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 12:48:58 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 12:48:58 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 12:48:58 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 12:48:58 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 12:48:58 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 12:48:58 PM] 	... 25 more
+[Aug 22, 2014 12:51:57 PM] 
+Took 0 ms to process tasks
+Took 662 ms to process players
+Took 13 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 12:51:57 PM] Extreme game cycle: 680
+[Aug 22, 2014 12:55:22 PM] 
+Took 105 ms to process tasks
+Took 3 ms to process players
+Took 200 ms to process npcs
+Took 83 ms to send local updating
+
+[Aug 22, 2014 12:55:22 PM] Extreme game cycle: 392
+[Aug 22, 2014 12:55:29 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 331 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 12:55:29 PM] Extreme game cycle: 352
+[Aug 22, 2014 1:12:41 PM] 
+Took 0 ms to process tasks
+Took 1236 ms to process players
+Took 13 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 1:12:41 PM] Extreme game cycle: 1254
+[Aug 22, 2014 1:30:17 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 831 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 22, 2014 1:30:17 PM] Extreme game cycle: 851
+[Aug 22, 2014 1:32:37 PM] 
+Took 0 ms to process tasks
+Took 768 ms to process players
+Took 12 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 1:32:37 PM] Extreme game cycle: 783
+[Aug 22, 2014 1:49:47 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 17 ms to process npcs
+Took 759 ms to send local updating
+
+[Aug 22, 2014 1:49:47 PM] Extreme game cycle: 787
+[Aug 22, 2014 1:52:52 PM] 
+Took 0 ms to process tasks
+Took 2015 ms to process players
+Took 10 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 1:52:52 PM] Extreme game cycle: 2029
+[Aug 22, 2014 1:53:53 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1045 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 1:53:53 PM] Extreme game cycle: 1050
+[Aug 22, 2014 2:03:03 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 1503 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 2:03:03 PM] Extreme game cycle: 1510
+[Aug 22, 2014 2:05:36 PM] 
+Took 0 ms to process tasks
+Took 10 ms to process players
+Took 788 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 2:05:36 PM] Extreme game cycle: 802
+[Aug 22, 2014 2:15:03 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 70 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 2:15:03 PM] Extreme game cycle: 239
+[Aug 22, 2014 2:23:53 PM] 
+Took 0 ms to process tasks
+Took 1750 ms to process players
+Took 11 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 2:23:53 PM] Extreme game cycle: 1766
+[Aug 22, 2014 2:24:45 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 781 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 2:24:45 PM] Extreme game cycle: 788
+[Aug 22, 2014 2:26:25 PM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 808 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 2:26:25 PM] Extreme game cycle: 826
+[Aug 22, 2014 2:27:44 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 102,921 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+[Aug 22, 2014 2:27:44 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 2:27:44 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 2:27:44 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2568)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1557)
+[Aug 22, 2014 2:27:44 PM] 	at novite.rs.api.database.ForumIntegration.correctCredentials(ForumIntegration.java:117)
+[Aug 22, 2014 2:27:44 PM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decodeWorldLogin(LoginPacketsDecoder.java:147)
+[Aug 22, 2014 2:27:44 PM] 	at novite.rs.networking.protocol.login.LoginPacketsDecoder.decode(LoginPacketsDecoder.java:36)
+[Aug 22, 2014 2:27:44 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 2:27:44 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 2:27:44 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 2:27:44 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 2:27:44 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 2:27:44 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 2:27:44 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 2:27:44 PM] 	... 25 more
+[Aug 22, 2014 2:29:26 PM] 
+Took 0 ms to process tasks
+Took 799 ms to process players
+Took 17 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 2:29:26 PM] Extreme game cycle: 822
+[Aug 22, 2014 2:30:03 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 1139 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 2:30:03 PM] Extreme game cycle: 1150
+[Aug 22, 2014 2:32:20 PM] 
+Took 0 ms to process tasks
+Took 8 ms to process players
+Took 15 ms to process npcs
+Took 819 ms to send local updating
+
+[Aug 22, 2014 2:32:20 PM] Extreme game cycle: 843
+[Aug 22, 2014 2:35:02 PM] 
+Took 0 ms to process tasks
+Took 1713 ms to process players
+Took 12 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 2:35:02 PM] Extreme game cycle: 1736
+[Aug 22, 2014 2:50:42 PM] 
+Took 0 ms to process tasks
+Took 2547 ms to process players
+Took 19 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 22, 2014 2:50:42 PM] Extreme game cycle: 2579
+[Aug 22, 2014 2:55:53 PM] 
+Took 1 ms to process tasks
+Took 2801 ms to process players
+Took 13 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 2:55:53 PM] Extreme game cycle: 2827
+[Aug 22, 2014 2:56:25 PM] [SEVERE] No grand exchange item found for id: 1042
+[Aug 22, 2014 3:03:57 PM] 
+Took 0 ms to process tasks
+Took 765 ms to process players
+Took 43 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 3:03:57 PM] Extreme game cycle: 815
+[Aug 22, 2014 3:09:29 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 937 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 3:09:29 PM] Extreme game cycle: 945
+[Aug 22, 2014 3:13:15 PM] 
+Took 0 ms to process tasks
+Took 743 ms to process players
+Took 25 ms to process npcs
+Took 24 ms to send local updating
+
+[Aug 22, 2014 3:13:15 PM] Extreme game cycle: 793
+[Aug 22, 2014 3:15:50 PM] 
+Took 12 ms to process tasks
+Took 3 ms to process players
+Took 889 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 3:15:50 PM] Extreme game cycle: 913
+[Aug 22, 2014 3:22:02 PM] 
+Took 0 ms to process tasks
+Took 1219 ms to process players
+Took 13 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 3:22:02 PM] Extreme game cycle: 1239
+[Aug 22, 2014 3:22:05 PM] Uptime: 00:14:31:16. Ticks: 27
+Cores: 4. Memory Usage: 586.7 MB. Free Memory: 12,155,688. Maximum Memory: 1,056,440,320. Total Available: 586,678,272
+[Aug 22, 2014 3:23:37 PM] 
+Took 1 ms to process tasks
+Took 1038 ms to process players
+Took 22 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 3:23:37 PM] Extreme game cycle: 1073
+[Aug 22, 2014 3:30:13 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 49 ms to process npcs
+Took 164 ms to send local updating
+
+[Aug 22, 2014 3:30:13 PM] Extreme game cycle: 217
+[Aug 22, 2014 3:30:48 PM] 
+Took 0 ms to process tasks
+Took 31 ms to process players
+Took 32 ms to process npcs
+Took 222 ms to send local updating
+
+[Aug 22, 2014 3:30:48 PM] Extreme game cycle: 288
+[Aug 22, 2014 3:30:49 PM] 
+Took 0 ms to process tasks
+Took 28 ms to process players
+Took 426 ms to process npcs
+Took 138 ms to send local updating
+
+[Aug 22, 2014 3:30:49 PM] Extreme game cycle: 594
+[Aug 22, 2014 3:30:49 PM] 
+Took 0 ms to process tasks
+Took 221 ms to process players
+Took 20 ms to process npcs
+Took 23 ms to send local updating
+
+[Aug 22, 2014 3:30:49 PM] Extreme game cycle: 265
+[Aug 22, 2014 3:30:50 PM] 
+Took 3 ms to process tasks
+Took 4 ms to process players
+Took 303 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 3:30:50 PM] Extreme game cycle: 317
+[Aug 22, 2014 3:30:51 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 499 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 3:30:51 PM] Extreme game cycle: 509
+[Aug 22, 2014 3:30:52 PM] 
+Took 1 ms to process tasks
+Took 5 ms to process players
+Took 103 ms to process npcs
+Took 290 ms to send local updating
+
+[Aug 22, 2014 3:30:52 PM] Extreme game cycle: 401
+[Aug 22, 2014 3:30:53 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 794 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 3:30:53 PM] Extreme game cycle: 803
+[Aug 22, 2014 3:30:54 PM] 
+Took 3 ms to process tasks
+Took 2 ms to process players
+Took 26 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 22, 2014 3:30:54 PM] Extreme game cycle: 327
+[Aug 22, 2014 3:30:57 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 922 ms to process npcs
+Took 593 ms to send local updating
+
+[Aug 22, 2014 3:30:57 PM] Extreme game cycle: 1520
+[Aug 22, 2014 3:30:57 PM] 
+Took 1 ms to process tasks
+Took 331 ms to process players
+Took 20 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 3:30:57 PM] Extreme game cycle: 358
+[Aug 22, 2014 3:30:59 PM] 
+Took 436 ms to process tasks
+Took 342 ms to process players
+Took 566 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 3:30:59 PM] Extreme game cycle: 1354
+[Aug 22, 2014 3:31:04 PM] 
+Took 491 ms to process tasks
+Took 8 ms to process players
+Took 2213 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 3:31:04 PM] Extreme game cycle: 2722
+[Aug 22, 2014 3:31:08 PM] 
+Took 3 ms to process tasks
+Took 146 ms to process players
+Took 44 ms to process npcs
+Took 30 ms to send local updating
+
+[Aug 22, 2014 3:31:08 PM] Extreme game cycle: 279
+[Aug 22, 2014 3:31:11 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 2547 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 3:31:11 PM] Extreme game cycle: 2558
+[Aug 22, 2014 3:31:13 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 292 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 3:31:13 PM] Extreme game cycle: 310
+[Aug 22, 2014 3:31:15 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 61 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 3:31:15 PM] Extreme game cycle: 275
+[Aug 22, 2014 3:31:17 PM] 
+Took 148 ms to process tasks
+Took 5 ms to process players
+Took 34 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 22, 2014 3:31:17 PM] Extreme game cycle: 257
+[Aug 22, 2014 3:31:19 PM] 
+Took 117 ms to process tasks
+Took 10 ms to process players
+Took 245 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 22, 2014 3:31:19 PM] Extreme game cycle: 403
+[Aug 22, 2014 3:31:20 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 107 ms to process npcs
+Took 100 ms to send local updating
+
+[Aug 22, 2014 3:31:20 PM] Extreme game cycle: 548
+[Aug 22, 2014 3:31:21 PM] 
+Took 0 ms to process tasks
+Took 168 ms to process players
+Took 119 ms to process npcs
+Took 103 ms to send local updating
+
+[Aug 22, 2014 3:31:21 PM] Extreme game cycle: 391
+[Aug 22, 2014 3:31:24 PM] 
+Took 4 ms to process tasks
+Took 133 ms to process players
+Took 107 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 22, 2014 3:31:24 PM] Extreme game cycle: 281
+[Aug 22, 2014 3:39:03 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 799 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 3:39:03 PM] Extreme game cycle: 811
+[Aug 22, 2014 3:46:18 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 775 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 3:46:18 PM] Extreme game cycle: 788
+[Aug 22, 2014 3:47:08 PM] java.lang.ArrayIndexOutOfBoundsException: -493
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.game.route.WalkRouteFinder.performCalculationS1(WalkRouteFinder.java:255)
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:76)
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.networking.packet.impl.WalkingPacketHandler.handle(WalkingPacketHandler.java:40)
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 3:47:08 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 3:47:08 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 3:47:08 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 3:47:08 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 3:47:08 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 3:51:10 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 802 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 22, 2014 3:51:10 PM] Extreme game cycle: 821
+[Aug 22, 2014 3:56:04 PM] 
+Took 0 ms to process tasks
+Took 776 ms to process players
+Took 15 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 3:56:04 PM] Extreme game cycle: 801
+[Aug 22, 2014 4:03:15 PM] 
+Took 1 ms to process tasks
+Took 16 ms to process players
+Took 22 ms to process npcs
+Took 25 ms to send local updating
+
+[Aug 22, 2014 4:03:15 PM] Extreme game cycle: 1069
+[Aug 22, 2014 4:06:54 PM] 
+Took 0 ms to process tasks
+Took 1272 ms to process players
+Took 23 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 4:06:54 PM] Extreme game cycle: 1302
+[Aug 22, 2014 4:07:43 PM] 
+Took 16 ms to process tasks
+Took 3041 ms to process players
+Took 11 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:07:43 PM] Extreme game cycle: 3074
+[Aug 22, 2014 4:09:38 PM] 
+Took 371 ms to process tasks
+Took 3 ms to process players
+Took 13 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:09:38 PM] Extreme game cycle: 393
+[Aug 22, 2014 4:12:42 PM] [SEVERE] No grand exchange item found for id: 11732
+[Aug 22, 2014 4:12:44 PM] 
+Took 0 ms to process tasks
+Took 14 ms to process players
+Took 814 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:12:44 PM] Extreme game cycle: 842
+[Aug 22, 2014 4:12:49 PM] [SEVERE] No grand exchange item found for id: 11724
+[Aug 22, 2014 4:12:49 PM] [SEVERE] No grand exchange item found for id: 11726
+[Aug 22, 2014 4:12:49 PM] [SEVERE] No grand exchange item found for id: 2572
+[Aug 22, 2014 4:12:49 PM] [SEVERE] No grand exchange item found for id: 4151
+[Aug 22, 2014 4:13:08 PM] 
+Took 0 ms to process tasks
+Took 769 ms to process players
+Took 12 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 4:13:08 PM] Extreme game cycle: 790
+[Aug 22, 2014 4:20:37 PM] 
+Took 1 ms to process tasks
+Took 1035 ms to process players
+Took 12 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 4:20:37 PM] Extreme game cycle: 1055
+[Aug 22, 2014 4:21:09 PM] 
+Took 735 ms to process tasks
+Took 3 ms to process players
+Took 20 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 22, 2014 4:21:09 PM] Extreme game cycle: 776
+[Aug 22, 2014 4:32:47 PM] 
+Took 0 ms to process tasks
+Took 10 ms to process players
+Took 762 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 4:32:47 PM] Extreme game cycle: 783
+[Aug 22, 2014 4:36:33 PM] 
+Took 2 ms to process tasks
+Took 4 ms to process players
+Took 722 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:36:33 PM] Extreme game cycle: 734
+[Aug 22, 2014 4:39:21 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 1572 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 4:39:21 PM] Extreme game cycle: 1581
+[Aug 22, 2014 4:40:43 PM] 
+Took 2 ms to process tasks
+Took 984 ms to process players
+Took 25 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:40:43 PM] Extreme game cycle: 1018
+[Aug 22, 2014 4:42:10 PM] 
+Took 1 ms to process tasks
+Took 2385 ms to process players
+Took 12 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 4:42:10 PM] Extreme game cycle: 2404
+[Aug 22, 2014 4:43:18 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 4:49:22 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 4:50:05 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 252 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 4:50:05 PM] Extreme game cycle: 343
+[Aug 22, 2014 4:50:05 PM] 
+Took 0 ms to process tasks
+Took 14 ms to process players
+Took 174 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 4:50:05 PM] Extreme game cycle: 203
+[Aug 22, 2014 4:50:06 PM] 
+Took 1 ms to process tasks
+Took 131 ms to process players
+Took 316 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 4:50:06 PM] Extreme game cycle: 459
+[Aug 22, 2014 4:50:46 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 12 ms to process npcs
+Took 815 ms to send local updating
+
+[Aug 22, 2014 4:50:46 PM] Extreme game cycle: 831
+[Aug 22, 2014 4:51:21 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 145,241 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+[Aug 22, 2014 4:51:21 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 4:51:21 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 4:51:21 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1749)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1666)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.api.database.mysql.impl.Highscores.saveNewHighscores(Highscores.java:37)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.realFinish(Player.java:943)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.finish(Player.java:908)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.ServerChannelHandler.channelDisconnected(ServerChannelHandler.java:55)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireChannelDisconnected(Channels.java:399)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:721)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioServerSocketPipelineSink.handleAcceptedSocket(NioServerSocketPipelineSink.java:111)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioServerSocketPipelineSink.eventSunk(NioServerSocketPipelineSink.java:66)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendDownstream(DefaultChannelPipeline.java:568)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.close(Channels.java:820)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.AbstractChannel.close(AbstractChannel.java:197)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.ChannelFutureListener$1.operationComplete(ChannelFutureListener.java:41)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelFuture.notifyListener(DefaultChannelFuture.java:428)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelFuture.addListener(DefaultChannelFuture.java:145)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.protocol.game.DefaultGameEncoder.sendLogout(DefaultGameEncoder.java:1053)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.logout(Player.java:876)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:321)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:51:21 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:51:21 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 4:51:21 PM] 	... 44 more
+[Aug 22, 2014 4:51:21 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 145,135 milliseconds ago.  The last packet sent successfully to the server was 1 milliseconds ago.
+[Aug 22, 2014 4:51:21 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 4:51:21 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 4:51:21 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2568)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1557)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.getForumTable(Player.java:740)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.canSetEmail(Player.java:3209)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.requiresEmailSet(Player.java:3233)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:179)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:51:21 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:51:21 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 4:51:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 4:51:21 PM] 	... 26 more
+[Aug 22, 2014 4:51:21 PM] java.lang.ClassCastException: java.lang.Integer cannot be cast to java.lang.String
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.canSetEmail(Player.java:3209)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.game.player.Player.requiresEmailSet(Player.java:3233)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:179)
+[Aug 22, 2014 4:51:21 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 4:51:21 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 4:51:21 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 4:51:21 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 4:52:18 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 878 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 22, 2014 4:52:18 PM] Extreme game cycle: 893
+[Aug 22, 2014 4:53:20 PM] 
+Took 0 ms to process tasks
+Took 12 ms to process players
+Took 1047 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 4:53:20 PM] Extreme game cycle: 1072
+[Aug 22, 2014 5:05:18 PM] 
+Took 0 ms to process tasks
+Took 317 ms to process players
+Took 12 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 5:05:18 PM] Extreme game cycle: 339
+[Aug 22, 2014 5:06:14 PM] [SEVERE] No grand exchange item found for id: 6585
+[Aug 22, 2014 5:06:14 PM] [SEVERE] No grand exchange item found for id: 11724
+[Aug 22, 2014 5:06:14 PM] [SEVERE] No grand exchange item found for id: 2583
+[Aug 22, 2014 5:06:15 PM] [SEVERE] No grand exchange item found for id: 6585
+[Aug 22, 2014 5:06:15 PM] [SEVERE] No grand exchange item found for id: 11724
+[Aug 22, 2014 5:06:15 PM] [SEVERE] No grand exchange item found for id: 2583
+[Aug 22, 2014 5:06:15 PM] [SEVERE] No grand exchange item found for id: 2587
+[Aug 22, 2014 5:11:37 PM] [SEVERE] No grand exchange item found for id: 3486
+[Aug 22, 2014 5:11:37 PM] [SEVERE] No grand exchange item found for id: 995
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 3486
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 995
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 7362
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 3486
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 3486
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 995
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 7362
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 2593
+[Aug 22, 2014 5:11:38 PM] [SEVERE] No grand exchange item found for id: 7334
+[Aug 22, 2014 5:12:13 PM] 
+Took 1 ms to process tasks
+Took 1682 ms to process players
+Took 12 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 5:12:13 PM] Extreme game cycle: 1701
+[Aug 22, 2014 5:15:48 PM] 
+Took 0 ms to process tasks
+Took 1072 ms to process players
+Took 13 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 5:15:48 PM] Extreme game cycle: 1094
+[Aug 22, 2014 5:16:16 PM] 
+Took 0 ms to process tasks
+Took 10 ms to process players
+Took 942 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 5:16:16 PM] Extreme game cycle: 970
+[Aug 22, 2014 5:19:19 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 981 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 5:19:19 PM] Extreme game cycle: 989
+[Aug 22, 2014 5:19:54 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 12 ms to process npcs
+Took 969 ms to send local updating
+
+[Aug 22, 2014 5:19:54 PM] Extreme game cycle: 984
+[Aug 22, 2014 5:25:21 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 157,108 milliseconds ago.  The last packet sent successfully to the server was 1 milliseconds ago.
+[Aug 22, 2014 5:25:21 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 5:25:21 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 5:25:21 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1749)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1666)
+[Aug 22, 2014 5:25:21 PM] 	at novite.rs.api.database.mysql.impl.Highscores.saveNewHighscores(Highscores.java:37)
+[Aug 22, 2014 5:25:21 PM] 	at novite.rs.game.player.Player.realFinish(Player.java:943)
+[Aug 22, 2014 5:25:21 PM] 	at novite.rs.game.player.Player.finish(Player.java:908)
+[Aug 22, 2014 5:25:21 PM] 	at novite.rs.networking.ServerChannelHandler.channelDisconnected(ServerChannelHandler.java:55)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.Channels.fireChannelDisconnected(Channels.java:399)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.Channels$4.run(Channels.java:389)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.socket.ChannelRunnableWrapper.run(ChannelRunnableWrapper.java:41)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processEventQueue(AbstractNioWorker.java:453)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:330)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 5:25:21 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 5:25:21 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 5:25:21 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 5:25:21 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 5:25:21 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 5:25:21 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 5:25:21 PM] 	... 25 more
+[Aug 22, 2014 5:35:50 PM] 
+Took 0 ms to process tasks
+Took 1426 ms to process players
+Took 33 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 22, 2014 5:35:50 PM] Extreme game cycle: 1484
+[Aug 22, 2014 5:36:36 PM] 
+Took 0 ms to process tasks
+Took 251 ms to process players
+Took 12 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 5:36:36 PM] Extreme game cycle: 272
+[Aug 22, 2014 5:37:15 PM] 
+Took 2 ms to process tasks
+Took 823 ms to process players
+Took 27 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 5:37:15 PM] Extreme game cycle: 864
+[Aug 22, 2014 5:39:50 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 792 ms to process npcs
+Took 44 ms to send local updating
+
+[Aug 22, 2014 5:39:50 PM] Extreme game cycle: 839
+[Aug 22, 2014 5:42:31 PM] 
+Took 1 ms to process tasks
+Took 626 ms to process players
+Took 18 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 5:42:31 PM] Extreme game cycle: 656
+[Aug 22, 2014 5:42:46 PM] 
+Took 0 ms to process tasks
+Took 805 ms to process players
+Took 15 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 5:42:46 PM] Extreme game cycle: 827
+[Aug 22, 2014 5:48:54 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 5:49:03 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 53 ms to process npcs
+Took 822 ms to send local updating
+
+[Aug 22, 2014 5:49:03 PM] Extreme game cycle: 878
+[Aug 22, 2014 5:50:34 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 892 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 5:50:34 PM] Extreme game cycle: 901
+[Aug 22, 2014 5:55:01 PM] 
+Took 1 ms to process tasks
+Took 1065 ms to process players
+Took 28 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 5:55:01 PM] Extreme game cycle: 1104
+[Aug 22, 2014 5:55:09 PM] 
+Took 4 ms to process tasks
+Took 146 ms to process players
+Took 167 ms to process npcs
+Took 23 ms to send local updating
+
+[Aug 22, 2014 5:55:09 PM] Extreme game cycle: 352
+[Aug 22, 2014 5:59:28 PM] 
+Took 1 ms to process tasks
+Took 4 ms to process players
+Took 1031 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 5:59:28 PM] Extreme game cycle: 1044
+[Aug 22, 2014 6:01:16 PM] 
+Took 0 ms to process tasks
+Took 2995 ms to process players
+Took 14 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:01:16 PM] Extreme game cycle: 3016
+[Aug 22, 2014 6:05:32 PM] 
+Took 1 ms to process tasks
+Took 1836 ms to process players
+Took 14 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 6:05:32 PM] Extreme game cycle: 1860
+[Aug 22, 2014 6:06:54 PM] 
+Took 1 ms to process tasks
+Took 290 ms to process players
+Took 23 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 22, 2014 6:06:54 PM] Extreme game cycle: 325
+[Aug 22, 2014 6:07:22 PM] 
+Took 0 ms to process tasks
+Took 24 ms to process players
+Took 176 ms to process npcs
+Took 42 ms to send local updating
+
+[Aug 22, 2014 6:07:22 PM] Extreme game cycle: 243
+[Aug 22, 2014 6:07:34 PM] 
+Took 0 ms to process tasks
+Took 3033 ms to process players
+Took 11 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:07:34 PM] Extreme game cycle: 3051
+[Aug 22, 2014 6:08:43 PM] 
+Took 366 ms to process tasks
+Took 18 ms to process players
+Took 25 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:08:43 PM] Extreme game cycle: 416
+[Aug 22, 2014 6:15:43 PM] 
+Took 305 ms to process tasks
+Took 6 ms to process players
+Took 24 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 6:15:43 PM] Extreme game cycle: 343
+[Aug 22, 2014 6:16:19 PM] 
+Took 0 ms to process tasks
+Took 216 ms to process players
+Took 12 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:16:19 PM] Extreme game cycle: 235
+[Aug 22, 2014 6:18:41 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 852 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 6:18:41 PM] Extreme game cycle: 869
+[Aug 22, 2014 6:26:54 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 856 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:26:54 PM] Extreme game cycle: 866
+[Aug 22, 2014 6:31:54 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 927 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 6:31:54 PM] Extreme game cycle: 936
+[Aug 22, 2014 6:35:22 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 6:38:04 PM] 
+Took 0 ms to process tasks
+Took 902 ms to process players
+Took 14 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:38:04 PM] Extreme game cycle: 923
+[Aug 22, 2014 6:40:44 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 798 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 6:40:44 PM] Extreme game cycle: 808
+[Aug 22, 2014 6:41:38 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 6:42:33 PM] 
+Took 1 ms to process tasks
+Took 4 ms to process players
+Took 1591 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 6:42:33 PM] Extreme game cycle: 1602
+[Aug 22, 2014 6:46:05 PM] 
+Took 2 ms to process tasks
+Took 4 ms to process players
+Took 868 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 6:46:05 PM] Extreme game cycle: 881
+[Aug 22, 2014 6:46:37 PM] 
+Took 0 ms to process tasks
+Took 10 ms to process players
+Took 28 ms to process npcs
+Took 815 ms to send local updating
+
+[Aug 22, 2014 6:46:37 PM] Extreme game cycle: 855
+[Aug 22, 2014 6:47:41 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 876 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 6:47:41 PM] Extreme game cycle: 898
+[Aug 22, 2014 7:00:04 PM] 
+Took 1 ms to process tasks
+Took 10 ms to process players
+Took 197 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 7:00:04 PM] Extreme game cycle: 217
+[Aug 22, 2014 7:01:25 PM] 
+Took 0 ms to process tasks
+Took 23 ms to process players
+Took 833 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 22, 2014 7:01:25 PM] Extreme game cycle: 873
+[Aug 22, 2014 7:02:46 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 825 ms to process npcs
+Took 25 ms to send local updating
+
+[Aug 22, 2014 7:02:46 PM] Extreme game cycle: 853
+[Aug 22, 2014 7:06:53 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 972 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 7:06:53 PM] Extreme game cycle: 982
+[Aug 22, 2014 7:09:07 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 894 ms to process npcs
+Took 20 ms to send local updating
+
+[Aug 22, 2014 7:09:07 PM] Extreme game cycle: 919
+[Aug 22, 2014 7:29:31 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 83 ms to process npcs
+Took 878 ms to send local updating
+
+[Aug 22, 2014 7:29:31 PM] Extreme game cycle: 964
+[Aug 22, 2014 7:29:49 PM] 
+Took 0 ms to process tasks
+Took 851 ms to process players
+Took 30 ms to process npcs
+Took 24 ms to send local updating
+
+[Aug 22, 2014 7:29:49 PM] Extreme game cycle: 906
+[Aug 22, 2014 7:37:38 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 898 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 7:37:38 PM] Extreme game cycle: 906
+[Aug 22, 2014 7:44:51 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 887 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 7:44:51 PM] Extreme game cycle: 899
+[Aug 22, 2014 7:47:30 PM] 
+Took 0 ms to process tasks
+Took 839 ms to process players
+Took 13 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 7:47:30 PM] Extreme game cycle: 859
+[Aug 22, 2014 7:56:39 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 3091 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 7:56:39 PM] Extreme game cycle: 3100
+[Aug 22, 2014 7:56:46 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 12 ms to process npcs
+Took 187 ms to send local updating
+
+[Aug 22, 2014 7:56:46 PM] Extreme game cycle: 203
+[Aug 22, 2014 8:01:19 PM] 
+Took 0 ms to process tasks
+Took 799 ms to process players
+Took 24 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:01:19 PM] Extreme game cycle: 831
+[Aug 22, 2014 8:08:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.Archive.decompress(Archive.java:97)
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.Archive.<init>(Archive.java:24)
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:36)
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Aug 22, 2014 8:08:45 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Aug 22, 2014 8:08:45 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Aug 22, 2014 8:08:45 PM] 	at novite.rs.game.Region$1.run(Region.java:60)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 8:08:45 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 8:08:45 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 8:08:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.Archive.decompress(Archive.java:97)
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.Archive.<init>(Archive.java:24)
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:36)
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Aug 22, 2014 8:08:47 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Aug 22, 2014 8:08:47 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Aug 22, 2014 8:08:47 PM] 	at novite.rs.game.Region$1.run(Region.java:60)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 8:08:47 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 8:08:47 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 8:08:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.Archive.decompress(Archive.java:97)
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.Archive.<init>(Archive.java:24)
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:36)
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Aug 22, 2014 8:08:50 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Aug 22, 2014 8:08:50 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Aug 22, 2014 8:08:50 PM] 	at novite.rs.game.Region$1.run(Region.java:60)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 8:08:50 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 8:08:50 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 8:08:53 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.Archive.decompress(Archive.java:97)
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.Archive.<init>(Archive.java:24)
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:36)
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Aug 22, 2014 8:08:53 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Aug 22, 2014 8:08:53 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Aug 22, 2014 8:08:53 PM] 	at novite.rs.game.Region$1.run(Region.java:60)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 8:08:53 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 8:08:53 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 8:08:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:08:58 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:00 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 12506 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 8:09:00 PM] Extreme game cycle: 12518
+[Aug 22, 2014 8:09:00 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:07 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:11 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:14 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:17 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:19 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:19 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 16687 ms to process npcs
+Took 2771 ms to send local updating
+
+[Aug 22, 2014 8:09:19 PM] Extreme game cycle: 19461
+[Aug 22, 2014 8:09:22 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:25 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:26 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:29 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:35 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:37 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 17739 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 8:09:40 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:41 PM] Extreme game cycle: 17748
+[Aug 22, 2014 8:09:41 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:44 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:53 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:59 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:09:59 PM] 
+Took 0 ms to process tasks
+Took 5456 ms to process players
+Took 11838 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:09:59 PM] Extreme game cycle: 17299
+[Aug 22, 2014 8:10:01 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:07 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:09 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:14 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:14 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 15255 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:10:16 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:16 PM] Extreme game cycle: 15262
+[Aug 22, 2014 8:10:18 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:20 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:21 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:23 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:25 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:25 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 7082 ms to process npcs
+Took 1714 ms to send local updating
+
+[Aug 22, 2014 8:10:25 PM] Extreme game cycle: 8799
+[Aug 22, 2014 8:10:26 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:26 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1794 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:10:26 PM] Extreme game cycle: 1800
+[Aug 22, 2014 8:10:28 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:30 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:34 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:35 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:39 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:41 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:43 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:43 PM] 
+Took 5236 ms to process tasks
+Took 3 ms to process players
+Took 5408 ms to process npcs
+Took 3666 ms to send local updating
+
+[Aug 22, 2014 8:10:43 PM] Extreme game cycle: 14315
+[Aug 22, 2014 8:10:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:52 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:54 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:56 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 13416 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 8:10:59 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:01 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:10:56 PM] Extreme game cycle: 13425
+[Aug 22, 2014 8:11:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:06 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:06 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1872 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:11:06 PM] Extreme game cycle: 1877
+[Aug 22, 2014 8:11:08 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:10 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1834 ms to process npcs
+Took 1975 ms to send local updating
+
+[Aug 22, 2014 8:11:10 PM] Extreme game cycle: 3813
+[Aug 22, 2014 8:11:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:15 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:17 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:19 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:22 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:24 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:26 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:29 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:32 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 13733 ms to process npcs
+Took 8078 ms to send local updating
+
+[Aug 22, 2014 8:11:32 PM] Extreme game cycle: 21816
+[Aug 22, 2014 8:11:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:35 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:40 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:42 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:42 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 7710 ms to process npcs
+Took 2589 ms to send local updating
+
+[Aug 22, 2014 8:11:42 PM] Extreme game cycle: 10303
+[Aug 22, 2014 8:11:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:48 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:50 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 7932 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 22, 2014 8:11:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:54 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:11:54 PM] Extreme game cycle: 7954
+[Aug 22, 2014 8:11:58 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:01 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:04 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:04 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 9928 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:12:04 PM] Extreme game cycle: 9938
+[Aug 22, 2014 8:12:06 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:08 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:13 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:13 PM] 
+Took 0 ms to process tasks
+Took 2015 ms to process players
+Took 1962 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 8:12:13 PM] Extreme game cycle: 9812
+[Aug 22, 2014 8:12:15 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:18 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:20 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:22 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:24 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:26 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:28 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:30 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:30 PM] 
+Took 1 ms to process tasks
+Took 4090 ms to process players
+Took 2179 ms to process npcs
+Took 2062 ms to send local updating
+
+[Aug 22, 2014 8:12:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:34 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:34 PM] Extreme game cycle: 16416
+[Aug 22, 2014 8:12:36 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:39 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:39 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 3871 ms to process npcs
+Took 1811 ms to send local updating
+
+[Aug 22, 2014 8:12:39 PM] Extreme game cycle: 5684
+[Aug 22, 2014 8:12:41 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:43 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:50 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 11220 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:12:50 PM] Extreme game cycle: 11225
+[Aug 22, 2014 8:12:52 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:54 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:54 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1787 ms to process npcs
+Took 1904 ms to send local updating
+
+[Aug 22, 2014 8:12:54 PM] Extreme game cycle: 3694
+[Aug 22, 2014 8:12:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:12:56 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1868 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:12:56 PM] Extreme game cycle: 1874
+[Aug 22, 2014 8:12:58 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:00 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:02 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:07 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:08 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:13 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:15 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:17 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 12369 ms to process npcs
+Took 6775 ms to send local updating
+
+[Aug 22, 2014 8:13:17 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:17 PM] Extreme game cycle: 19146
+[Aug 22, 2014 8:13:19 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:21 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:23 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:25 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:26 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:28 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:30 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:34 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:36 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:38 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:40 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:40 PM] 
+Took 0 ms to process tasks
+Took 1697 ms to process players
+Took 17060 ms to process npcs
+Took 3902 ms to send local updating
+
+[Aug 22, 2014 8:13:40 PM] Extreme game cycle: 22660
+[Aug 22, 2014 8:13:42 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:44 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:46 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 6026 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 8:13:46 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:47 PM] Extreme game cycle: 6035
+[Aug 22, 2014 8:13:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:49 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 1921 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 22, 2014 8:13:51 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:53 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:55 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:57 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:13:59 PM] Extreme game cycle: 1925
+[Aug 22, 2014 8:13:59 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:01 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:07 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:08 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:08 PM] 
+Took 0 ms to process tasks
+Took 0 ms to process players
+Took 7736 ms to process npcs
+Took 1859 ms to send local updating
+
+[Aug 22, 2014 8:14:08 PM] Extreme game cycle: 9596
+[Aug 22, 2014 8:14:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:14 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 5345 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:14:14 PM] Extreme game cycle: 5350
+[Aug 22, 2014 8:14:14 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:16 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:18 PM] java.lang.OutOfMemoryError: Java heap space
+[Aug 22, 2014 8:14:18 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 3863 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:14:18 PM] Extreme game cycle: 3869
+[Aug 22, 2014 8:22:41 PM] 
+Took 0 ms to process tasks
+Took 494 ms to process players
+Took 16 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:22:41 PM] Extreme game cycle: 514
+[Aug 22, 2014 8:23:39 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 973 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 22, 2014 8:23:39 PM] Extreme game cycle: 988
+[Aug 22, 2014 8:34:10 PM] 
+Took 0 ms to process tasks
+Took 1049 ms to process players
+Took 21 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 8:34:10 PM] Extreme game cycle: 1075
+[Aug 22, 2014 8:46:11 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 24 ms to process npcs
+Took 785 ms to send local updating
+
+[Aug 22, 2014 8:46:11 PM] Extreme game cycle: 823
+[Aug 22, 2014 8:50:59 PM] [SEVERE] No grand exchange item found for id: 12159
+[Aug 22, 2014 8:50:59 PM] [SEVERE] No grand exchange item found for id: 12159
+[Aug 22, 2014 8:50:59 PM] [SEVERE] No grand exchange item found for id: 12160
+[Aug 22, 2014 8:51:00 PM] [SEVERE] No grand exchange item found for id: 12159
+[Aug 22, 2014 8:51:00 PM] [SEVERE] No grand exchange item found for id: 12160
+[Aug 22, 2014 8:51:00 PM] [SEVERE] No grand exchange item found for id: 12158
+[Aug 22, 2014 9:00:31 PM] 
+Took 0 ms to process tasks
+Took 1625 ms to process players
+Took 13 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:00:31 PM] Extreme game cycle: 1644
+[Aug 22, 2014 9:04:09 PM] 
+Took 1 ms to process tasks
+Took 178 ms to process players
+Took 32 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:04:09 PM] Extreme game cycle: 217
+[Aug 22, 2014 9:08:34 PM] 
+Took 1101 ms to process tasks
+Took 16 ms to process players
+Took 29 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:08:34 PM] Extreme game cycle: 1152
+[Aug 22, 2014 9:14:50 PM] 
+Took 1 ms to process tasks
+Took 11 ms to process players
+Took 835 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 9:14:50 PM] Extreme game cycle: 859
+[Aug 22, 2014 9:17:26 PM] 
+Took 1 ms to process tasks
+Took 1636 ms to process players
+Took 12 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 9:17:26 PM] Extreme game cycle: 1654
+[Aug 22, 2014 9:19:58 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 45 ms to process npcs
+Took 991 ms to send local updating
+
+[Aug 22, 2014 9:19:58 PM] Extreme game cycle: 1041
+[Aug 22, 2014 9:27:22 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 823 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:27:22 PM] Extreme game cycle: 833
+[Aug 22, 2014 9:32:56 PM] 
+Took 0 ms to process tasks
+Took 1107 ms to process players
+Took 22 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:32:56 PM] Extreme game cycle: 1135
+[Aug 22, 2014 9:36:40 PM] 
+Took 0 ms to process tasks
+Took 2111 ms to process players
+Took 12 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 9:36:40 PM] Extreme game cycle: 2128
+[Aug 22, 2014 9:37:08 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 873 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 9:37:08 PM] Extreme game cycle: 901
+[Aug 22, 2014 9:37:10 PM] 
+Took 1 ms to process tasks
+Took 1622 ms to process players
+Took 12 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 9:37:10 PM] Extreme game cycle: 1640
+[Aug 22, 2014 9:37:46 PM] 
+Took 1 ms to process tasks
+Took 742 ms to process players
+Took 13 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 9:37:46 PM] Extreme game cycle: 766
+[Aug 22, 2014 9:56:30 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1014 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:56:30 PM] Extreme game cycle: 1022
+[Aug 22, 2014 9:57:39 PM] 
+Took 1 ms to process tasks
+Took 9 ms to process players
+Took 982 ms to process npcs
+Took 17 ms to send local updating
+
+[Aug 22, 2014 9:57:39 PM] Extreme game cycle: 1017
+[Aug 22, 2014 9:58:01 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 842 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:58:01 PM] Extreme game cycle: 850
+[Aug 22, 2014 9:58:22 PM] 
+Took 0 ms to process tasks
+Took 447 ms to process players
+Took 24 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 9:58:22 PM] Extreme game cycle: 477
+[Aug 22, 2014 10:00:05 PM] 
+Took 1 ms to process tasks
+Took 714 ms to process players
+Took 12 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 10:00:05 PM] Extreme game cycle: 731
+[Aug 22, 2014 10:01:08 PM] java.lang.NullPointerException
+[Aug 22, 2014 10:01:08 PM] 	at novite.rs.api.event.listeners.interfaces.GrandExchangeListener$3.handle(GrandExchangeListener.java:177)
+[Aug 22, 2014 10:01:08 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handleIntegerInput(InputPacketHandler.java:49)
+[Aug 22, 2014 10:01:08 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handle(InputPacketHandler.java:26)
+[Aug 22, 2014 10:01:08 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:192)
+[Aug 22, 2014 10:01:08 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:79)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:01:08 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:01:08 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:01:08 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:01:08 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:03:38 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 922 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:03:38 PM] Extreme game cycle: 931
+[Aug 22, 2014 10:03:51 PM] 
+Took 315 ms to process tasks
+Took 7 ms to process players
+Took 17 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:03:51 PM] Extreme game cycle: 346
+[Aug 22, 2014 10:04:11 PM] 
+Took 0 ms to process tasks
+Took 810 ms to process players
+Took 13 ms to process npcs
+Took 21 ms to send local updating
+
+[Aug 22, 2014 10:04:11 PM] Extreme game cycle: 845
+[Aug 22, 2014 10:18:07 PM] 
+Took 1 ms to process tasks
+Took 5 ms to process players
+Took 1237 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:18:07 PM] Extreme game cycle: 1249
+[Aug 22, 2014 10:18:45 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 74 ms to process npcs
+Took 891 ms to send local updating
+
+[Aug 22, 2014 10:18:45 PM] Extreme game cycle: 969
+[Aug 22, 2014 10:21:09 PM] com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 114,662 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+[Aug 22, 2014 10:21:09 PM] 	at sun.reflect.GeneratedConstructorAccessor23.newInstance(Unknown Source)
+[Aug 22, 2014 10:21:09 PM] 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[Aug 22, 2014 10:21:09 PM] 	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3102)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2991)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3532)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2002)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2163)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2618)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1749)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.StatementImpl.executeUpdate(StatementImpl.java:1666)
+[Aug 22, 2014 10:21:09 PM] 	at novite.rs.api.database.mysql.impl.Highscores.saveNewHighscores(Highscores.java:37)
+[Aug 22, 2014 10:21:09 PM] 	at novite.rs.game.player.Player.realFinish(Player.java:943)
+[Aug 22, 2014 10:21:09 PM] 	at novite.rs.game.player.Player.finish(Player.java:908)
+[Aug 22, 2014 10:21:09 PM] 	at novite.rs.networking.ServerChannelHandler.channelDisconnected(ServerChannelHandler.java:55)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:102)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.Channels.fireChannelDisconnected(Channels.java:399)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.close(AbstractNioWorker.java:721)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:89)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 22, 2014 10:21:09 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 22, 2014 10:21:09 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 10:21:09 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 10:21:09 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 10:21:09 PM] Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:2552)
+[Aug 22, 2014 10:21:09 PM] 	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3002)
+[Aug 22, 2014 10:21:09 PM] 	... 25 more
+[Aug 22, 2014 10:25:32 PM] 
+Took 0 ms to process tasks
+Took 1686 ms to process players
+Took 20 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 10:25:32 PM] Extreme game cycle: 1715
+[Aug 22, 2014 10:25:37 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 1402 ms to process npcs
+Took 42 ms to send local updating
+
+[Aug 22, 2014 10:25:37 PM] Extreme game cycle: 1452
+[Aug 22, 2014 10:27:44 PM] 
+Took 0 ms to process tasks
+Took 46 ms to process players
+Took 107 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:27:44 PM] Extreme game cycle: 1573
+[Aug 22, 2014 10:27:44 PM] 
+Took 1 ms to process tasks
+Took 52 ms to process players
+Took 135 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 22, 2014 10:27:44 PM] Extreme game cycle: 201
+[Aug 22, 2014 10:30:01 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 194 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 22, 2014 10:30:01 PM] Extreme game cycle: 210
+[Aug 22, 2014 10:30:02 PM] 
+Took 1 ms to process tasks
+Took 26 ms to process players
+Took 242 ms to process npcs
+Took 38 ms to send local updating
+
+[Aug 22, 2014 10:30:02 PM] Extreme game cycle: 309
+[Aug 22, 2014 10:34:09 PM] 
+Took 0 ms to process tasks
+Took 24 ms to process players
+Took 1372 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 22, 2014 10:34:09 PM] Extreme game cycle: 1425
+[Aug 22, 2014 10:34:15 PM] 
+Took 1 ms to process tasks
+Took 11 ms to process players
+Took 170 ms to process npcs
+Took 26 ms to send local updating
+
+[Aug 22, 2014 10:34:15 PM] Extreme game cycle: 210
+[Aug 22, 2014 10:34:36 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 17 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:34:36 PM] Extreme game cycle: 1272
+[Aug 22, 2014 10:35:48 PM] 
+Took 1 ms to process tasks
+Took 9 ms to process players
+Took 1338 ms to process npcs
+Took 25 ms to send local updating
+
+[Aug 22, 2014 10:35:48 PM] Extreme game cycle: 1374
+[Aug 22, 2014 10:35:48 PM] 
+Took 1 ms to process tasks
+Took 31 ms to process players
+Took 149 ms to process npcs
+Took 58 ms to send local updating
+
+[Aug 22, 2014 10:35:48 PM] Extreme game cycle: 240
+[Aug 22, 2014 10:35:49 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 95 ms to process npcs
+Took 116 ms to send local updating
+
+[Aug 22, 2014 10:35:49 PM] Extreme game cycle: 215
+[Aug 22, 2014 10:37:16 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 171 ms to process npcs
+Took 22 ms to send local updating
+
+[Aug 22, 2014 10:37:16 PM] Extreme game cycle: 210
+[Aug 22, 2014 10:37:39 PM] 
+Took 0 ms to process tasks
+Took 1474 ms to process players
+Took 49 ms to process npcs
+Took 35 ms to send local updating
+
+[Aug 22, 2014 10:37:39 PM] Extreme game cycle: 1559
+[Aug 22, 2014 10:38:13 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 20 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 22, 2014 10:38:13 PM] Extreme game cycle: 1274
+[Aug 22, 2014 10:40:03 PM] 
+Took 4 ms to process tasks
+Took 26 ms to process players
+Took 186 ms to process npcs
+Took 26 ms to send local updating
+
+[Aug 22, 2014 10:40:03 PM] Extreme game cycle: 244
+[Aug 22, 2014 10:42:02 PM] 
+Took 1 ms to process tasks
+Took 29 ms to process players
+Took 233 ms to process npcs
+Took 31 ms to send local updating
+
+[Aug 22, 2014 10:42:02 PM] Extreme game cycle: 297
+[Aug 22, 2014 10:43:46 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 22, 2014 10:45:14 PM] 
+Took 1 ms to process tasks
+Took 23 ms to process players
+Took 15 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 10:45:14 PM] Extreme game cycle: 872
+[Aug 22, 2014 10:46:51 PM] 
+Took 1 ms to process tasks
+Took 292 ms to process players
+Took 14 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 10:46:51 PM] Extreme game cycle: 314
+[Aug 22, 2014 10:48:21 PM] 
+Took 0 ms to process tasks
+Took 973 ms to process players
+Took 24 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 10:48:21 PM] Extreme game cycle: 1005
+[Aug 22, 2014 10:52:38 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 4 ms to process npcs
+Took 479 ms to send local updating
+
+[Aug 22, 2014 10:52:38 PM] Extreme game cycle: 487
+[Aug 22, 2014 11:15:02 PM] 
+Took 0 ms to process tasks
+Took 1054 ms to process players
+Took 7 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:15:02 PM] Extreme game cycle: 1066
+[Aug 22, 2014 11:15:22 PM] java.lang.ArrayIndexOutOfBoundsException: 4096
+[Aug 22, 2014 11:15:22 PM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:182)
+[Aug 22, 2014 11:15:22 PM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 22, 2014 11:15:22 PM] 	at novite.rs.game.player.RouteEvent.processEvent(RouteEvent.java:80)
+[Aug 22, 2014 11:15:22 PM] 	at novite.rs.game.player.Player.processEntity(Player.java:499)
+[Aug 22, 2014 11:15:22 PM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:42)
+[Aug 22, 2014 11:15:22 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Aug 22, 2014 11:15:22 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 22, 2014 11:15:22 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 22, 2014 11:15:22 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 22, 2014 11:15:22 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 22, 2014 11:20:03 PM] 
+Took 2 ms to process tasks
+Took 199 ms to process players
+Took 9 ms to process npcs
+Took 21 ms to send local updating
+
+[Aug 22, 2014 11:20:03 PM] Extreme game cycle: 232
+[Aug 22, 2014 11:20:06 PM] 
+Took 523 ms to process tasks
+Took 22 ms to process players
+Took 804 ms to process npcs
+Took 167 ms to send local updating
+
+[Aug 22, 2014 11:20:06 PM] Extreme game cycle: 1661
+[Aug 22, 2014 11:20:08 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 250 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 22, 2014 11:20:08 PM] Extreme game cycle: 266
+[Aug 22, 2014 11:20:11 PM] 
+Took 0 ms to process tasks
+Took 274 ms to process players
+Took 119 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 22, 2014 11:20:11 PM] Extreme game cycle: 396
+[Aug 22, 2014 11:20:13 PM] 
+Took 217 ms to process tasks
+Took 108 ms to process players
+Took 22 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 11:20:13 PM] Extreme game cycle: 355
+[Aug 22, 2014 11:20:15 PM] 
+Took 455 ms to process tasks
+Took 51 ms to process players
+Took 171 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 11:20:15 PM] Extreme game cycle: 683
+[Aug 22, 2014 11:20:19 PM] 
+Took 144 ms to process tasks
+Took 308 ms to process players
+Took 12 ms to process npcs
+Took 25 ms to send local updating
+
+[Aug 22, 2014 11:20:19 PM] Extreme game cycle: 490
+[Aug 22, 2014 11:20:26 PM] 
+Took 64 ms to process tasks
+Took 3 ms to process players
+Took 14 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 11:20:26 PM] Extreme game cycle: 389
+[Aug 22, 2014 11:20:36 PM] 
+Took 232 ms to process tasks
+Took 90 ms to process players
+Took 10 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 22, 2014 11:20:36 PM] Extreme game cycle: 341
+[Aug 22, 2014 11:21:10 PM] 
+Took 203 ms to process tasks
+Took 5 ms to process players
+Took 18 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:21:10 PM] Extreme game cycle: 232
+[Aug 22, 2014 11:21:32 PM] 
+Took 62 ms to process tasks
+Took 186 ms to process players
+Took 20 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 22, 2014 11:21:32 PM] Extreme game cycle: 276
+[Aug 22, 2014 11:21:40 PM] 
+Took 1 ms to process tasks
+Took 166 ms to process players
+Took 46 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 22, 2014 11:21:40 PM] Extreme game cycle: 220
+[Aug 22, 2014 11:21:53 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 9 ms to process npcs
+Took 226 ms to send local updating
+
+[Aug 22, 2014 11:21:53 PM] Extreme game cycle: 238
+[Aug 22, 2014 11:22:02 PM] 
+Took 0 ms to process tasks
+Took 673 ms to process players
+Took 7 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 22, 2014 11:22:02 PM] Extreme game cycle: 686
+[Aug 22, 2014 11:22:42 PM] 
+Took 0 ms to process tasks
+Took 11 ms to process players
+Took 46 ms to process npcs
+Took 160 ms to send local updating
+
+[Aug 22, 2014 11:22:42 PM] Extreme game cycle: 218
+[Aug 22, 2014 11:25:42 PM] 
+Took 0 ms to process tasks
+Took 107 ms to process players
+Took 45 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 22, 2014 11:25:42 PM] Extreme game cycle: 229
+[Aug 22, 2014 11:30:26 PM] 
+Took 35 ms to process tasks
+Took 3 ms to process players
+Took 11 ms to process npcs
+Took 370 ms to send local updating
+
+[Aug 22, 2014 11:30:26 PM] Extreme game cycle: 421
+[Aug 22, 2014 11:44:32 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 583 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 22, 2014 11:44:32 PM] Extreme game cycle: 588

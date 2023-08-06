@@ -1,0 +1,2 @@
+[22-Aug-2014 1:24:45 PM] Hellhound dropped 3x [itemId=12158, name=Gold charm] for Mod T
+[22-Aug-2014 1:24:45 PM] Hellhound dropped 1x [itemId=526, name=Bones] for Mod T

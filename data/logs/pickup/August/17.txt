@@ -1,0 +1,3 @@
+[17-Aug-2014 11:52:48 AM] Mod T picked up 25x [itemId=9144, name=Runite bolts] at region: 12342. Dropee: Mod T
+[17-Aug-2014 11:52:55 AM] Mod T picked up 1x [itemId=1747, name=Black dragonhide] at region: 12342. Dropee: Mod T
+[17-Aug-2014 11:52:55 AM] Mod T picked up 1x [itemId=536, name=Dragon bones] at region: 12342. Dropee: Mod T

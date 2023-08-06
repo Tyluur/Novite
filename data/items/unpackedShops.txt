@@ -1,0 +1,2 @@
+//key money boolean(general store) - Name - item quantity and repeat
+1 995 true - Bob's Brilliant Axes - 1265 10 1351 10 1349 10 1353 10 1363 10 1365 10 1369 10

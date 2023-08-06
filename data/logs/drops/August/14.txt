@@ -1,0 +1,6 @@
+[14-Aug-2014 10:56:30 AM] Ice giant dropped 1x [itemId=7237, name=Rewards Casket] for Mod T
+[14-Aug-2014 10:56:30 AM] Ice giant dropped 1x [itemId=532, name=Big bones] for Mod T
+[14-Aug-2014 10:56:30 AM] Ice giant dropped 6x [itemId=561, name=Nature rune] for Mod T
+[14-Aug-2014 11:54:31 AM] Guard dropped 1x [itemId=12158, name=Gold charm] for Mod T
+[14-Aug-2014 11:54:31 AM] Guard dropped 1x [itemId=526, name=Bones] for Mod T
+[14-Aug-2014 11:54:31 AM] Guard dropped 1x [itemId=2347, name=Hammer] for Mod T

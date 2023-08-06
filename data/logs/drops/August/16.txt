@@ -1,0 +1,13 @@
+[16-Aug-2014 12:47:30 PM] Guard dropped 1x [itemId=526, name=Bones] for Mod T
+[16-Aug-2014 12:47:30 PM] Guard dropped 6x [itemId=886, name=Steel arrow] for Mod T
+[16-Aug-2014 12:57:15 PM] Guard dropped 1x [itemId=526, name=Bones] for Mod T
+[16-Aug-2014 12:57:15 PM] Guard dropped 5x [itemId=557, name=Earth rune] for Mod T
+[16-Aug-2014 1:11:47 PM] Guard dropped 1x [itemId=526, name=Bones] for Mod T
+[16-Aug-2014 1:11:47 PM] Guard dropped 1x [itemId=1446, name=Body talisman] for Mod T
+[16-Aug-2014 1:11:51 PM] Guard dropped 1x [itemId=526, name=Bones] for Mod T
+[16-Aug-2014 1:11:51 PM] Guard dropped 3x [itemId=5321, name=Watermelon seed] for Mod T
+[16-Aug-2014 5:23:34 PM] Man dropped 1x [itemId=526, name=Bones] for Mod T
+[16-Aug-2014 5:23:34 PM] Man dropped 1x [itemId=209, name=Grimy irit] for Mod T
+[16-Aug-2014 7:19:26 PM] Glacor dropped 37x [itemId=565, name=Blood rune] for Mod T
+[16-Aug-2014 7:31:00 PM] Glacor dropped 1x [itemId=2799, name=Clue scroll (hard)] for Mod T
+[16-Aug-2014 7:31:00 PM] Glacor dropped 34x [itemId=565, name=Blood rune] for Mod T

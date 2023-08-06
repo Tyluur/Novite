@@ -1,0 +1,7 @@
+[16-Aug-2014 6:26:12 PM] Mod T picked up 1x [itemId=4884, name=Dharok's helm 0] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:32:54 PM] Mod T picked up 1x [itemId=4884, name=Dharok's helm 0] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:32:56 PM] Mod T picked up 1x [itemId=4884, name=Dharok's helm 0] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:33:00 PM] Mod T picked up 1x [itemId=4902, name=Dharok's platelegs 0] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:33:05 PM] Mod T picked up 1x [itemId=4896, name=Dharok's platebody 0] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:34:13 PM] Mod T picked up 1x [itemId=4886, name=Dharok's greataxe 100] at region: 12342. Dropee: Mod T
+[16-Aug-2014 6:34:15 PM] Mod T picked up 1x [itemId=4886, name=Dharok's greataxe 100] at region: 12342. Dropee: Mod T

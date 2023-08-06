@@ -1,0 +1,2 @@
+[9-Aug-2014 12:51:06 PM] Mod T picked up 1x [itemId=6570, name=Fire cape] at region: 12342. Dropee: Mod T
+[9-Aug-2014 12:51:10 PM] Mod T picked up 1x [itemId=20072, name=Dragon defender] at region: 12342. Dropee: Mod T

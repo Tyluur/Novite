@@ -1,0 +1,8 @@
+[17-Aug-2014 11:49:30 AM] Glacor dropped 4x [itemId=386, name=Shark] for Mod T
+[17-Aug-2014 11:51:27 AM] King Black Dragon dropped 4x [itemId=12160, name=Crimson charm] for Mod T
+[17-Aug-2014 11:51:27 AM] King Black Dragon dropped 1x [itemId=536, name=Dragon bones] for Mod T
+[17-Aug-2014 11:51:27 AM] King Black Dragon dropped 1x [itemId=1747, name=Black dragonhide] for Mod T
+[17-Aug-2014 11:51:27 AM] King Black Dragon dropped 1x [itemId=1303, name=Rune longsword] for Mod T
+[17-Aug-2014 11:52:45 AM] King Black Dragon dropped 1x [itemId=536, name=Dragon bones] for Mod T
+[17-Aug-2014 11:52:45 AM] King Black Dragon dropped 1x [itemId=1747, name=Black dragonhide] for Mod T
+[17-Aug-2014 11:52:45 AM] King Black Dragon dropped 25x [itemId=9144, name=Runite bolts] for Mod T

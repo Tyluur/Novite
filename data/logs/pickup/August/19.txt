@@ -1,0 +1,6 @@
+[19-Aug-2014 12:12:34 AM] Mod T picked up 1x [itemId=1462, name=Nature talisman] at region: 11056. Dropee: Mod T
+[19-Aug-2014 8:06:43 PM] Mod T picked up 3x [itemId=892, name=Rune arrow] at region: 15159. Dropee: Mod T
+[19-Aug-2014 8:06:44 PM] Mod T picked up 3x [itemId=892, name=Rune arrow] at region: 15159. Dropee: Mod T
+[19-Aug-2014 8:06:46 PM] Mod T picked up 2x [itemId=892, name=Rune arrow] at region: 15159. Dropee: Mod T
+[19-Aug-2014 9:13:00 PM] Mod T picked up 7x [itemId=892, name=Rune arrow] at region: 15159. Dropee: Mod T
+[19-Aug-2014 9:13:39 PM] Mod T picked up 11x [itemId=892, name=Rune arrow] at region: 15159. Dropee: Mod T

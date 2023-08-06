@@ -1,0 +1,18 @@
+[Aug 3, 2014 6:27:42 PM] java.util.concurrent.ExecutionException: java.lang.NullPointerException
+[Aug 3, 2014 6:27:42 PM] 	at java.util.concurrent.FutureTask.report(FutureTask.java:122)
+[Aug 3, 2014 6:27:42 PM] 	at java.util.concurrent.FutureTask.get(FutureTask.java:188)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.engine.BlockingExecutorService.waitForPendingTasks(BlockingExecutorService.java:55)
+[Aug 3, 2014 6:27:42 PM] 	at novite.Main.main(Main.java:19)
+[Aug 3, 2014 6:27:42 PM] Caused by: java.lang.NullPointerException
+[Aug 3, 2014 6:27:42 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:318)
+[Aug 3, 2014 6:27:42 PM] 	at com.alex.store.Index.getFile(Index.java:112)
+[Aug 3, 2014 6:27:42 PM] 	at com.alex.store.Index.getFile(Index.java:104)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.cache.loaders.ItemDefinitions.loadItemDefinitions(ItemDefinitions.java:149)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.cache.loaders.ItemDefinitions.<init>(ItemDefinitions.java:132)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.cache.loaders.ItemDefinitions.getItemDefinitions(ItemDefinitions.java:116)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.cache.loaders.ItemEquipIds.init(ItemEquipIds.java:14)
+[Aug 3, 2014 6:27:42 PM] 	at novite.rs.engine.game.GameLoader$1.call(GameLoader.java:91)
+[Aug 3, 2014 6:27:42 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Aug 3, 2014 6:27:42 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 3, 2014 6:27:42 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 3, 2014 6:27:42 PM] 	at java.lang.Thread.run(Thread.java:745)

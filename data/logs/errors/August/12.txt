@@ -1,0 +1,142 @@
+[Aug 12, 2014 12:06:24 AM] java.lang.ArrayIndexOutOfBoundsException: 304
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.WalkRouteFinder.performCalculationS1(WalkRouteFinder.java:255)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:76)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.packet.impl.WalkingPacketHandler.handle(WalkingPacketHandler.java:40)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:178)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 12, 2014 12:06:24 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 12, 2014 12:06:24 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 12, 2014 12:06:24 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 12, 2014 12:06:24 AM] java.lang.ArrayIndexOutOfBoundsException: -176
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.WalkRouteFinder.performCalculationS1(WalkRouteFinder.java:255)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:76)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.packet.impl.WalkingPacketHandler.handle(WalkingPacketHandler.java:40)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:178)
+[Aug 12, 2014 12:06:24 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 12, 2014 12:06:24 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 12, 2014 12:06:24 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 12, 2014 12:06:24 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 12, 2014 12:06:24 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 12, 2014 1:32:18 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 3:12:02 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 3:26:15 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 5:49:21 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 6:49:50 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:12:03 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:34:54 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:34:54 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:37:25 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:38:23 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:48:23 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 9:14:20 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 9:14:20 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 10:32:45 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 10:33:49 AM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 10:35:38 AM] java.lang.ClassNotFoundException: novite.rs.game.npc.familiar.Evilturnip
+[Aug 12, 2014 10:35:38 AM] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:366)
+[Aug 12, 2014 10:35:38 AM] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:355)
+[Aug 12, 2014 10:35:38 AM] 	at java.security.AccessController.doPrivileged(Native Method)
+[Aug 12, 2014 10:35:38 AM] 	at java.net.URLClassLoader.findClass(URLClassLoader.java:354)
+[Aug 12, 2014 10:35:38 AM] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:425)
+[Aug 12, 2014 10:35:38 AM] 	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:308)
+[Aug 12, 2014 10:35:38 AM] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:358)
+[Aug 12, 2014 10:35:38 AM] 	at java.lang.Class.forName0(Native Method)
+[Aug 12, 2014 10:35:38 AM] 	at java.lang.Class.forName(Class.java:190)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.game.player.actions.summoning.Summoning.createFamiliar(Summoning.java:58)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.game.player.actions.summoning.Summoning.spawnFamiliar(Summoning.java:46)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.networking.codec.handlers.InventoryOptionsHandler.handleItemOption6(InventoryOptionsHandler.java:391)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:818)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:178)
+[Aug 12, 2014 10:35:38 AM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 12, 2014 10:35:38 AM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 12, 2014 10:35:38 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 12, 2014 10:35:38 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 12, 2014 10:35:38 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 12, 2014 12:12:14 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 12:22:44 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 12:50:59 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 12:56:29 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 1:25:07 PM] java.lang.NullPointerException
+[Aug 12, 2014 1:25:07 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:318)
+[Aug 12, 2014 1:25:07 PM] 	at com.alex.store.Index.getFile(Index.java:112)
+[Aug 12, 2014 1:25:07 PM] 	at com.alex.store.Index.getFile(Index.java:104)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.cache.loaders.NPCDefinitions.getNPCDefinitions(NPCDefinitions.java:77)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.getDefinitions(NPC.java:182)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.getSize(NPC.java:754)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.getPossibleTargets(NPC.java:895)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.getPossibleTargets(NPC.java:928)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.checkAgressivity(NPC.java:941)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.processNPC(NPC.java:231)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.game.npc.NPC.processEntity(NPC.java:272)
+[Aug 12, 2014 1:25:07 PM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:69)
+[Aug 12, 2014 2:23:11 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 4:17:39 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 5:48:44 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 5:54:52 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 7:12:06 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 8:17:29 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 8:29:39 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 8:45:12 PM] java.lang.NullPointerException
+[Aug 12, 2014 8:45:12 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:318)
+[Aug 12, 2014 8:45:12 PM] 	at com.alex.store.Index.getFile(Index.java:112)
+[Aug 12, 2014 8:45:12 PM] 	at com.alex.store.Index.getFile(Index.java:104)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.cache.loaders.NPCDefinitions.getNPCDefinitions(NPCDefinitions.java:77)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.npc.NPC.getDefinitions(NPC.java:182)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.npc.NPC.getSize(NPC.java:754)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.Entity.addWalkStep(Entity.java:706)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.Entity.addWalkSteps(Entity.java:662)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.npc.NPC.processNPC(NPC.java:244)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.game.npc.NPC.processEntity(NPC.java:272)
+[Aug 12, 2014 8:45:12 PM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:69)
+[Aug 12, 2014 8:50:42 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 8:50:42 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 9:35:12 PM] java.lang.NullPointerException
+[Aug 12, 2014 9:35:12 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:318)
+[Aug 12, 2014 9:35:12 PM] 	at com.alex.store.Index.getFile(Index.java:112)
+[Aug 12, 2014 9:35:12 PM] 	at com.alex.store.Index.getFile(Index.java:104)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.cache.loaders.NPCDefinitions.getNPCDefinitions(NPCDefinitions.java:77)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.npc.NPC.getDefinitions(NPC.java:182)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.npc.NPC.getSize(NPC.java:754)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.Entity.addWalkStep(Entity.java:706)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.Entity.addWalkSteps(Entity.java:662)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.npc.NPC.processNPC(NPC.java:244)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.game.npc.NPC.processEntity(NPC.java:272)
+[Aug 12, 2014 9:35:12 PM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:69)
+[Aug 12, 2014 10:00:42 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 10:02:22 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 10:02:22 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 12, 2014 11:26:53 PM] java.lang.ArrayIndexOutOfBoundsException

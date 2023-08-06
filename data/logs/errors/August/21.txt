@@ -1,0 +1,2122 @@
+[Aug 21, 2014 1:15:38 PM] 
+Took 1 ms to process tasks
+Took 898 ms to process players
+Took 3 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 1:15:38 PM] Extreme game cycle: 908
+[Aug 21, 2014 1:22:22 PM] java.lang.ArrayIndexOutOfBoundsException: 4096
+[Aug 21, 2014 1:22:22 PM] 	at novite.rs.game.route.WalkRouteFinder.findRoute(WalkRouteFinder.java:182)
+[Aug 21, 2014 1:22:22 PM] 	at novite.rs.game.route.RouteFinder.findRoute(RouteFinder.java:28)
+[Aug 21, 2014 1:22:22 PM] 	at novite.rs.networking.packet.impl.WalkingPacketHandler.handle(WalkingPacketHandler.java:40)
+[Aug 21, 2014 1:22:22 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:190)
+[Aug 21, 2014 1:22:22 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:80)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:558)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:553)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:84)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.processSelectedKeys(AbstractNioWorker.java:471)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:332)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:35)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:102)
+[Aug 21, 2014 1:22:22 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Aug 21, 2014 1:22:22 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Aug 21, 2014 1:22:22 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Aug 21, 2014 1:22:22 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Aug 21, 2014 1:26:31 PM] 
+Took 680 ms to process tasks
+Took 7 ms to process players
+Took 4 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 1:26:31 PM] Extreme game cycle: 695
+[Aug 21, 2014 1:28:05 PM] 
+Took 0 ms to process tasks
+Took 365 ms to process players
+Took 4 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 1:28:05 PM] Extreme game cycle: 374
+[Aug 21, 2014 1:44:59 PM] 
+Took 0 ms to process tasks
+Took 1393 ms to process players
+Took 4 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 1:44:59 PM] Extreme game cycle: 1402
+[Aug 21, 2014 1:45:30 PM] 
+Took 0 ms to process tasks
+Took 732 ms to process players
+Took 4 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 1:45:30 PM] Extreme game cycle: 741
+[Aug 21, 2014 1:48:31 PM] 
+Took 325 ms to process tasks
+Took 3 ms to process players
+Took 9 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 1:48:31 PM] Extreme game cycle: 342
+[Aug 21, 2014 2:04:23 PM] 
+Took 1 ms to process tasks
+Took 707 ms to process players
+Took 7 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 2:04:23 PM] Extreme game cycle: 723
+[Aug 21, 2014 2:13:30 PM] 
+Took 0 ms to process tasks
+Took 325 ms to process players
+Took 7 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 2:13:30 PM] Extreme game cycle: 337
+[Aug 21, 2014 2:22:03 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 735 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 2:22:03 PM] Extreme game cycle: 742
+[Aug 21, 2014 2:36:16 PM] 
+Took 0 ms to process tasks
+Took 708 ms to process players
+Took 17 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 2:36:16 PM] Extreme game cycle: 733
+[Aug 21, 2014 2:43:49 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 991 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 2:43:49 PM] Extreme game cycle: 1000
+[Aug 21, 2014 2:57:11 PM] 
+Took 0 ms to process tasks
+Took 217 ms to process players
+Took 8 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 2:57:11 PM] Extreme game cycle: 230
+[Aug 21, 2014 3:07:30 PM] 
+Took 1 ms to process tasks
+Took 368 ms to process players
+Took 11 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:07:30 PM] Extreme game cycle: 385
+[Aug 21, 2014 3:11:33 PM] 
+Took 0 ms to process tasks
+Took 408 ms to process players
+Took 9 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 3:11:33 PM] Extreme game cycle: 424
+[Aug 21, 2014 3:15:08 PM] 
+Took 18 ms to process tasks
+Took 2 ms to process players
+Took 209 ms to process npcs
+Took 159 ms to send local updating
+
+[Aug 21, 2014 3:15:08 PM] Extreme game cycle: 389
+[Aug 21, 2014 3:15:09 PM] 
+Took 69 ms to process tasks
+Took 10 ms to process players
+Took 99 ms to process npcs
+Took 192 ms to send local updating
+
+[Aug 21, 2014 3:15:09 PM] Extreme game cycle: 371
+[Aug 21, 2014 3:15:16 PM] 
+Took 0 ms to process tasks
+Took 128 ms to process players
+Took 36 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:15:16 PM] Extreme game cycle: 234
+[Aug 21, 2014 3:15:16 PM] 
+Took 1 ms to process tasks
+Took 99 ms to process players
+Took 184 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 3:15:16 PM] Extreme game cycle: 293
+[Aug 21, 2014 3:15:24 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 337 ms to process npcs
+Took 43 ms to send local updating
+
+[Aug 21, 2014 3:15:24 PM] Extreme game cycle: 383
+[Aug 21, 2014 3:15:29 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 292 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 21, 2014 3:15:29 PM] Extreme game cycle: 310
+[Aug 21, 2014 3:15:30 PM] 
+Took 523 ms to process tasks
+Took 2 ms to process players
+Took 217 ms to process npcs
+Took 173 ms to send local updating
+
+[Aug 21, 2014 3:15:30 PM] Extreme game cycle: 918
+[Aug 21, 2014 3:15:40 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 407 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:15:40 PM] Extreme game cycle: 415
+[Aug 21, 2014 3:15:48 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 192 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 3:15:48 PM] Extreme game cycle: 272
+[Aug 21, 2014 3:15:49 PM] 
+Took 0 ms to process tasks
+Took 7 ms to process players
+Took 286 ms to process npcs
+Took 19 ms to send local updating
+
+[Aug 21, 2014 3:15:49 PM] Extreme game cycle: 364
+[Aug 21, 2014 3:15:56 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 246 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:15:56 PM] Extreme game cycle: 253
+[Aug 21, 2014 3:16:01 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 197 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 21, 2014 3:16:01 PM] Extreme game cycle: 216
+[Aug 21, 2014 3:16:03 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 280 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:16:03 PM] Extreme game cycle: 289
+[Aug 21, 2014 3:16:05 PM] 
+Took 2 ms to process tasks
+Took 4 ms to process players
+Took 322 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:16:05 PM] Extreme game cycle: 332
+[Aug 21, 2014 3:16:06 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 114 ms to process npcs
+Took 105 ms to send local updating
+
+[Aug 21, 2014 3:16:06 PM] Extreme game cycle: 223
+[Aug 21, 2014 3:16:08 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 133 ms to process npcs
+Took 88 ms to send local updating
+
+[Aug 21, 2014 3:16:08 PM] Extreme game cycle: 224
+[Aug 21, 2014 3:16:10 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 399 ms to process npcs
+Took 103 ms to send local updating
+
+[Aug 21, 2014 3:16:10 PM] Extreme game cycle: 505
+[Aug 21, 2014 3:16:11 PM] 
+Took 61 ms to process tasks
+Took 7 ms to process players
+Took 124 ms to process npcs
+Took 19 ms to send local updating
+
+[Aug 21, 2014 3:16:11 PM] Extreme game cycle: 213
+[Aug 21, 2014 3:16:15 PM] 
+Took 0 ms to process tasks
+Took 40 ms to process players
+Took 49 ms to process npcs
+Took 534 ms to send local updating
+
+[Aug 21, 2014 3:16:15 PM] Extreme game cycle: 624
+[Aug 21, 2014 3:16:19 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 13 ms to process npcs
+Took 252 ms to send local updating
+
+[Aug 21, 2014 3:16:19 PM] Extreme game cycle: 268
+[Aug 21, 2014 3:16:20 PM] 
+Took 15 ms to process tasks
+Took 2 ms to process players
+Took 187 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:16:20 PM] Extreme game cycle: 212
+[Aug 21, 2014 3:18:15 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 203 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 3:18:15 PM] Extreme game cycle: 219
+[Aug 21, 2014 3:18:18 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 25 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 21, 2014 3:18:18 PM] Extreme game cycle: 372
+[Aug 21, 2014 3:18:21 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 57 ms to process npcs
+Took 261 ms to send local updating
+
+[Aug 21, 2014 3:18:21 PM] Extreme game cycle: 348
+[Aug 21, 2014 3:18:23 PM] 
+Took 0 ms to process tasks
+Took 21 ms to process players
+Took 173 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 3:18:23 PM] Extreme game cycle: 205
+[Aug 21, 2014 3:18:25 PM] 
+Took 2 ms to process tasks
+Took 125 ms to process players
+Took 33 ms to process npcs
+Took 150 ms to send local updating
+
+[Aug 21, 2014 3:18:25 PM] Extreme game cycle: 311
+[Aug 21, 2014 3:20:11 PM] 
+Took 0 ms to process tasks
+Took 571 ms to process players
+Took 91 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:20:11 PM] Extreme game cycle: 670
+[Aug 21, 2014 3:20:11 PM] 
+Took 1 ms to process tasks
+Took 19 ms to process players
+Took 202 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:20:11 PM] Extreme game cycle: 225
+[Aug 21, 2014 3:20:14 PM] 
+Took 125 ms to process tasks
+Took 3 ms to process players
+Took 118 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 3:20:14 PM] Extreme game cycle: 252
+[Aug 21, 2014 3:20:16 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 103 ms to process npcs
+Took 100 ms to send local updating
+
+[Aug 21, 2014 3:20:16 PM] Extreme game cycle: 237
+[Aug 21, 2014 3:20:17 PM] 
+Took 2 ms to process tasks
+Took 56 ms to process players
+Took 145 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:20:17 PM] Extreme game cycle: 207
+[Aug 21, 2014 3:20:18 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 276 ms to process npcs
+Took 19 ms to send local updating
+
+[Aug 21, 2014 3:20:18 PM] Extreme game cycle: 298
+[Aug 21, 2014 3:20:18 PM] 
+Took 0 ms to process tasks
+Took 48 ms to process players
+Took 57 ms to process npcs
+Took 97 ms to send local updating
+
+[Aug 21, 2014 3:20:19 PM] Extreme game cycle: 203
+[Aug 21, 2014 3:20:20 PM] 
+Took 1 ms to process tasks
+Took 399 ms to process players
+Took 101 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 21, 2014 3:20:20 PM] Extreme game cycle: 511
+[Aug 21, 2014 3:20:22 PM] 
+Took 0 ms to process tasks
+Took 247 ms to process players
+Took 79 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:20:22 PM] Extreme game cycle: 333
+[Aug 21, 2014 3:20:39 PM] 
+Took 19 ms to process tasks
+Took 5 ms to process players
+Took 12 ms to process npcs
+Took 200 ms to send local updating
+
+[Aug 21, 2014 3:20:39 PM] Extreme game cycle: 237
+[Aug 21, 2014 3:20:55 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 71 ms to process npcs
+Took 190 ms to send local updating
+
+[Aug 21, 2014 3:20:55 PM] Extreme game cycle: 264
+[Aug 21, 2014 3:20:56 PM] 
+Took 47 ms to process tasks
+Took 40 ms to process players
+Took 25 ms to process npcs
+Took 116 ms to send local updating
+
+[Aug 21, 2014 3:20:56 PM] Extreme game cycle: 232
+[Aug 21, 2014 3:20:59 PM] 
+Took 191 ms to process tasks
+Took 4 ms to process players
+Took 18 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:20:59 PM] Extreme game cycle: 218
+[Aug 21, 2014 3:21:04 PM] 
+Took 0 ms to process tasks
+Took 100 ms to process players
+Took 157 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 3:21:04 PM] Extreme game cycle: 322
+[Aug 21, 2014 3:21:11 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 583 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:21:11 PM] Extreme game cycle: 597
+[Aug 21, 2014 3:21:13 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 220 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 21, 2014 3:21:13 PM] Extreme game cycle: 240
+[Aug 21, 2014 3:21:15 PM] 
+Took 0 ms to process tasks
+Took 371 ms to process players
+Took 35 ms to process npcs
+Took 29 ms to send local updating
+
+[Aug 21, 2014 3:21:15 PM] Extreme game cycle: 559
+[Aug 21, 2014 3:21:20 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 45 ms to process npcs
+Took 296 ms to send local updating
+
+[Aug 21, 2014 3:21:20 PM] Extreme game cycle: 347
+[Aug 21, 2014 3:21:22 PM] 
+Took 1 ms to process tasks
+Took 171 ms to process players
+Took 17 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:21:22 PM] Extreme game cycle: 399
+[Aug 21, 2014 3:21:22 PM] 
+Took 0 ms to process tasks
+Took 12 ms to process players
+Took 197 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:21:22 PM] Extreme game cycle: 212
+[Aug 21, 2014 3:21:35 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 250 ms to process npcs
+Took 20 ms to send local updating
+
+[Aug 21, 2014 3:21:35 PM] Extreme game cycle: 273
+[Aug 21, 2014 3:21:37 PM] 
+Took 4 ms to process tasks
+Took 196 ms to process players
+Took 22 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 3:21:37 PM] Extreme game cycle: 273
+[Aug 21, 2014 3:21:41 PM] 
+Took 156 ms to process tasks
+Took 293 ms to process players
+Took 13 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:21:41 PM] Extreme game cycle: 467
+[Aug 21, 2014 3:21:43 PM] 
+Took 192 ms to process tasks
+Took 4 ms to process players
+Took 20 ms to process npcs
+Took 81 ms to send local updating
+
+[Aug 21, 2014 3:21:43 PM] Extreme game cycle: 297
+[Aug 21, 2014 3:21:46 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 210 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:21:46 PM] Extreme game cycle: 216
+[Aug 21, 2014 3:21:48 PM] 
+Took 1 ms to process tasks
+Took 17 ms to process players
+Took 436 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:21:48 PM] Extreme game cycle: 457
+[Aug 21, 2014 3:21:52 PM] 
+Took 472 ms to process tasks
+Took 33 ms to process players
+Took 11 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:21:52 PM] Extreme game cycle: 524
+[Aug 21, 2014 3:21:55 PM] 
+Took 1 ms to process tasks
+Took 7 ms to process players
+Took 365 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 21, 2014 3:21:55 PM] Extreme game cycle: 392
+[Aug 21, 2014 3:22:37 PM] 
+Took 0 ms to process tasks
+Took 44 ms to process players
+Took 189 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:22:37 PM] Extreme game cycle: 241
+[Aug 21, 2014 3:22:42 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 323 ms to process npcs
+Took 49 ms to send local updating
+
+[Aug 21, 2014 3:22:42 PM] Extreme game cycle: 513
+[Aug 21, 2014 3:22:43 PM] 
+Took 0 ms to process tasks
+Took 287 ms to process players
+Took 37 ms to process npcs
+Took 57 ms to send local updating
+
+[Aug 21, 2014 3:22:43 PM] Extreme game cycle: 387
+[Aug 21, 2014 3:22:46 PM] 
+Took 211 ms to process tasks
+Took 274 ms to process players
+Took 301 ms to process npcs
+Took 196 ms to send local updating
+
+[Aug 21, 2014 3:22:46 PM] Extreme game cycle: 982
+[Aug 21, 2014 3:22:47 PM] 
+Took 0 ms to process tasks
+Took 31 ms to process players
+Took 338 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 21, 2014 3:22:47 PM] Extreme game cycle: 380
+[Aug 21, 2014 3:22:49 PM] 
+Took 1 ms to process tasks
+Took 7 ms to process players
+Took 177 ms to process npcs
+Took 43 ms to send local updating
+
+[Aug 21, 2014 3:22:49 PM] Extreme game cycle: 399
+[Aug 21, 2014 3:25:06 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 462 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 3:25:06 PM] Extreme game cycle: 467
+[Aug 21, 2014 3:25:08 PM] 
+Took 0 ms to process tasks
+Took 406 ms to process players
+Took 9 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 3:25:08 PM] Extreme game cycle: 423
+[Aug 21, 2014 3:42:49 PM] 
+Took 1 ms to process tasks
+Took 7 ms to process players
+Took 190 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:42:49 PM] Extreme game cycle: 203
+[Aug 21, 2014 3:52:00 PM] 
+Took 242 ms to process tasks
+Took 4 ms to process players
+Took 9 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:52:00 PM] Extreme game cycle: 260
+[Aug 21, 2014 3:55:03 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 21, 2014 3:57:47 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 807 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 3:57:47 PM] Extreme game cycle: 814
+[Aug 21, 2014 4:05:06 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 157 ms to process npcs
+Took 163 ms to send local updating
+
+[Aug 21, 2014 4:05:06 PM] Extreme game cycle: 327
+[Aug 21, 2014 4:05:11 PM] 
+Took 0 ms to process tasks
+Took 236 ms to process players
+Took 12 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 4:05:11 PM] Extreme game cycle: 253
+[Aug 21, 2014 4:05:16 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 186 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 4:05:16 PM] Extreme game cycle: 214
+[Aug 21, 2014 4:05:37 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 247 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 4:05:37 PM] Extreme game cycle: 255
+[Aug 21, 2014 4:13:41 PM] 
+Took 0 ms to process tasks
+Took 701 ms to process players
+Took 16 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 4:13:41 PM] Extreme game cycle: 721
+[Aug 21, 2014 4:15:04 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 198 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 4:15:04 PM] Extreme game cycle: 206
+[Aug 21, 2014 4:15:09 PM] 
+Took 0 ms to process tasks
+Took 109 ms to process players
+Took 96 ms to process npcs
+Took 120 ms to send local updating
+
+[Aug 21, 2014 4:15:09 PM] Extreme game cycle: 326
+[Aug 21, 2014 4:15:11 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 305 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 4:15:11 PM] Extreme game cycle: 311
+[Aug 21, 2014 4:15:14 PM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 1847 ms to process npcs
+Took 93 ms to send local updating
+
+[Aug 21, 2014 4:15:14 PM] Extreme game cycle: 1947
+[Aug 21, 2014 4:15:21 PM] 
+Took 1 ms to process tasks
+Took 5 ms to process players
+Took 397 ms to process npcs
+Took 21 ms to send local updating
+
+[Aug 21, 2014 4:15:21 PM] Extreme game cycle: 426
+[Aug 21, 2014 4:15:22 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 175 ms to process npcs
+Took 159 ms to send local updating
+
+[Aug 21, 2014 4:15:22 PM] Extreme game cycle: 343
+[Aug 21, 2014 4:16:41 PM] 
+Took 0 ms to process tasks
+Took 394 ms to process players
+Took 87 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 4:16:41 PM] Extreme game cycle: 487
+[Aug 21, 2014 4:18:04 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 790 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 4:18:04 PM] Extreme game cycle: 802
+[Aug 21, 2014 4:18:24 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 650 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 4:18:24 PM] Extreme game cycle: 656
+[Aug 21, 2014 4:25:08 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 405 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 4:25:08 PM] Extreme game cycle: 416
+[Aug 21, 2014 4:38:48 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 922 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 4:38:48 PM] Extreme game cycle: 929
+[Aug 21, 2014 4:45:00 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 750 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 4:45:00 PM] Extreme game cycle: 757
+[Aug 21, 2014 4:45:37 PM] 
+Took 0 ms to process tasks
+Took 707 ms to process players
+Took 28 ms to process npcs
+Took 20 ms to send local updating
+
+[Aug 21, 2014 4:45:37 PM] Extreme game cycle: 756
+[Aug 21, 2014 4:46:29 PM] 
+Took 0 ms to process tasks
+Took 12 ms to process players
+Took 692 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 21, 2014 4:46:29 PM] Extreme game cycle: 719
+[Aug 21, 2014 4:55:09 PM] 
+Took 0 ms to process tasks
+Took 561 ms to process players
+Took 9 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 4:55:09 PM] Extreme game cycle: 573
+[Aug 21, 2014 4:55:28 PM] 
+Took 0 ms to process tasks
+Took 1190 ms to process players
+Took 9 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 4:55:28 PM] Extreme game cycle: 1201
+[Aug 21, 2014 5:06:36 PM] 
+Took 0 ms to process tasks
+Took 2708 ms to process players
+Took 9 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 5:06:36 PM] Extreme game cycle: 2722
+[Aug 21, 2014 5:06:57 PM] 
+Took 673 ms to process tasks
+Took 2 ms to process players
+Took 27 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 5:06:57 PM] Extreme game cycle: 704
+[Aug 21, 2014 5:13:10 PM] 
+Took 0 ms to process tasks
+Took 758 ms to process players
+Took 11 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 5:13:10 PM] Extreme game cycle: 771
+[Aug 21, 2014 5:21:09 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 1833 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 5:21:09 PM] Extreme game cycle: 1838
+[Aug 21, 2014 5:24:22 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 21, 2014 5:34:58 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 732 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 5:34:58 PM] Extreme game cycle: 736
+[Aug 21, 2014 5:36:24 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 957 ms to process npcs
+Took 18 ms to send local updating
+
+[Aug 21, 2014 5:36:24 PM] Extreme game cycle: 978
+[Aug 21, 2014 5:40:05 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 785 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 5:40:05 PM] Extreme game cycle: 789
+[Aug 21, 2014 5:54:49 PM] 
+Took 0 ms to process tasks
+Took 2309 ms to process players
+Took 8 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 5:54:49 PM] Extreme game cycle: 2323
+[Aug 21, 2014 5:56:00 PM] 
+Took 1 ms to process tasks
+Took 1216 ms to process players
+Took 9 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 5:56:00 PM] Extreme game cycle: 1228
+[Aug 21, 2014 6:01:27 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 729 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 21, 2014 6:01:27 PM] Extreme game cycle: 743
+[Aug 21, 2014 6:02:59 PM] 
+Took 0 ms to process tasks
+Took 726 ms to process players
+Took 8 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 6:02:59 PM] Extreme game cycle: 738
+[Aug 21, 2014 6:04:02 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 863 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 6:04:02 PM] Extreme game cycle: 870
+[Aug 21, 2014 6:11:48 PM] 
+Took 201 ms to process tasks
+Took 3 ms to process players
+Took 15 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 6:11:48 PM] Extreme game cycle: 224
+[Aug 21, 2014 6:15:21 PM] 
+Took 0 ms to process tasks
+Took 703 ms to process players
+Took 15 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 6:15:21 PM] Extreme game cycle: 722
+[Aug 21, 2014 6:17:18 PM] 
+Took 353 ms to process tasks
+Took 3 ms to process players
+Took 10 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 6:17:18 PM] Extreme game cycle: 370
+[Aug 21, 2014 6:31:17 PM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 734 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 6:31:17 PM] Extreme game cycle: 749
+[Aug 21, 2014 6:44:39 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 716 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 6:44:39 PM] Extreme game cycle: 731
+[Aug 21, 2014 6:47:18 PM] 
+Took 0 ms to process tasks
+Took 313 ms to process players
+Took 25 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 6:47:18 PM] Extreme game cycle: 342
+[Aug 21, 2014 6:51:49 PM] 
+Took 0 ms to process tasks
+Took 0 ms to process players
+Took 25 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 6:51:49 PM] Extreme game cycle: 704
+[Aug 21, 2014 6:52:36 PM] 
+Took 0 ms to process tasks
+Took 0 ms to process players
+Took 714 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 21, 2014 6:52:36 PM] Extreme game cycle: 724
+[Aug 21, 2014 7:07:56 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 710 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 7:07:56 PM] Extreme game cycle: 715
+[Aug 21, 2014 7:09:17 PM] 
+Took 0 ms to process tasks
+Took 400 ms to process players
+Took 8 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 7:09:17 PM] Extreme game cycle: 411
+[Aug 21, 2014 7:17:23 PM] 
+Took 191 ms to process tasks
+Took 2 ms to process players
+Took 12 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 7:17:23 PM] Extreme game cycle: 211
+[Aug 21, 2014 7:25:52 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 33 ms to process npcs
+Took 660 ms to send local updating
+
+[Aug 21, 2014 7:25:52 PM] Extreme game cycle: 695
+[Aug 21, 2014 7:33:23 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 773 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 7:33:23 PM] Extreme game cycle: 777
+[Aug 21, 2014 7:40:07 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1138 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 7:40:07 PM] Extreme game cycle: 1143
+[Aug 21, 2014 7:43:57 PM] 
+Took 0 ms to process tasks
+Took 1994 ms to process players
+Took 8 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 7:43:57 PM] Extreme game cycle: 2007
+[Aug 21, 2014 7:45:22 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 8 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 7:45:22 PM] Extreme game cycle: 730
+[Aug 21, 2014 7:53:03 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 704 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 7:53:03 PM] Extreme game cycle: 713
+[Aug 21, 2014 8:03:04 PM] 
+Took 0 ms to process tasks
+Took 897 ms to process players
+Took 43 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 8:03:04 PM] Extreme game cycle: 953
+[Aug 21, 2014 8:23:19 PM] 
+Took 0 ms to process tasks
+Took 1231 ms to process players
+Took 19 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 8:23:19 PM] Extreme game cycle: 1253
+[Aug 21, 2014 8:25:02 PM] 
+Took 1 ms to process tasks
+Took 1344 ms to process players
+Took 42 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 8:25:02 PM] Extreme game cycle: 1393
+[Aug 21, 2014 8:27:27 PM] 
+Took 0 ms to process tasks
+Took 849 ms to process players
+Took 14 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 8:27:27 PM] Extreme game cycle: 867
+[Aug 21, 2014 8:30:16 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 223 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 8:30:16 PM] Extreme game cycle: 231
+[Aug 21, 2014 8:41:42 PM] 
+Took 424 ms to process tasks
+Took 2 ms to process players
+Took 13 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 8:41:42 PM] Extreme game cycle: 447
+[Aug 21, 2014 8:59:42 PM] 
+Took 798 ms to process tasks
+Took 1 ms to process players
+Took 21 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 8:59:42 PM] Extreme game cycle: 824
+[Aug 21, 2014 8:59:59 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 797 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 8:59:59 PM] Extreme game cycle: 803
+[Aug 21, 2014 9:14:04 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 717 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 9:14:04 PM] Extreme game cycle: 722
+[Aug 21, 2014 9:17:54 PM] 
+Took 0 ms to process tasks
+Took 992 ms to process players
+Took 11 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 9:17:54 PM] Extreme game cycle: 1012
+[Aug 21, 2014 9:20:01 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 750 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 9:20:01 PM] Extreme game cycle: 755
+[Aug 21, 2014 9:30:17 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 217 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 9:30:17 PM] Extreme game cycle: 225
+[Aug 21, 2014 9:30:18 PM] 
+Took 1 ms to process tasks
+Took 247 ms to process players
+Took 189 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 9:30:18 PM] Extreme game cycle: 445
+[Aug 21, 2014 9:30:21 PM] 
+Took 0 ms to process tasks
+Took 194 ms to process players
+Took 11 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 9:30:21 PM] Extreme game cycle: 210
+[Aug 21, 2014 9:30:23 PM] 
+Took 0 ms to process tasks
+Took 294 ms to process players
+Took 16 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 9:30:23 PM] Extreme game cycle: 313
+[Aug 21, 2014 9:30:31 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 480 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 9:30:31 PM] Extreme game cycle: 486
+[Aug 21, 2014 9:31:01 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 138 ms to process npcs
+Took 232 ms to send local updating
+
+[Aug 21, 2014 9:31:01 PM] Extreme game cycle: 373
+[Aug 21, 2014 9:32:56 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:35:13 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:36:13 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:37:19 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 201 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 9:37:19 PM] Extreme game cycle: 207
+[Aug 21, 2014 9:40:46 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:47:31 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 742 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 21, 2014 9:47:31 PM] Extreme game cycle: 755
+[Aug 21, 2014 9:51:27 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 784 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 9:51:27 PM] Extreme game cycle: 794
+[Aug 21, 2014 9:51:55 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:52:05 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:56:14 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:56:25 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:56:50 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 9:57:18 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:14:52 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 749 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 10:14:52 PM] Extreme game cycle: 754
+[Aug 21, 2014 10:17:58 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 836 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 10:17:58 PM] Extreme game cycle: 842
+[Aug 21, 2014 10:18:42 PM] 
+Took 1 ms to process tasks
+Took 983 ms to process players
+Took 10 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 10:18:42 PM] Extreme game cycle: 998
+[Aug 21, 2014 10:25:48 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 21, 2014 10:28:07 PM] 
+Took 0 ms to process tasks
+Took 1265 ms to process players
+Took 24 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 10:28:07 PM] Extreme game cycle: 1293
+[Aug 21, 2014 10:30:10 PM] 
+Took 1 ms to process tasks
+Took 14 ms to process players
+Took 16 ms to process npcs
+Took 193 ms to send local updating
+
+[Aug 21, 2014 10:30:10 PM] Extreme game cycle: 227
+[Aug 21, 2014 10:35:05 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 169 ms to process npcs
+Took 344 ms to send local updating
+
+[Aug 21, 2014 10:35:05 PM] Extreme game cycle: 574
+[Aug 21, 2014 10:35:05 PM] 
+Took 6 ms to process tasks
+Took 2 ms to process players
+Took 377 ms to process npcs
+Took 16 ms to send local updating
+
+[Aug 21, 2014 10:35:05 PM] Extreme game cycle: 402
+[Aug 21, 2014 10:35:06 PM] 
+Took 1 ms to process tasks
+Took 30 ms to process players
+Took 282 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 21, 2014 10:35:06 PM] Extreme game cycle: 329
+[Aug 21, 2014 10:35:09 PM] 
+Took 319 ms to process tasks
+Took 25 ms to process players
+Took 145 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:09 PM] Extreme game cycle: 495
+[Aug 21, 2014 10:35:10 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 31 ms to process npcs
+Took 194 ms to send local updating
+
+[Aug 21, 2014 10:35:10 PM] Extreme game cycle: 233
+[Aug 21, 2014 10:35:11 PM] 
+Took 0 ms to process tasks
+Took 62 ms to process players
+Took 176 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 10:35:11 PM] Extreme game cycle: 247
+[Aug 21, 2014 10:35:12 PM] 
+Took 27 ms to process tasks
+Took 12 ms to process players
+Took 178 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:12 PM] Extreme game cycle: 223
+[Aug 21, 2014 10:35:14 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 329 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 10:35:14 PM] Extreme game cycle: 339
+[Aug 21, 2014 10:35:15 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 323 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:15 PM] Extreme game cycle: 331
+[Aug 21, 2014 10:35:18 PM] 
+Took 223 ms to process tasks
+Took 2 ms to process players
+Took 75 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:18 PM] Extreme game cycle: 307
+[Aug 21, 2014 10:35:20 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 254 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 10:35:20 PM] Extreme game cycle: 266
+[Aug 21, 2014 10:35:22 PM] 
+Took 4 ms to process tasks
+Took 242 ms to process players
+Took 179 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 10:35:22 PM] Extreme game cycle: 444
+[Aug 21, 2014 10:35:25 PM] 
+Took 260 ms to process tasks
+Took 5 ms to process players
+Took 15 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 10:35:25 PM] Extreme game cycle: 287
+[Aug 21, 2014 10:35:26 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 26 ms to process npcs
+Took 537 ms to send local updating
+
+[Aug 21, 2014 10:35:26 PM] Extreme game cycle: 566
+[Aug 21, 2014 10:35:27 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1135 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:27 PM] Extreme game cycle: 1144
+[Aug 21, 2014 10:35:31 PM] 
+Took 1 ms to process tasks
+Took 4 ms to process players
+Took 2611 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 10:35:31 PM] Extreme game cycle: 2621
+[Aug 21, 2014 10:35:32 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 26 ms to process npcs
+Took 257 ms to send local updating
+
+[Aug 21, 2014 10:35:32 PM] Extreme game cycle: 287
+[Aug 21, 2014 10:35:40 PM] 
+Took 1 ms to process tasks
+Took 160 ms to process players
+Took 99 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 10:35:40 PM] Extreme game cycle: 266
+[Aug 21, 2014 10:35:43 PM] 
+Took 189 ms to process tasks
+Took 5 ms to process players
+Took 90 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 10:35:43 PM] Extreme game cycle: 289
+[Aug 21, 2014 10:35:51 PM] 
+Took 2 ms to process tasks
+Took 6 ms to process players
+Took 243 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:35:51 PM] Extreme game cycle: 257
+[Aug 21, 2014 10:36:01 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 195 ms to process npcs
+Took 225 ms to send local updating
+
+[Aug 21, 2014 10:36:01 PM] Extreme game cycle: 487
+[Aug 21, 2014 10:36:02 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 388 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 10:36:02 PM] Extreme game cycle: 509
+[Aug 21, 2014 10:36:02 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 210 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 10:36:02 PM] Extreme game cycle: 226
+[Aug 21, 2014 10:36:07 PM] 
+Took 0 ms to process tasks
+Took 108 ms to process players
+Took 236 ms to process npcs
+Took 52 ms to send local updating
+
+[Aug 21, 2014 10:36:07 PM] Extreme game cycle: 399
+[Aug 21, 2014 10:36:12 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 204 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 10:36:12 PM] Extreme game cycle: 217
+[Aug 21, 2014 10:36:15 PM] 
+Took 158 ms to process tasks
+Took 2 ms to process players
+Took 28 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 10:36:15 PM] Extreme game cycle: 206
+[Aug 21, 2014 10:36:17 PM] 
+Took 3 ms to process tasks
+Took 12 ms to process players
+Took 708 ms to process npcs
+Took 75 ms to send local updating
+
+[Aug 21, 2014 10:36:17 PM] Extreme game cycle: 799
+[Aug 21, 2014 10:36:19 PM] 
+Took 153 ms to process tasks
+Took 1 ms to process players
+Took 157 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 10:36:19 PM] Extreme game cycle: 322
+[Aug 21, 2014 10:36:26 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 72 ms to process npcs
+Took 140 ms to send local updating
+
+[Aug 21, 2014 10:36:26 PM] Extreme game cycle: 217
+[Aug 21, 2014 10:36:28 PM] 
+Took 0 ms to process tasks
+Took 237 ms to process players
+Took 20 ms to process npcs
+Took 61 ms to send local updating
+
+[Aug 21, 2014 10:36:28 PM] Extreme game cycle: 320
+[Aug 21, 2014 10:36:30 PM] 
+Took 4 ms to process tasks
+Took 131 ms to process players
+Took 25 ms to process npcs
+Took 103 ms to send local updating
+
+[Aug 21, 2014 10:36:30 PM] Extreme game cycle: 304
+[Aug 21, 2014 10:36:35 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 252 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 10:36:35 PM] Extreme game cycle: 272
+[Aug 21, 2014 10:36:40 PM] 
+Took 2 ms to process tasks
+Took 3 ms to process players
+Took 161 ms to process npcs
+Took 56 ms to send local updating
+
+[Aug 21, 2014 10:36:40 PM] Extreme game cycle: 224
+[Aug 21, 2014 10:36:43 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 240 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 10:36:43 PM] Extreme game cycle: 248
+[Aug 21, 2014 10:36:44 PM] 
+Took 1 ms to process tasks
+Took 189 ms to process players
+Took 15 ms to process npcs
+Took 93 ms to send local updating
+
+[Aug 21, 2014 10:36:44 PM] Extreme game cycle: 300
+[Aug 21, 2014 10:36:45 PM] 
+Took 1 ms to process tasks
+Took 3 ms to process players
+Took 258 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 10:36:45 PM] Extreme game cycle: 270
+[Aug 21, 2014 10:36:46 PM] 
+Took 0 ms to process tasks
+Took 26 ms to process players
+Took 306 ms to process npcs
+Took 252 ms to send local updating
+
+[Aug 21, 2014 10:36:46 PM] Extreme game cycle: 586
+[Aug 21, 2014 10:36:56 PM] 
+Took 10 ms to process tasks
+Took 2 ms to process players
+Took 184 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 10:36:56 PM] Extreme game cycle: 204
+[Aug 21, 2014 10:36:59 PM] 
+Took 118 ms to process tasks
+Took 84 ms to process players
+Took 91 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 10:36:59 PM] Extreme game cycle: 300
+[Aug 21, 2014 10:37:15 PM] 
+Took 2 ms to process tasks
+Took 2 ms to process players
+Took 1010 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 10:37:15 PM] Extreme game cycle: 1038
+[Aug 21, 2014 10:39:17 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:43:33 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:43:57 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:44:30 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:45:36 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 39 ms to process npcs
+Took 137 ms to send local updating
+
+[Aug 21, 2014 10:45:36 PM] Extreme game cycle: 232
+[Aug 21, 2014 10:45:37 PM] 
+Took 524 ms to process tasks
+Took 3 ms to process players
+Took 24 ms to process npcs
+Took 43 ms to send local updating
+
+[Aug 21, 2014 10:45:37 PM] Extreme game cycle: 595
+[Aug 21, 2014 10:47:48 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:48:23 PM] 
+Took 0 ms to process tasks
+Took 743 ms to process players
+Took 12 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 10:48:23 PM] Extreme game cycle: 760
+[Aug 21, 2014 10:49:20 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:49:47 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 10:50:00 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:04:33 PM] 
+Took 4 ms to process tasks
+Took 4 ms to process players
+Took 755 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 21, 2014 11:04:33 PM] Extreme game cycle: 774
+[Aug 21, 2014 11:07:07 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 776 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:07:07 PM] Extreme game cycle: 782
+[Aug 21, 2014 11:08:01 PM] 
+Took 15 ms to process tasks
+Took 13 ms to process players
+Took 711 ms to process npcs
+Took 42 ms to send local updating
+
+[Aug 21, 2014 11:08:01 PM] Extreme game cycle: 782
+[Aug 21, 2014 11:15:41 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 21, 2014 11:15:41 PM] java.lang.ArrayIndexOutOfBoundsException
+[Aug 21, 2014 11:15:54 PM] 
+Took 0 ms to process tasks
+Took 2843 ms to process players
+Took 21 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:15:54 PM] Extreme game cycle: 2869
+[Aug 21, 2014 11:19:59 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:22:07 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:23:52 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 892 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 21, 2014 11:23:52 PM] Extreme game cycle: 910
+[Aug 21, 2014 11:23:53 PM] 
+Took 0 ms to process tasks
+Took 298 ms to process players
+Took 13 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:23:53 PM] Extreme game cycle: 315
+[Aug 21, 2014 11:26:18 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 842 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:26:18 PM] Extreme game cycle: 849
+[Aug 21, 2014 11:36:31 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:38:20 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:39:39 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:39:49 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:40:06 PM] 
+Took 1 ms to process tasks
+Took 70 ms to process players
+Took 144 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 11:40:06 PM] Extreme game cycle: 227
+[Aug 21, 2014 11:40:58 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:41:34 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:41:48 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:42:37 PM] 
+Took 0 ms to process tasks
+Took 674 ms to process players
+Took 24 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 11:42:37 PM] Extreme game cycle: 708
+[Aug 21, 2014 11:43:17 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:44:50 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 963 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:44:50 PM] Extreme game cycle: 972
+[Aug 21, 2014 11:45:14 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:45:41 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:46:21 PM] 
+Took 0 ms to process tasks
+Took 832 ms to process players
+Took 33 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:46:21 PM] Extreme game cycle: 870
+[Aug 21, 2014 11:46:56 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:48:27 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 12 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:48:27 PM] Extreme game cycle: 837
+[Aug 21, 2014 11:49:09 PM] 
+Took 0 ms to process tasks
+Took 2131 ms to process players
+Took 30 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:49:09 PM] Extreme game cycle: 2166
+[Aug 21, 2014 11:50:11 PM] 
+Took 0 ms to process tasks
+Took 414 ms to process players
+Took 15 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:50:11 PM] Extreme game cycle: 436
+[Aug 21, 2014 11:50:19 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 296 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:50:19 PM] Extreme game cycle: 308
+[Aug 21, 2014 11:50:22 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 372 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 21, 2014 11:50:22 PM] Extreme game cycle: 390
+[Aug 21, 2014 11:50:25 PM] 
+Took 1 ms to process tasks
+Took 5 ms to process players
+Took 214 ms to process npcs
+Took 106 ms to send local updating
+
+[Aug 21, 2014 11:50:25 PM] Extreme game cycle: 328
+[Aug 21, 2014 11:50:26 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 280 ms to process npcs
+Took 18 ms to send local updating
+
+[Aug 21, 2014 11:50:26 PM] Extreme game cycle: 301
+[Aug 21, 2014 11:50:29 PM] 
+Took 11 ms to process tasks
+Took 163 ms to process players
+Took 850 ms to process npcs
+Took 13 ms to send local updating
+
+[Aug 21, 2014 11:50:29 PM] Extreme game cycle: 1039
+[Aug 21, 2014 11:50:29 PM] 
+Took 0 ms to process tasks
+Took 124 ms to process players
+Took 32 ms to process npcs
+Took 176 ms to send local updating
+
+[Aug 21, 2014 11:50:29 PM] Extreme game cycle: 335
+[Aug 21, 2014 11:50:30 PM] 
+Took 0 ms to process tasks
+Took 102 ms to process players
+Took 150 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:50:30 PM] Extreme game cycle: 259
+[Aug 21, 2014 11:50:35 PM] 
+Took 0 ms to process tasks
+Took 533 ms to process players
+Took 381 ms to process npcs
+Took 538 ms to send local updating
+
+[Aug 21, 2014 11:50:35 PM] Extreme game cycle: 1460
+[Aug 21, 2014 11:50:42 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 152 ms to process npcs
+Took 279 ms to send local updating
+
+[Aug 21, 2014 11:50:42 PM] Extreme game cycle: 436
+[Aug 21, 2014 11:50:42 PM] 
+Took 1 ms to process tasks
+Took 29 ms to process players
+Took 194 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:50:42 PM] Extreme game cycle: 231
+[Aug 21, 2014 11:50:43 PM] 
+Took 37 ms to process tasks
+Took 313 ms to process players
+Took 151 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:50:43 PM] Extreme game cycle: 507
+[Aug 21, 2014 11:50:50 PM] 
+Took 0 ms to process tasks
+Took 5 ms to process players
+Took 518 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:50:50 PM] Extreme game cycle: 529
+[Aug 21, 2014 11:50:51 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 265 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:50:51 PM] Extreme game cycle: 274
+[Aug 21, 2014 11:50:52 PM] 
+Took 99 ms to process tasks
+Took 1 ms to process players
+Took 242 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:50:52 PM] Extreme game cycle: 349
+[Aug 21, 2014 11:50:53 PM] 
+Took 0 ms to process tasks
+Took 76 ms to process players
+Took 663 ms to process npcs
+Took 403 ms to send local updating
+
+[Aug 21, 2014 11:50:54 PM] Extreme game cycle: 1143
+[Aug 21, 2014 11:50:55 PM] 
+Took 1 ms to process tasks
+Took 4 ms to process players
+Took 1051 ms to process npcs
+Took 10 ms to send local updating
+
+[Aug 21, 2014 11:50:56 PM] Extreme game cycle: 1068
+[Aug 21, 2014 11:50:57 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 197 ms to process npcs
+Took 500 ms to send local updating
+
+[Aug 21, 2014 11:50:57 PM] Extreme game cycle: 1076
+[Aug 21, 2014 11:50:57 PM] 
+Took 11 ms to process tasks
+Took 1 ms to process players
+Took 424 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 21, 2014 11:50:57 PM] Extreme game cycle: 452
+[Aug 21, 2014 11:50:58 PM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 257 ms to process npcs
+Took 181 ms to send local updating
+
+[Aug 21, 2014 11:50:58 PM] Extreme game cycle: 442
+[Aug 21, 2014 11:50:58 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 23 ms to process npcs
+Took 213 ms to send local updating
+
+[Aug 21, 2014 11:50:58 PM] Extreme game cycle: 240
+[Aug 21, 2014 11:51:00 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 521 ms to process npcs
+Took 184 ms to send local updating
+
+[Aug 21, 2014 11:51:00 PM] Extreme game cycle: 707
+[Aug 21, 2014 11:51:00 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 479 ms to process npcs
+Took 26 ms to send local updating
+
+[Aug 21, 2014 11:51:00 PM] Extreme game cycle: 683
+[Aug 21, 2014 11:51:03 PM] 
+Took 271 ms to process tasks
+Took 1 ms to process players
+Took 1018 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:51:03 PM] Extreme game cycle: 1298
+[Aug 21, 2014 11:51:03 PM] 
+Took 0 ms to process tasks
+Took 116 ms to process players
+Took 778 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:51:03 PM] Extreme game cycle: 899
+[Aug 21, 2014 11:51:04 PM] 
+Took 0 ms to process tasks
+Took 175 ms to process players
+Took 344 ms to process npcs
+Took 166 ms to send local updating
+
+[Aug 21, 2014 11:51:05 PM] Extreme game cycle: 686
+[Aug 21, 2014 11:51:05 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 241 ms to process npcs
+Took 629 ms to send local updating
+
+[Aug 21, 2014 11:51:06 PM] Extreme game cycle: 878
+[Aug 21, 2014 11:51:06 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 596 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:51:06 PM] Extreme game cycle: 606
+[Aug 21, 2014 11:51:07 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 815 ms to process npcs
+Took 51 ms to send local updating
+
+[Aug 21, 2014 11:51:07 PM] Extreme game cycle: 1076
+[Aug 21, 2014 11:51:08 PM] 
+Took 0 ms to process tasks
+Took 30 ms to process players
+Took 335 ms to process npcs
+Took 39 ms to send local updating
+
+[Aug 21, 2014 11:51:08 PM] Extreme game cycle: 406
+[Aug 21, 2014 11:51:14 PM] 
+Took 1 ms to process tasks
+Took 2 ms to process players
+Took 1319 ms to process npcs
+Took 3867 ms to send local updating
+
+[Aug 21, 2014 11:51:14 PM] Extreme game cycle: 5366
+[Aug 21, 2014 11:51:14 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 38 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:51:14 PM] Extreme game cycle: 462
+[Aug 21, 2014 11:51:15 PM] 
+Took 23 ms to process tasks
+Took 1 ms to process players
+Took 185 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:15 PM] Extreme game cycle: 214
+[Aug 21, 2014 11:51:16 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 212 ms to process npcs
+Took 108 ms to send local updating
+
+[Aug 21, 2014 11:51:16 PM] Extreme game cycle: 335
+[Aug 21, 2014 11:51:16 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 69 ms to process npcs
+Took 148 ms to send local updating
+
+[Aug 21, 2014 11:51:16 PM] Extreme game cycle: 221
+[Aug 21, 2014 11:51:18 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 206 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:51:18 PM] Extreme game cycle: 215
+[Aug 21, 2014 11:51:19 PM] 
+Took 10 ms to process tasks
+Took 3 ms to process players
+Took 218 ms to process npcs
+Took 73 ms to send local updating
+
+[Aug 21, 2014 11:51:19 PM] Extreme game cycle: 326
+[Aug 21, 2014 11:51:19 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 304 ms to process npcs
+Took 62 ms to send local updating
+
+[Aug 21, 2014 11:51:20 PM] Extreme game cycle: 368
+[Aug 21, 2014 11:51:22 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 490 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 11:51:22 PM] Extreme game cycle: 513
+[Aug 21, 2014 11:51:22 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 252 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 11:51:22 PM] Extreme game cycle: 257
+[Aug 21, 2014 11:51:24 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 423 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:51:24 PM] Extreme game cycle: 432
+[Aug 21, 2014 11:51:25 PM] 
+Took 102 ms to process tasks
+Took 1 ms to process players
+Took 507 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:51:25 PM] Extreme game cycle: 615
+[Aug 21, 2014 11:51:26 PM] 
+Took 1 ms to process tasks
+Took 1 ms to process players
+Took 314 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:51:26 PM] Extreme game cycle: 322
+[Aug 21, 2014 11:51:27 PM] 
+Took 11 ms to process tasks
+Took 54 ms to process players
+Took 29 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:27 PM] Extreme game cycle: 229
+[Aug 21, 2014 11:51:29 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 200 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:51:29 PM] Extreme game cycle: 206
+[Aug 21, 2014 11:51:30 PM] 
+Took 116 ms to process tasks
+Took 1 ms to process players
+Took 192 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:30 PM] Extreme game cycle: 314
+[Aug 21, 2014 11:51:31 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 280 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 11:51:31 PM] Extreme game cycle: 293
+[Aug 21, 2014 11:51:32 PM] 
+Took 0 ms to process tasks
+Took 6 ms to process players
+Took 400 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:51:32 PM] Extreme game cycle: 414
+[Aug 21, 2014 11:51:33 PM] 
+Took 0 ms to process tasks
+Took 481 ms to process players
+Took 78 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:51:33 PM] Extreme game cycle: 567
+[Aug 21, 2014 11:51:33 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 502 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:34 PM] Extreme game cycle: 507
+[Aug 21, 2014 11:51:34 PM] 
+Took 0 ms to process tasks
+Took 17 ms to process players
+Took 89 ms to process npcs
+Took 103 ms to send local updating
+
+[Aug 21, 2014 11:51:34 PM] Extreme game cycle: 210
+[Aug 21, 2014 11:51:34 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 229 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:51:35 PM] Extreme game cycle: 239
+[Aug 21, 2014 11:51:35 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 45 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:51:35 PM] Extreme game cycle: 313
+[Aug 21, 2014 11:51:36 PM] 
+Took 0 ms to process tasks
+Took 127 ms to process players
+Took 191 ms to process npcs
+Took 12 ms to send local updating
+
+[Aug 21, 2014 11:51:36 PM] Extreme game cycle: 332
+[Aug 21, 2014 11:51:38 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 927 ms to process npcs
+Took 15 ms to send local updating
+
+[Aug 21, 2014 11:51:38 PM] Extreme game cycle: 946
+[Aug 21, 2014 11:51:41 PM] 
+Took 22 ms to process tasks
+Took 2 ms to process players
+Took 196 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:51:41 PM] Extreme game cycle: 227
+[Aug 21, 2014 11:51:42 PM] 
+Took 11 ms to process tasks
+Took 1 ms to process players
+Took 944 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:42 PM] Extreme game cycle: 1133
+[Aug 21, 2014 11:51:44 PM] 
+Took 0 ms to process tasks
+Took 3 ms to process players
+Took 365 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:51:44 PM] Extreme game cycle: 474
+[Aug 21, 2014 11:51:44 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 292 ms to process npcs
+Took 43 ms to send local updating
+
+[Aug 21, 2014 11:51:44 PM] Extreme game cycle: 338
+[Aug 21, 2014 11:51:46 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 976 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 11:51:46 PM] Extreme game cycle: 981
+[Aug 21, 2014 11:51:47 PM] 
+Took 4 ms to process tasks
+Took 11 ms to process players
+Took 300 ms to process npcs
+Took 19 ms to send local updating
+
+[Aug 21, 2014 11:51:47 PM] Extreme game cycle: 511
+[Aug 21, 2014 11:51:50 PM] 
+Took 0 ms to process tasks
+Took 297 ms to process players
+Took 833 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:51:50 PM] Extreme game cycle: 1139
+[Aug 21, 2014 11:51:50 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 206 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:51:50 PM] Extreme game cycle: 216
+[Aug 21, 2014 11:51:51 PM] 
+Took 0 ms to process tasks
+Took 107 ms to process players
+Took 205 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 11:51:51 PM] Extreme game cycle: 316
+[Aug 21, 2014 11:51:52 PM] 
+Took 102 ms to process tasks
+Took 2 ms to process players
+Took 196 ms to process npcs
+Took 260 ms to send local updating
+
+[Aug 21, 2014 11:51:52 PM] Extreme game cycle: 561
+[Aug 21, 2014 11:51:53 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 260 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:51:53 PM] Extreme game cycle: 267
+[Aug 21, 2014 11:51:54 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 252 ms to process npcs
+Took 9 ms to send local updating
+
+[Aug 21, 2014 11:51:54 PM] Extreme game cycle: 268
+[Aug 21, 2014 11:51:56 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 237 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 11:51:56 PM] Extreme game cycle: 1309
+[Aug 21, 2014 11:51:56 PM] 
+Took 22 ms to process tasks
+Took 2 ms to process players
+Took 214 ms to process npcs
+Took 130 ms to send local updating
+
+[Aug 21, 2014 11:51:56 PM] Extreme game cycle: 369
+[Aug 21, 2014 11:51:57 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 37 ms to process npcs
+Took 14 ms to send local updating
+
+[Aug 21, 2014 11:51:57 PM] Extreme game cycle: 213
+[Aug 21, 2014 11:52:00 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 519 ms to process npcs
+Took 22 ms to send local updating
+
+[Aug 21, 2014 11:52:00 PM] Extreme game cycle: 545
+[Aug 21, 2014 11:52:01 PM] 
+Took 70 ms to process tasks
+Took 4 ms to process players
+Took 343 ms to process npcs
+Took 8 ms to send local updating
+
+[Aug 21, 2014 11:52:01 PM] Extreme game cycle: 465
+[Aug 21, 2014 11:52:04 PM] 
+Took 0 ms to process tasks
+Took 8 ms to process players
+Took 858 ms to process npcs
+Took 588 ms to send local updating
+
+[Aug 21, 2014 11:52:05 PM] Extreme game cycle: 1456
+[Aug 21, 2014 11:52:05 PM] 
+Took 0 ms to process tasks
+Took 215 ms to process players
+Took 413 ms to process npcs
+Took 137 ms to send local updating
+
+[Aug 21, 2014 11:52:05 PM] Extreme game cycle: 767
+[Aug 21, 2014 11:52:07 PM] 
+Took 0 ms to process tasks
+Took 96 ms to process players
+Took 351 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:52:07 PM] Extreme game cycle: 454
+[Aug 21, 2014 11:52:07 PM] 
+Took 0 ms to process tasks
+Took 4 ms to process players
+Took 417 ms to process npcs
+Took 6 ms to send local updating
+
+[Aug 21, 2014 11:52:07 PM] Extreme game cycle: 428
+[Aug 21, 2014 11:52:16 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 7964 ms to process npcs
+Took 4 ms to send local updating
+
+[Aug 21, 2014 11:52:16 PM] Extreme game cycle: 8452
+[Aug 21, 2014 11:52:17 PM] 
+Took 0 ms to process tasks
+Took 1 ms to process players
+Took 319 ms to process npcs
+Took 3 ms to send local updating
+
+[Aug 21, 2014 11:52:17 PM] Extreme game cycle: 325
+[Aug 21, 2014 11:52:17 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 272 ms to process npcs
+Took 284 ms to send local updating
+
+[Aug 21, 2014 11:52:17 PM] Extreme game cycle: 560
+[Aug 21, 2014 11:52:19 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 1157 ms to process npcs
+Took 7 ms to send local updating
+
+[Aug 21, 2014 11:52:19 PM] Extreme game cycle: 1168
+[Aug 21, 2014 11:52:19 PM] 
+Took 0 ms to process tasks
+Took 2 ms to process players
+Took 32 ms to process npcs
+Took 169 ms to send local updating
+
+[Aug 21, 2014 11:52:19 PM] Extreme game cycle: 394
+[Aug 21, 2014 11:52:21 PM] 
+Took 10 ms to process tasks
+Took 252 ms to process players
+Took 876 ms to process npcs
+Took 2 ms to send local updating
+
+[Aug 21, 2014 11:52:21 PM] Extreme game cycle: 1144
+[Aug 21, 2014 11:52:26 PM] Bad animation!!!!! 17408
+[Aug 21, 2014 11:54:00 PM] 
+Took 0 ms to process tasks
+Took 377 ms to process players
+Took 13 ms to process npcs
+Took 5 ms to send local updating
+
+[Aug 21, 2014 11:54:00 PM] Extreme game cycle: 396
+[Aug 21, 2014 11:55:52 PM] 
+Took 2 ms to process tasks
+Took 1 ms to process players
+Took 14 ms to process npcs
+Took 806 ms to send local updating
+
+[Aug 21, 2014 11:55:52 PM] Extreme game cycle: 825
+[Aug 21, 2014 11:56:42 PM] 
+Took 863 ms to process tasks
+Took 1 ms to process players
+Took 68 ms to process npcs
+Took 11 ms to send local updating
+
+[Aug 21, 2014 11:56:42 PM] Extreme game cycle: 944

@@ -1,0 +1,1745 @@
+[21-Aug-2014 11:16:19 AM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 11:16:19 AM] Man dropped 2x [itemId=877, name=Bronze bolts] for 70bot
+[21-Aug-2014 11:16:19 AM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 11:16:19 AM] Man dropped 5x [itemId=995, name=Coins] for 0bot
+[21-Aug-2014 11:16:20 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 19bot
+[21-Aug-2014 11:16:20 AM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 11:16:20 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 19bot
+[21-Aug-2014 11:16:21 AM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 11:16:21 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 9bot
+[21-Aug-2014 11:16:21 AM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 11:16:21 AM] Man dropped 1x [itemId=436, name=Copper ore] for 6bot
+[21-Aug-2014 11:16:22 AM] Man dropped 1x [itemId=526, name=Bones] for 72bot
+[21-Aug-2014 11:16:22 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 72bot
+[21-Aug-2014 11:16:22 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 14bot
+[21-Aug-2014 11:16:22 AM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 11:16:22 AM] Man dropped 1x [itemId=438, name=Tin ore] for 14bot
+[21-Aug-2014 11:16:23 AM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 11:16:23 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 45bot
+[21-Aug-2014 11:16:24 AM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 11:16:24 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 46bot
+[21-Aug-2014 11:16:24 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 41bot
+[21-Aug-2014 11:16:24 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:16:24 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 41bot
+[21-Aug-2014 11:16:25 AM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 11:16:25 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 24bot
+[21-Aug-2014 11:16:25 AM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 11:16:25 AM] Man dropped 7x [itemId=559, name=Body rune] for 12bot
+[21-Aug-2014 11:16:25 AM] Man dropped 1x [itemId=526, name=Bones] for 75bot
+[21-Aug-2014 11:16:25 AM] Man dropped 7x [itemId=555, name=Water rune] for 75bot
+[21-Aug-2014 11:16:26 AM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 11:16:26 AM] Man dropped 1x [itemId=2485, name=Grimy lantadyme] for 35bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=526, name=Bones] for 82bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 82bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=436, name=Copper ore] for 1bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 95bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 11:16:27 AM] Man dropped 10x [itemId=877, name=Bronze bolts] for 34bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 11:16:27 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 39bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 51bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=12159, name=Green charm] for 63bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=526, name=Bones] for 63bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=438, name=Tin ore] for 63bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 79bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=526, name=Bones] for 68bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 68bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 11bot
+[21-Aug-2014 11:16:28 AM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 11:16:28 AM] Man dropped 2x [itemId=562, name=Chaos rune] for 11bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 15bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=526, name=Bones] for 49bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=436, name=Copper ore] for 49bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 91bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=526, name=Bones] for 56bot
+[21-Aug-2014 11:16:29 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 56bot
+[21-Aug-2014 11:16:30 AM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 11:16:30 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 48bot
+[21-Aug-2014 11:16:30 AM] Man dropped 1x [itemId=526, name=Bones] for 43bot
+[21-Aug-2014 11:16:30 AM] Man dropped 23x [itemId=995, name=Coins] for 43bot
+[21-Aug-2014 11:16:30 AM] Man dropped 1x [itemId=526, name=Bones] for 55bot
+[21-Aug-2014 11:16:30 AM] Man dropped 9x [itemId=877, name=Bronze bolts] for 55bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 50bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 50bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 44bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 98bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 98bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=436, name=Copper ore] for 18bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 31bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=12159, name=Green charm] for 38bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 38bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 11:16:31 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 22bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 53bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 53bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 4bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 13bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 13bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 92bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=438, name=Tin ore] for 92bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 99bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 97bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 97bot
+[21-Aug-2014 11:16:32 AM] Man dropped 1x [itemId=526, name=Bones] for 61bot
+[21-Aug-2014 11:16:32 AM] Man dropped 8x [itemId=877, name=Bronze bolts] for 61bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=526, name=Bones] for 76bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 76bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 28bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 33bot
+[21-Aug-2014 11:16:33 AM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 11:16:33 AM] Man dropped 7x [itemId=555, name=Water rune] for 33bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 11:16:34 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 96bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 69bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 69bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=526, name=Bones] for 67bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 67bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=526, name=Bones] for 84bot
+[21-Aug-2014 11:16:34 AM] Man dropped 2x [itemId=562, name=Chaos rune] for 84bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:16:34 AM] Man dropped 1x [itemId=217, name=Grimy dwarf weed] for 5bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 52bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 52bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 11:16:35 AM] Man dropped 37x [itemId=995, name=Coins] for 17bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 11:16:35 AM] Man dropped 7x [itemId=555, name=Water rune] for 30bot
+[21-Aug-2014 11:16:35 AM] Man dropped 1x [itemId=526, name=Bones] for 81bot
+[21-Aug-2014 11:16:35 AM] Man dropped 27x [itemId=995, name=Coins] for 81bot
+[21-Aug-2014 11:16:37 AM] Man dropped 1x [itemId=526, name=Bones] for 71bot
+[21-Aug-2014 11:16:37 AM] Man dropped 6x [itemId=554, name=Fire rune] for 71bot
+[21-Aug-2014 11:16:37 AM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 11:16:37 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 8bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 89bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=526, name=Bones] for 83bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 83bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 65bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=526, name=Bones] for 65bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 65bot
+[21-Aug-2014 11:16:38 AM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 11:16:38 AM] Man dropped 9x [itemId=558, name=Mind rune] for 77bot
+[21-Aug-2014 11:16:39 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 74bot
+[21-Aug-2014 11:16:39 AM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 11:16:39 AM] Man dropped 8x [itemId=877, name=Bronze bolts] for 74bot
+[21-Aug-2014 11:16:39 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:16:39 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 36bot
+[21-Aug-2014 11:16:40 AM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 11:16:40 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 54bot
+[21-Aug-2014 11:16:40 AM] Man dropped 1x [itemId=526, name=Bones] for 88bot
+[21-Aug-2014 11:16:40 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 88bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 25bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 27bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 27bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 60bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 60bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 3bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 11:16:41 AM] Man dropped 33x [itemId=995, name=Coins] for 20bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 78bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 78bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 58bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 58bot
+[21-Aug-2014 11:16:41 AM] Man dropped 7x [itemId=555, name=Water rune] for 58bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 11:16:41 AM] Man dropped 7x [itemId=555, name=Water rune] for 7bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 10bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 66bot
+[21-Aug-2014 11:16:41 AM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 11:16:41 AM] Man dropped 6x [itemId=877, name=Bronze bolts] for 32bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=526, name=Bones] for 42bot
+[21-Aug-2014 11:16:42 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 42bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 23bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 23bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 11:16:42 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 40bot
+[21-Aug-2014 11:16:43 AM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 11:16:43 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 21bot
+[21-Aug-2014 11:16:43 AM] Man dropped 1x [itemId=526, name=Bones] for 57bot
+[21-Aug-2014 11:16:43 AM] Man dropped 1x [itemId=438, name=Tin ore] for 57bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=526, name=Bones] for 90bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 90bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=12159, name=Green charm] for 64bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=526, name=Bones] for 64bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 64bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 11:16:44 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 47bot
+[21-Aug-2014 11:16:45 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 93bot
+[21-Aug-2014 11:16:45 AM] Man dropped 1x [itemId=526, name=Bones] for 93bot
+[21-Aug-2014 11:16:45 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 93bot
+[21-Aug-2014 11:16:46 AM] Man dropped 1x [itemId=526, name=Bones] for 62bot
+[21-Aug-2014 11:16:46 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 62bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=12159, name=Green charm] for 80bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=526, name=Bones] for 80bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 80bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 11:16:47 AM] Man dropped 8x [itemId=877, name=Bronze bolts] for 16bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 73bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 11:16:47 AM] Man dropped 4x [itemId=877, name=Bronze bolts] for 73bot
+[21-Aug-2014 11:16:47 AM] Man dropped 1x [itemId=526, name=Bones] for 59bot
+[21-Aug-2014 11:16:47 AM] Man dropped 4x [itemId=557, name=Earth rune] for 59bot
+[21-Aug-2014 11:16:48 AM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 11:16:48 AM] Man dropped 1x [itemId=436, name=Copper ore] for 70bot
+[21-Aug-2014 11:16:48 AM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 11:16:48 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 14bot
+[21-Aug-2014 11:16:48 AM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 11:16:48 AM] Man dropped 10x [itemId=877, name=Bronze bolts] for 29bot
+[21-Aug-2014 11:16:51 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 87bot
+[21-Aug-2014 11:16:51 AM] Man dropped 1x [itemId=526, name=Bones] for 87bot
+[21-Aug-2014 11:16:51 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 87bot
+[21-Aug-2014 11:16:52 AM] Man dropped 1x [itemId=526, name=Bones] for 72bot
+[21-Aug-2014 11:16:52 AM] Man dropped 4x [itemId=557, name=Earth rune] for 72bot
+[21-Aug-2014 11:16:52 AM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 11:16:52 AM] Man dropped 9x [itemId=558, name=Mind rune] for 35bot
+[21-Aug-2014 11:16:53 AM] Man dropped 1x [itemId=526, name=Bones] for 56bot
+[21-Aug-2014 11:16:53 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 56bot
+[21-Aug-2014 11:16:54 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 46bot
+[21-Aug-2014 11:16:54 AM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 11:16:54 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 46bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=526, name=Bones] for 98bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 98bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 39bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 39bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=526, name=Bones] for 68bot
+[21-Aug-2014 11:16:56 AM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 68bot
+[21-Aug-2014 11:16:57 AM] Man dropped 1x [itemId=526, name=Bones] for 2bot
+[21-Aug-2014 11:16:57 AM] Man dropped 6x [itemId=995, name=Coins] for 2bot
+[21-Aug-2014 11:16:57 AM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 11:16:57 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 45bot
+[21-Aug-2014 11:16:58 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 41bot
+[21-Aug-2014 11:16:58 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:16:58 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 41bot
+[21-Aug-2014 11:16:58 AM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 11:16:58 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 48bot
+[21-Aug-2014 11:16:59 AM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 11:16:59 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 24bot
+[21-Aug-2014 11:16:59 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:16:59 AM] Man dropped 29x [itemId=995, name=Coins] for 37bot
+[21-Aug-2014 11:17:00 AM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 11:17:00 AM] Man dropped 4x [itemId=557, name=Earth rune] for 79bot
+[21-Aug-2014 11:17:00 AM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 11:17:00 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 0bot
+[21-Aug-2014 11:17:01 AM] Man dropped 1x [itemId=526, name=Bones] for 55bot
+[21-Aug-2014 11:17:01 AM] Man dropped 35x [itemId=995, name=Coins] for 55bot
+[21-Aug-2014 11:17:01 AM] Man dropped 1x [itemId=526, name=Bones] for 86bot
+[21-Aug-2014 11:17:01 AM] Man dropped 9x [itemId=558, name=Mind rune] for 86bot
+[21-Aug-2014 11:17:01 AM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 11:17:01 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 19bot
+[21-Aug-2014 11:17:02 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:17:02 AM] Man dropped 1x [itemId=436, name=Copper ore] for 36bot
+[21-Aug-2014 11:17:03 AM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 11:17:03 AM] Man dropped 6x [itemId=554, name=Fire rune] for 1bot
+[21-Aug-2014 11:17:04 AM] Man dropped 1x [itemId=526, name=Bones] for 81bot
+[21-Aug-2014 11:17:04 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 81bot
+[21-Aug-2014 11:17:04 AM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 11:17:04 AM] Man dropped 9x [itemId=558, name=Mind rune] for 12bot
+[21-Aug-2014 11:17:04 AM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 11:17:04 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 96bot
+[21-Aug-2014 11:17:05 AM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 11:17:05 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 34bot
+[21-Aug-2014 11:17:06 AM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 11:17:06 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 4bot
+[21-Aug-2014 11:17:08 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:17:08 AM] Man dropped 6x [itemId=554, name=Fire rune] for 69bot
+[21-Aug-2014 11:17:08 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:17:08 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 13bot
+[21-Aug-2014 11:17:12 AM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 11:17:12 AM] Man dropped 1x [itemId=436, name=Copper ore] for 10bot
+[21-Aug-2014 11:17:13 AM] Man dropped 1x [itemId=526, name=Bones] for 88bot
+[21-Aug-2014 11:17:13 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 88bot
+[21-Aug-2014 11:17:16 AM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 11:17:16 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 23bot
+[21-Aug-2014 11:17:17 AM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 11:17:17 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 18bot
+[21-Aug-2014 11:17:17 AM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 11:17:17 AM] Man dropped 6x [itemId=554, name=Fire rune] for 66bot
+[21-Aug-2014 11:17:19 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 44bot
+[21-Aug-2014 11:17:19 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:17:19 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 44bot
+[21-Aug-2014 11:17:21 AM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 11:17:21 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 9bot
+[21-Aug-2014 11:17:23 AM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 11:17:23 AM] Man dropped 1x [itemId=438, name=Tin ore] for 95bot
+[21-Aug-2014 11:17:25 AM] Man dropped 1x [itemId=526, name=Bones] for 80bot
+[21-Aug-2014 11:17:25 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 80bot
+[21-Aug-2014 11:17:31 AM] Man dropped 1x [itemId=526, name=Bones] for 75bot
+[21-Aug-2014 11:17:31 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 75bot
+[21-Aug-2014 11:17:39 AM] Man dropped 1x [itemId=526, name=Bones] for 93bot
+[21-Aug-2014 11:17:39 AM] Man dropped 4x [itemId=557, name=Earth rune] for 93bot
+[21-Aug-2014 11:17:40 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:17:40 AM] Man dropped 11x [itemId=995, name=Coins] for 5bot
+[21-Aug-2014 11:17:40 AM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 11:17:40 AM] Man dropped 9x [itemId=558, name=Mind rune] for 34bot
+[21-Aug-2014 11:17:41 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 96bot
+[21-Aug-2014 11:17:41 AM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 11:17:41 AM] Man dropped 11x [itemId=995, name=Coins] for 96bot
+[21-Aug-2014 11:17:48 AM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 11:17:48 AM] Man dropped 6x [itemId=554, name=Fire rune] for 74bot
+[21-Aug-2014 11:17:53 AM] Man dropped 1x [itemId=526, name=Bones] for 67bot
+[21-Aug-2014 11:17:53 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 67bot
+[21-Aug-2014 11:18:01 AM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 11:18:01 AM] Man dropped 1x [itemId=438, name=Tin ore] for 95bot
+[21-Aug-2014 11:18:02 AM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 11:18:02 AM] Man dropped 1x [itemId=436, name=Copper ore] for 40bot
+[21-Aug-2014 11:18:13 AM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 11:18:13 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 33bot
+[21-Aug-2014 11:18:13 AM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 11:18:13 AM] Man dropped 5x [itemId=995, name=Coins] for 16bot
+[21-Aug-2014 11:18:20 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 52bot
+[21-Aug-2014 11:18:20 AM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 11:18:20 AM] Man dropped 9x [itemId=558, name=Mind rune] for 52bot
+[21-Aug-2014 11:18:28 AM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 11:18:28 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 51bot
+[21-Aug-2014 11:18:29 AM] Man dropped 1x [itemId=526, name=Bones] for 71bot
+[21-Aug-2014 11:18:29 AM] Man dropped 4x [itemId=877, name=Bronze bolts] for 71bot
+[21-Aug-2014 11:18:39 AM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 11:18:39 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 29bot
+[21-Aug-2014 11:18:48 AM] Man dropped 1x [itemId=526, name=Bones] for 76bot
+[21-Aug-2014 11:18:48 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 76bot
+[21-Aug-2014 11:18:49 AM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 11:18:49 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 10bot
+[21-Aug-2014 11:18:57 AM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 11:18:57 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 0bot
+[21-Aug-2014 11:19:07 AM] Man dropped 1x [itemId=526, name=Bones] for 82bot
+[21-Aug-2014 11:19:07 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 82bot
+[21-Aug-2014 11:19:15 AM] Man dropped 1x [itemId=526, name=Bones] for 58bot
+[21-Aug-2014 11:19:15 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 58bot
+[21-Aug-2014 11:19:18 AM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 11:19:18 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 38bot
+[21-Aug-2014 11:19:19 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:19:19 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 5bot
+[21-Aug-2014 11:19:20 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 97bot
+[21-Aug-2014 11:19:20 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:19:20 AM] Man dropped 1x [itemId=2485, name=Grimy lantadyme] for 97bot
+[21-Aug-2014 11:19:29 AM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 11:19:29 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 89bot
+[21-Aug-2014 11:19:45 AM] Man dropped 1x [itemId=526, name=Bones] for 93bot
+[21-Aug-2014 11:19:45 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 93bot
+[21-Aug-2014 11:19:49 AM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 11:19:49 AM] Man dropped 4x [itemId=557, name=Earth rune] for 48bot
+[21-Aug-2014 11:19:54 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:19:54 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 5bot
+[21-Aug-2014 11:19:56 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:19:56 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 36bot
+[21-Aug-2014 11:19:58 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:19:58 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 41bot
+[21-Aug-2014 11:20:03 AM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 11:20:03 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 66bot
+[21-Aug-2014 11:20:04 AM] Man dropped 1x [itemId=526, name=Bones] for 98bot
+[21-Aug-2014 11:20:04 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 98bot
+[21-Aug-2014 11:20:05 AM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 11:20:05 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 77bot
+[21-Aug-2014 11:20:09 AM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 11:20:09 AM] Man dropped 4x [itemId=557, name=Earth rune] for 16bot
+[21-Aug-2014 11:20:14 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:20:14 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 13bot
+[21-Aug-2014 11:20:20 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:20:20 AM] Man dropped 1x [itemId=436, name=Copper ore] for 44bot
+[21-Aug-2014 11:20:33 AM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 11:20:33 AM] Man dropped 2x [itemId=877, name=Bronze bolts] for 14bot
+[21-Aug-2014 11:20:35 AM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 11:20:35 AM] Man dropped 10x [itemId=877, name=Bronze bolts] for 54bot
+[21-Aug-2014 11:20:50 AM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 11:20:50 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 77bot
+[21-Aug-2014 11:20:59 AM] Man dropped 1x [itemId=526, name=Bones] for 62bot
+[21-Aug-2014 11:20:59 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 62bot
+[21-Aug-2014 11:21:12 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:21:12 AM] Man dropped 6x [itemId=554, name=Fire rune] for 44bot
+[21-Aug-2014 11:21:24 AM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 11:21:24 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 89bot
+[21-Aug-2014 11:21:47 AM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 11:21:48 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 70bot
+[21-Aug-2014 11:21:49 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 51bot
+[21-Aug-2014 11:21:49 AM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 11:21:49 AM] Man dropped 38x [itemId=995, name=Coins] for 51bot
+[21-Aug-2014 11:22:02 AM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 11:22:02 AM] Man dropped 9x [itemId=877, name=Bronze bolts] for 28bot
+[21-Aug-2014 11:22:25 AM] Man dropped 1x [itemId=12159, name=Green charm] for 3bot
+[21-Aug-2014 11:22:25 AM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 11:22:25 AM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 3bot
+[21-Aug-2014 11:22:39 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:22:39 AM] Man dropped 1x [itemId=217, name=Grimy dwarf weed] for 97bot
+[21-Aug-2014 11:22:51 AM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 11:22:51 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 14bot
+[21-Aug-2014 11:23:12 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 55bot
+[21-Aug-2014 11:23:12 AM] Man dropped 1x [itemId=526, name=Bones] for 55bot
+[21-Aug-2014 11:23:12 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 55bot
+[21-Aug-2014 11:23:58 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 37bot
+[21-Aug-2014 11:23:58 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:23:58 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 37bot
+[21-Aug-2014 11:24:16 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:24:16 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 13bot
+[21-Aug-2014 11:24:33 AM] Man dropped 1x [itemId=12159, name=Green charm] for 65bot
+[21-Aug-2014 11:24:33 AM] Man dropped 1x [itemId=526, name=Bones] for 65bot
+[21-Aug-2014 11:24:33 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 65bot
+[21-Aug-2014 11:24:48 AM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 11:24:48 AM] Man dropped 11x [itemId=995, name=Coins] for 35bot
+[21-Aug-2014 11:24:48 AM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 11:24:48 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 99bot
+[21-Aug-2014 11:24:58 AM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 11:24:58 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 15bot
+[21-Aug-2014 11:25:00 AM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 11:25:00 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 77bot
+[21-Aug-2014 11:25:25 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 52bot
+[21-Aug-2014 11:25:25 AM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 11:25:25 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 52bot
+[21-Aug-2014 11:25:41 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:25:41 AM] Man dropped 35x [itemId=995, name=Coins] for 69bot
+[21-Aug-2014 11:26:04 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:26:04 AM] Man dropped 11x [itemId=877, name=Bronze bolts] for 97bot
+[21-Aug-2014 11:26:06 AM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 11:26:06 AM] Man dropped 6x [itemId=877, name=Bronze bolts] for 3bot
+[21-Aug-2014 11:27:02 AM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 11:27:02 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 89bot
+[21-Aug-2014 11:28:00 AM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 11:28:00 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 79bot
+[21-Aug-2014 11:29:46 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:29:46 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 97bot
+[21-Aug-2014 11:31:37 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 58bot
+[21-Aug-2014 11:31:37 AM] Man dropped 1x [itemId=526, name=Bones] for 58bot
+[21-Aug-2014 11:31:37 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 58bot
+[21-Aug-2014 11:34:19 AM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 11:34:19 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 45bot
+[21-Aug-2014 11:34:27 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:34:27 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 69bot
+[21-Aug-2014 11:34:33 AM] Man dropped 1x [itemId=526, name=Bones] for 92bot
+[21-Aug-2014 11:34:33 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 92bot
+[21-Aug-2014 11:42:02 AM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 11:42:02 AM] Man dropped 5x [itemId=995, name=Coins] for 47bot
+[21-Aug-2014 11:42:06 AM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 11:42:06 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 4bot
+[21-Aug-2014 11:42:06 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:42:06 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 44bot
+[21-Aug-2014 11:42:07 AM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 11:42:07 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 0bot
+[21-Aug-2014 11:42:11 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:42:11 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 13bot
+[21-Aug-2014 11:42:11 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:42:11 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 41bot
+[21-Aug-2014 11:42:12 AM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 11:42:12 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 8bot
+[21-Aug-2014 11:42:14 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 25bot
+[21-Aug-2014 11:42:14 AM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 11:42:14 AM] Man dropped 1x [itemId=217, name=Grimy dwarf weed] for 25bot
+[21-Aug-2014 11:42:14 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 28bot
+[21-Aug-2014 11:42:14 AM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 11:42:14 AM] Man dropped 6x [itemId=554, name=Fire rune] for 28bot
+[21-Aug-2014 11:42:15 AM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 11:42:15 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 18bot
+[21-Aug-2014 11:42:18 AM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 11:42:18 AM] Man dropped 9x [itemId=558, name=Mind rune] for 12bot
+[21-Aug-2014 11:42:20 AM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 11:42:20 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 16bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 15bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 15bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 28bot
+[21-Aug-2014 11:42:21 AM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 11:42:21 AM] Man dropped 6x [itemId=554, name=Fire rune] for 19bot
+[21-Aug-2014 11:42:22 AM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 11:42:22 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 11bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 39bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 29bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 11:42:24 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 30bot
+[21-Aug-2014 11:42:25 AM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 11:42:25 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 24bot
+[21-Aug-2014 11:42:26 AM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 11:42:26 AM] Man dropped 1x [itemId=436, name=Copper ore] for 22bot
+[21-Aug-2014 11:42:26 AM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 11:42:26 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 24bot
+[21-Aug-2014 11:42:27 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:42:27 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 13bot
+[21-Aug-2014 11:42:27 AM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 11:42:27 AM] Man dropped 9x [itemId=558, name=Mind rune] for 4bot
+[21-Aug-2014 11:42:28 AM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 11:42:28 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 23bot
+[21-Aug-2014 11:42:28 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:42:28 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 37bot
+[21-Aug-2014 11:42:29 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 32bot
+[21-Aug-2014 11:42:29 AM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 11:42:29 AM] Man dropped 5x [itemId=877, name=Bronze bolts] for 32bot
+[21-Aug-2014 11:42:31 AM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 11:42:31 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 33bot
+[21-Aug-2014 11:42:32 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:42:32 AM] Man dropped 9x [itemId=558, name=Mind rune] for 37bot
+[21-Aug-2014 11:42:33 AM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 11:42:33 AM] Man dropped 5x [itemId=995, name=Coins] for 6bot
+[21-Aug-2014 11:42:33 AM] Man dropped 1x [itemId=526, name=Bones] for 26bot
+[21-Aug-2014 11:42:33 AM] Man dropped 6x [itemId=877, name=Bronze bolts] for 26bot
+[21-Aug-2014 11:42:35 AM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 11:42:35 AM] Man dropped 39x [itemId=995, name=Coins] for 1bot
+[21-Aug-2014 11:42:35 AM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 11:42:35 AM] Man dropped 35x [itemId=995, name=Coins] for 38bot
+[21-Aug-2014 11:42:36 AM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 11:42:36 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 7bot
+[21-Aug-2014 11:42:36 AM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 11:42:36 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 35bot
+[21-Aug-2014 11:42:37 AM] Man dropped 1x [itemId=12159, name=Green charm] for 5bot
+[21-Aug-2014 11:42:37 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:42:37 AM] Man dropped 6x [itemId=554, name=Fire rune] for 5bot
+[21-Aug-2014 11:42:37 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 25bot
+[21-Aug-2014 11:42:37 AM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 11:42:37 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 25bot
+[21-Aug-2014 11:42:39 AM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 11:42:39 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 21bot
+[21-Aug-2014 11:42:39 AM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 11:42:39 AM] Man dropped 34x [itemId=995, name=Coins] for 33bot
+[21-Aug-2014 11:42:41 AM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 11:42:41 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 9bot
+[21-Aug-2014 11:42:45 AM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 11:42:45 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 47bot
+[21-Aug-2014 11:42:46 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 36bot
+[21-Aug-2014 11:42:46 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:42:46 AM] Man dropped 6x [itemId=554, name=Fire rune] for 36bot
+[21-Aug-2014 11:42:49 AM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 11:42:49 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 47bot
+[21-Aug-2014 11:42:54 AM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 11:42:54 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 32bot
+[21-Aug-2014 11:42:55 AM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 11:42:55 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 12bot
+[21-Aug-2014 11:42:59 AM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 11:42:59 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 1bot
+[21-Aug-2014 11:43:02 AM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 11:43:02 AM] Man dropped 1x [itemId=995, name=Coins] for 23bot
+[21-Aug-2014 11:43:05 AM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 11:43:05 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 6bot
+[21-Aug-2014 11:43:05 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:43:05 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 41bot
+[21-Aug-2014 11:43:07 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:43:07 AM] Man dropped 4x [itemId=877, name=Bronze bolts] for 36bot
+[21-Aug-2014 11:43:11 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:43:11 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 41bot
+[21-Aug-2014 11:43:13 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 25bot
+[21-Aug-2014 11:43:13 AM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 11:43:13 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 25bot
+[21-Aug-2014 11:43:16 AM] Man dropped 1x [itemId=526, name=Bones] for 81bot
+[21-Aug-2014 11:43:16 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 81bot
+[21-Aug-2014 11:43:21 AM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 11:43:21 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 10bot
+[21-Aug-2014 11:43:24 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 87bot
+[21-Aug-2014 11:43:24 AM] Man dropped 1x [itemId=526, name=Bones] for 87bot
+[21-Aug-2014 11:43:24 AM] Man dropped 6x [itemId=554, name=Fire rune] for 87bot
+[21-Aug-2014 11:43:24 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:43:24 AM] Man dropped 1x [itemId=436, name=Copper ore] for 5bot
+[21-Aug-2014 11:43:30 AM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 11:43:30 AM] Man dropped 1x [itemId=436, name=Copper ore] for 20bot
+[21-Aug-2014 11:43:31 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 52bot
+[21-Aug-2014 11:43:31 AM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 11:43:31 AM] Man dropped 4x [itemId=557, name=Earth rune] for 52bot
+[21-Aug-2014 11:43:33 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:43:33 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 36bot
+[21-Aug-2014 11:43:35 AM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 11:43:35 AM] Man dropped 7x [itemId=555, name=Water rune] for 51bot
+[21-Aug-2014 11:43:37 AM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 11:43:37 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 45bot
+[21-Aug-2014 11:43:44 AM] Man dropped 1x [itemId=526, name=Bones] for 68bot
+[21-Aug-2014 11:43:44 AM] Man dropped 7x [itemId=877, name=Bronze bolts] for 68bot
+[21-Aug-2014 11:44:05 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 41bot
+[21-Aug-2014 11:44:05 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:44:05 AM] Man dropped 7x [itemId=555, name=Water rune] for 41bot
+[21-Aug-2014 11:44:10 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 40bot
+[21-Aug-2014 11:44:10 AM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 11:44:10 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 40bot
+[21-Aug-2014 11:44:13 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:44:13 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 36bot
+[21-Aug-2014 11:44:22 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:44:22 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 37bot
+[21-Aug-2014 11:44:26 AM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 11:44:26 AM] Man dropped 6x [itemId=554, name=Fire rune] for 32bot
+[21-Aug-2014 11:44:26 AM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 11:44:26 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 37bot
+[21-Aug-2014 11:44:28 AM] Man dropped 1x [itemId=526, name=Bones] for Mod T
+[21-Aug-2014 11:44:28 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for Mod T
+[21-Aug-2014 11:44:35 AM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 11:44:35 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 40bot
+[21-Aug-2014 11:44:44 AM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 11:44:44 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 19bot
+[21-Aug-2014 11:44:47 AM] Man dropped 1x [itemId=526, name=Bones] for 90bot
+[21-Aug-2014 11:44:47 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 90bot
+[21-Aug-2014 11:47:56 AM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 11:47:56 AM] Man dropped 4x [itemId=557, name=Earth rune] for 31bot
+[21-Aug-2014 11:47:56 AM] Man dropped 1x [itemId=526, name=Bones] for 190bot
+[21-Aug-2014 11:47:56 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 190bot
+[21-Aug-2014 11:47:56 AM] Man dropped 1x [itemId=526, name=Bones] for 111bot
+[21-Aug-2014 11:47:57 AM] Man dropped 4x [itemId=877, name=Bronze bolts] for 111bot
+[21-Aug-2014 11:47:57 AM] Man dropped 1x [itemId=526, name=Bones] for 154bot
+[21-Aug-2014 11:47:57 AM] Man dropped 9x [itemId=558, name=Mind rune] for 154bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=526, name=Bones] for 58bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 58bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=526, name=Bones] for 244bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 244bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=526, name=Bones] for 109bot
+[21-Aug-2014 11:47:59 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 109bot
+[21-Aug-2014 11:48:00 AM] Man dropped 1x [itemId=526, name=Bones] for 75bot
+[21-Aug-2014 11:48:00 AM] Man dropped 9x [itemId=558, name=Mind rune] for 75bot
+[21-Aug-2014 11:48:00 AM] Man dropped 1x [itemId=526, name=Bones] for 173bot
+[21-Aug-2014 11:48:00 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 173bot
+[21-Aug-2014 11:48:00 AM] Man dropped 1x [itemId=526, name=Bones] for 215bot
+[21-Aug-2014 11:48:00 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 215bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 149bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=438, name=Tin ore] for 149bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 13bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=438, name=Tin ore] for 13bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 137bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 137bot
+[21-Aug-2014 11:48:01 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 137bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 188bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 188bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=436, name=Copper ore] for 89bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 161bot
+[21-Aug-2014 11:48:01 AM] Man dropped 1x [itemId=526, name=Bones] for 161bot
+[21-Aug-2014 11:48:01 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 161bot
+[21-Aug-2014 11:48:02 AM] Man dropped 1x [itemId=526, name=Bones] for 123bot
+[21-Aug-2014 11:48:02 AM] Man dropped 7x [itemId=555, name=Water rune] for 123bot
+[21-Aug-2014 11:48:02 AM] Man dropped 1x [itemId=526, name=Bones] for 131bot
+[21-Aug-2014 11:48:02 AM] Man dropped 9x [itemId=558, name=Mind rune] for 131bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 124bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 124bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 93bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 93bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 69bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 69bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 86bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 86bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 229bot
+[21-Aug-2014 11:48:03 AM] Man dropped 19x [itemId=995, name=Coins] for 229bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 11:48:03 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 19bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=217, name=Grimy dwarf weed] for 39bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 35bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 11:48:04 AM] Man dropped 4x [itemId=557, name=Earth rune] for 96bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 23bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 169bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=438, name=Tin ore] for 169bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=526, name=Bones] for 240bot
+[21-Aug-2014 11:48:04 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 240bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=12159, name=Green charm] for 134bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 134bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 134bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 11:48:05 AM] Man dropped 4x [itemId=877, name=Bronze bolts] for 73bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 94bot
+[21-Aug-2014 11:48:05 AM] Man dropped 6x [itemId=554, name=Fire rune] for 94bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 8bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 172bot
+[21-Aug-2014 11:48:05 AM] Man dropped 9x [itemId=558, name=Mind rune] for 172bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 97bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 225bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 225bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 28bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 105bot
+[21-Aug-2014 11:48:05 AM] Man dropped 6x [itemId=554, name=Fire rune] for 105bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=526, name=Bones] for 199bot
+[21-Aug-2014 11:48:05 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 199bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 115bot
+[21-Aug-2014 11:48:06 AM] Man dropped 4x [itemId=557, name=Earth rune] for 115bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=12159, name=Green charm] for 103bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 103bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 103bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 213bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 213bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 102bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 102bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 126bot
+[21-Aug-2014 11:48:06 AM] Man dropped 4x [itemId=557, name=Earth rune] for 126bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 177bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 177bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 214bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 214bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 198bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 198bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=526, name=Bones] for 138bot
+[21-Aug-2014 11:48:06 AM] Man dropped 1x [itemId=438, name=Tin ore] for 138bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 236bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 236bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 241bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 241bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 196bot
+[21-Aug-2014 11:48:07 AM] Man dropped 7x [itemId=555, name=Water rune] for 196bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 88bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 88bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 193bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 193bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 60bot
+[21-Aug-2014 11:48:07 AM] Man dropped 1x [itemId=526, name=Bones] for 60bot
+[21-Aug-2014 11:48:07 AM] Man dropped 3x [itemId=877, name=Bronze bolts] for 60bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 52bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 52bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 57bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 57bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 74bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 167bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 167bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 238bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 238bot
+[21-Aug-2014 11:48:08 AM] Man dropped 9x [itemId=877, name=Bronze bolts] for 238bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 34bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 180bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 180bot
+[21-Aug-2014 11:48:08 AM] Man dropped 1x [itemId=526, name=Bones] for 113bot
+[21-Aug-2014 11:48:08 AM] Man dropped 2x [itemId=877, name=Bronze bolts] for 113bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 186bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=436, name=Copper ore] for 186bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 228bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 228bot
+[21-Aug-2014 11:48:09 AM] Man dropped 6x [itemId=877, name=Bronze bolts] for 228bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 183bot
+[21-Aug-2014 11:48:09 AM] Man dropped 7x [itemId=555, name=Water rune] for 183bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 176bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 176bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 10bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 11:48:09 AM] Man dropped 2x [itemId=877, name=Bronze bolts] for 10bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 170bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 170bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 14bot
+[21-Aug-2014 11:48:09 AM] Man dropped 1x [itemId=526, name=Bones] for 140bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 140bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=526, name=Bones] for 84bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 84bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=526, name=Bones] for 209bot
+[21-Aug-2014 11:48:10 AM] Man dropped 3x [itemId=877, name=Bronze bolts] for 209bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=526, name=Bones] for 155bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 155bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 11:48:10 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 17bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 54bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 226bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 226bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 235bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 235bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 132bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 132bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 117bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 117bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 112bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 112bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 204bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 204bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 144bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 144bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=438, name=Tin ore] for 144bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 207bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 207bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 11:48:11 AM] Man dropped 3x [itemId=877, name=Bronze bolts] for 99bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=526, name=Bones] for 162bot
+[21-Aug-2014 11:48:11 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 162bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 5bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 41bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 160bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=436, name=Copper ore] for 160bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 11:48:12 AM] Man dropped 7x [itemId=559, name=Body rune] for 1bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 127bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=436, name=Copper ore] for 127bot
+[21-Aug-2014 11:48:12 AM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 11:48:12 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 66bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 200bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 200bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 90bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 90bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 158bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 158bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=12163, name=Blue charm] for 95bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 11:48:13 AM] Man dropped 37x [itemId=995, name=Coins] for 95bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 122bot
+[21-Aug-2014 11:48:13 AM] Man dropped 6x [itemId=554, name=Fire rune] for 122bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 163bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 163bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 174bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 174bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=526, name=Bones] for 135bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 135bot
+[21-Aug-2014 11:48:13 AM] Man dropped 1x [itemId=12159, name=Green charm] for 141bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 141bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 141bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 30bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 234bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 234bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 80bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 80bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 121bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 121bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 121bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=436, name=Copper ore] for 6bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 64bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 64bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=526, name=Bones] for 130bot
+[21-Aug-2014 11:48:14 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 130bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 101bot
+[21-Aug-2014 11:48:15 AM] Man dropped 6x [itemId=554, name=Fire rune] for 101bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 211bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 211bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 18bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 187bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 187bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 11:48:15 AM] Man dropped 10x [itemId=877, name=Bronze bolts] for 11bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 182bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 182bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 125bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 125bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=526, name=Bones] for 201bot
+[21-Aug-2014 11:48:15 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 201bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 100bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 100bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 219bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 219bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 208bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 208bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 87bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 87bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 53bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 53bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 194bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=526, name=Bones] for 194bot
+[21-Aug-2014 11:48:16 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 194bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=526, name=Bones] for 181bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 181bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=526, name=Bones] for 119bot
+[21-Aug-2014 11:48:17 AM] Man dropped 6x [itemId=554, name=Fire rune] for 119bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 21bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 25bot
+[21-Aug-2014 11:48:17 AM] Man dropped 1x [itemId=526, name=Bones] for 111bot
+[21-Aug-2014 11:48:17 AM] Man dropped 36x [itemId=995, name=Coins] for 111bot
+[21-Aug-2014 11:48:18 AM] Man dropped 1x [itemId=526, name=Bones] for 92bot
+[21-Aug-2014 11:48:18 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 92bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 44bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 249bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 249bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 139bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=436, name=Copper ore] for 139bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 3bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=1438, name=Air talisman] for 77bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=526, name=Bones] for 195bot
+[21-Aug-2014 11:48:19 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 195bot
+[21-Aug-2014 11:48:20 AM] Man dropped 1x [itemId=526, name=Bones] for 243bot
+[21-Aug-2014 11:48:20 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 243bot
+[21-Aug-2014 11:48:20 AM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 11:48:20 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 45bot
+[21-Aug-2014 11:48:21 AM] Man dropped 1x [itemId=526, name=Bones] for 246bot
+[21-Aug-2014 11:48:21 AM] Man dropped 9x [itemId=995, name=Coins] for 246bot
+[21-Aug-2014 11:48:21 AM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 11:48:21 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 69bot
+[21-Aug-2014 11:48:21 AM] Man dropped 1x [itemId=526, name=Bones] for 232bot
+[21-Aug-2014 11:48:21 AM] Man dropped 9x [itemId=558, name=Mind rune] for 232bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=526, name=Bones] for 212bot
+[21-Aug-2014 11:48:22 AM] Man dropped 6x [itemId=554, name=Fire rune] for 212bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=526, name=Bones] for 75bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 75bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=526, name=Bones] for 218bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 218bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 51bot
+[21-Aug-2014 11:48:22 AM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 11:48:23 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 15bot
+[21-Aug-2014 11:48:23 AM] Man dropped 1x [itemId=526, name=Bones] for 159bot
+[21-Aug-2014 11:48:23 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 159bot
+[21-Aug-2014 11:48:23 AM] Man dropped 1x [itemId=526, name=Bones] for 27bot
+[21-Aug-2014 11:48:23 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 27bot
+[21-Aug-2014 11:48:24 AM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 11:48:24 AM] Man dropped 1x [itemId=1965, name=Cabbage] for 20bot
+[21-Aug-2014 11:48:24 AM] Man dropped 1x [itemId=526, name=Bones] for 68bot
+[21-Aug-2014 11:48:24 AM] Man dropped 7x [itemId=877, name=Bronze bolts] for 68bot
+[21-Aug-2014 11:48:25 AM] Man dropped 1x [itemId=526, name=Bones] for 109bot
+[21-Aug-2014 11:48:25 AM] Man dropped 24x [itemId=995, name=Coins] for 109bot
+[21-Aug-2014 11:48:25 AM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 11:48:25 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 79bot
+[21-Aug-2014 11:48:27 AM] Man dropped 1x [itemId=526, name=Bones] for 149bot
+[21-Aug-2014 11:48:27 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 149bot
+[21-Aug-2014 11:48:30 AM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 11:48:30 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 36bot
+[21-Aug-2014 11:48:30 AM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 11:48:30 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 17bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 91bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 91bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 16bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 11:48:31 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 16bot
+[21-Aug-2014 11:48:32 AM] Man dropped 1x [itemId=526, name=Bones] for 71bot
+[21-Aug-2014 11:48:32 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 71bot
+[21-Aug-2014 11:48:32 AM] Man dropped 1x [itemId=526, name=Bones] for 240bot
+[21-Aug-2014 11:48:32 AM] Man dropped 9x [itemId=877, name=Bronze bolts] for 240bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 209bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=313, name=Fishing bait] for 209bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 88bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 88bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 177bot
+[21-Aug-2014 11:48:33 AM] Man dropped 8x [itemId=877, name=Bronze bolts] for 177bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 67bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=1381, name=Staff of air] for 67bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 131bot
+[21-Aug-2014 11:48:33 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 131bot
+[21-Aug-2014 11:48:33 AM] Man dropped 1x [itemId=526, name=Bones] for 222bot
+[21-Aug-2014 11:48:33 AM] Man dropped 4x [itemId=557, name=Earth rune] for 222bot
+[21-Aug-2014 11:48:34 AM] Man dropped 1x [itemId=526, name=Bones] for 169bot
+[21-Aug-2014 11:48:34 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 169bot
+[21-Aug-2014 11:48:34 AM] Man dropped 1x [itemId=526, name=Bones] for 192bot
+[21-Aug-2014 11:48:34 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 192bot
+[21-Aug-2014 11:48:34 AM] Man dropped 1x [itemId=526, name=Bones] for 152bot
+[21-Aug-2014 11:48:35 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 152bot
+[21-Aug-2014 11:48:35 AM] Man dropped 1x [itemId=526, name=Bones] for 114bot
+[21-Aug-2014 11:48:35 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 114bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=526, name=Bones] for 190bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 190bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 126bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=526, name=Bones] for 126bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=1440, name=Earth talisman] for 126bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=526, name=Bones] for 217bot
+[21-Aug-2014 11:48:41 AM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 217bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=526, name=Bones] for 57bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 57bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=12158, name=Gold charm] for 106bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=526, name=Bones] for 106bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 106bot
+[21-Aug-2014 11:48:42 AM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 11:48:42 AM] Man dropped 9x [itemId=558, name=Mind rune] for 12bot
+[21-Aug-2014 11:48:43 AM] Man dropped 1x [itemId=526, name=Bones] for 236bot
+[21-Aug-2014 11:48:43 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 236bot
+[21-Aug-2014 11:48:47 AM] Man dropped 1x [itemId=526, name=Bones] for 78bot
+[21-Aug-2014 11:48:47 AM] Man dropped 1x [itemId=438, name=Tin ore] for 78bot
+[21-Aug-2014 11:48:49 AM] Man dropped 1x [itemId=526, name=Bones] for 244bot
+[21-Aug-2014 11:48:49 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 244bot
+[21-Aug-2014 11:48:49 AM] Man dropped 1x [itemId=12160, name=Crimson charm] for 129bot
+[21-Aug-2014 11:48:49 AM] Man dropped 1x [itemId=526, name=Bones] for 129bot
+[21-Aug-2014 11:48:49 AM] Man dropped 9x [itemId=558, name=Mind rune] for 129bot
+[21-Aug-2014 11:48:51 AM] Man dropped 1x [itemId=526, name=Bones] for 229bot
+[21-Aug-2014 11:48:51 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 229bot
+[21-Aug-2014 11:48:52 AM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 11:48:52 AM] Man dropped 9x [itemId=558, name=Mind rune] for 9bot
+[21-Aug-2014 11:48:56 AM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 11:48:56 AM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 30bot
+[21-Aug-2014 11:49:00 AM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 11:49:00 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 38bot
+[21-Aug-2014 11:49:01 AM] Man dropped 1x [itemId=526, name=Bones] for 142bot
+[21-Aug-2014 11:49:01 AM] Man dropped 7x [itemId=555, name=Water rune] for 142bot
+[21-Aug-2014 11:49:02 AM] Man dropped 1x [itemId=526, name=Bones] for 144bot
+[21-Aug-2014 11:49:02 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 144bot
+[21-Aug-2014 11:49:03 AM] Man dropped 1x [itemId=526, name=Bones] for 174bot
+[21-Aug-2014 11:49:03 AM] Man dropped 2x [itemId=877, name=Bronze bolts] for 174bot
+[21-Aug-2014 11:49:03 AM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 245bot
+[21-Aug-2014 11:49:03 AM] Man dropped 1x [itemId=526, name=Bones] for 245bot
+[21-Aug-2014 11:49:03 AM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 245bot
+[21-Aug-2014 11:49:08 AM] Man dropped 1x [itemId=526, name=Bones] for 192bot
+[21-Aug-2014 11:49:08 AM] Man dropped 1x [itemId=438, name=Tin ore] for 192bot
+[21-Aug-2014 11:49:19 AM] Man dropped 1x [itemId=526, name=Bones] for 103bot
+[21-Aug-2014 11:49:19 AM] Man dropped 8x [itemId=877, name=Bronze bolts] for 103bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=526, name=Bones] for 62bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=209, name=Grimy irit] for 62bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 226bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=526, name=Bones] for 226bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 226bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 11:49:21 AM] Man dropped 1x [itemId=205, name=Grimy harralander] for 46bot
+[21-Aug-2014 11:49:25 AM] Man dropped 1x [itemId=526, name=Bones] for 138bot
+[21-Aug-2014 11:49:25 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 138bot
+[21-Aug-2014 11:49:26 AM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 11:49:26 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 17bot
+[21-Aug-2014 11:49:38 AM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 111bot
+[21-Aug-2014 11:49:38 AM] Man dropped 1x [itemId=526, name=Bones] for 111bot
+[21-Aug-2014 11:49:38 AM] Man dropped 1x [itemId=199, name=Grimy guam] for 111bot
+[21-Aug-2014 11:49:41 AM] Man dropped 1x [itemId=526, name=Bones] for 139bot
+[21-Aug-2014 11:49:41 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 139bot
+[21-Aug-2014 11:49:43 AM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 11:49:43 AM] Man dropped 2x [itemId=562, name=Chaos rune] for 41bot
+[21-Aug-2014 11:49:43 AM] Man dropped 1x [itemId=526, name=Bones] for 126bot
+[21-Aug-2014 11:49:43 AM] Man dropped 1x [itemId=1203, name=Iron dagger] for 126bot
+[21-Aug-2014 11:49:57 AM] Man dropped 1x [itemId=526, name=Bones] for 116bot
+[21-Aug-2014 11:49:57 AM] Man dropped 7x [itemId=995, name=Coins] for 116bot
+[21-Aug-2014 11:49:57 AM] Man dropped 1x [itemId=526, name=Bones] for 144bot
+[21-Aug-2014 11:49:57 AM] Man dropped 8x [itemId=995, name=Coins] for 144bot
+[21-Aug-2014 11:50:04 AM] Man dropped 1x [itemId=526, name=Bones] for 158bot
+[21-Aug-2014 11:50:04 AM] Man dropped 7x [itemId=555, name=Water rune] for 158bot
+[21-Aug-2014 11:50:20 AM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 11:50:20 AM] Man dropped 2x [itemId=995, name=Coins] for 70bot
+[21-Aug-2014 11:50:32 AM] Man dropped 1x [itemId=526, name=Bones] for 216bot
+[21-Aug-2014 11:50:32 AM] Man dropped 7x [itemId=559, name=Body rune] for 216bot
+[21-Aug-2014 11:50:33 AM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 11:50:33 AM] Man dropped 7x [itemId=555, name=Water rune] for 46bot
+[21-Aug-2014 11:50:37 AM] Man dropped 1x [itemId=526, name=Bones] for 145bot
+[21-Aug-2014 11:50:37 AM] Man dropped 7x [itemId=882, name=Bronze arrow] for 145bot
+[21-Aug-2014 11:50:54 AM] Man dropped 1x [itemId=526, name=Bones] for 221bot
+[21-Aug-2014 11:50:54 AM] Man dropped 4x [itemId=557, name=Earth rune] for 221bot
+[21-Aug-2014 11:51:21 AM] Man dropped 1x [itemId=526, name=Bones] for 162bot
+[21-Aug-2014 11:51:21 AM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 162bot
+[21-Aug-2014 12:52:35 PM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 12:52:35 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 20bot
+[21-Aug-2014 12:52:35 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 36bot
+[21-Aug-2014 12:52:35 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:52:35 PM] Man dropped 7x [itemId=555, name=Water rune] for 36bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 15bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=526, name=Bones] for 49bot
+[21-Aug-2014 12:52:36 PM] Man dropped 4x [itemId=557, name=Earth rune] for 49bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 21bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 12:52:36 PM] Man dropped 1x [itemId=438, name=Tin ore] for 21bot
+[21-Aug-2014 12:52:37 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 12:52:37 PM] Man dropped 1x [itemId=436, name=Copper ore] for 10bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 27bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=526, name=Bones] for 27bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 27bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 12:52:38 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 33bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 12:52:38 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 38bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 22bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 22bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 19bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=436, name=Copper ore] for 1bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 48bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 12:52:40 PM] Man dropped 29x [itemId=995, name=Coins] for 40bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 12:52:40 PM] Man dropped 7x [itemId=995, name=Coins] for 44bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 4bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 35bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 35bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 17bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 12:52:40 PM] Man dropped 18x [itemId=995, name=Coins] for 9bot
+[21-Aug-2014 12:52:40 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 12:52:40 PM] Man dropped 25x [itemId=995, name=Coins] for 28bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 37bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 12:52:42 PM] Man dropped 19x [itemId=995, name=Coins] for 14bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 3bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=436, name=Copper ore] for 8bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 12:52:42 PM] Man dropped 34x [itemId=995, name=Coins] for 24bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 12:52:42 PM] Man dropped 10x [itemId=877, name=Bronze bolts] for 39bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=438, name=Tin ore] for 12bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 16bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 12:52:42 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 16bot
+[21-Aug-2014 12:52:43 PM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 12:52:43 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 7bot
+[21-Aug-2014 12:52:43 PM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 12:52:43 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 25bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 11bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 12:52:45 PM] Man dropped 5x [itemId=877, name=Bronze bolts] for 11bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 26bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 26bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 42bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 42bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 47bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 6bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 6bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 12:52:45 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 46bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 29bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 29bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 34bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 2bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=526, name=Bones] for 2bot
+[21-Aug-2014 12:52:47 PM] Man dropped 10x [itemId=877, name=Bronze bolts] for 2bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 5bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 5bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 12:52:47 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 18bot
+[21-Aug-2014 12:52:49 PM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 12:52:49 PM] Man dropped 30x [itemId=995, name=Coins] for 32bot
+[21-Aug-2014 12:52:49 PM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 12:52:49 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 23bot
+[21-Aug-2014 12:52:49 PM] Man dropped 1x [itemId=12159, name=Green charm] for 41bot
+[21-Aug-2014 12:52:50 PM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 12:52:50 PM] Man dropped 31x [itemId=995, name=Coins] for 41bot
+[21-Aug-2014 12:52:50 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 13bot
+[21-Aug-2014 12:52:50 PM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 12:52:50 PM] Man dropped 5x [itemId=877, name=Bronze bolts] for 13bot
+[21-Aug-2014 12:52:50 PM] Man dropped 1x [itemId=526, name=Bones] for 43bot
+[21-Aug-2014 12:52:50 PM] Man dropped 4x [itemId=557, name=Earth rune] for 43bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 0bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 12:52:52 PM] Man dropped 38x [itemId=995, name=Coins] for 0bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 45bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 12:52:52 PM] Man dropped 1x [itemId=438, name=Tin ore] for 30bot
+[21-Aug-2014 12:53:00 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:53:00 PM] Man dropped 4x [itemId=557, name=Earth rune] for 36bot
+[21-Aug-2014 12:53:02 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 12:53:02 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 31bot
+[21-Aug-2014 12:53:02 PM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 12:53:02 PM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 20bot
+[21-Aug-2014 12:53:03 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 12:53:03 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 28bot
+[21-Aug-2014 12:53:05 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 12:53:05 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 35bot
+[21-Aug-2014 12:53:06 PM] Man dropped 1x [itemId=526, name=Bones] for 27bot
+[21-Aug-2014 12:53:06 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 27bot
+[21-Aug-2014 12:53:06 PM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 12:53:06 PM] Man dropped 4x [itemId=557, name=Earth rune] for 16bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 15bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 12:53:08 PM] Man dropped 7x [itemId=555, name=Water rune] for 15bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 48bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 12:53:08 PM] Man dropped 4x [itemId=557, name=Earth rune] for 4bot
+[21-Aug-2014 12:53:08 PM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 12:53:08 PM] Man dropped 14x [itemId=995, name=Coins] for 40bot
+[21-Aug-2014 12:53:09 PM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 12:53:09 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 17bot
+[21-Aug-2014 12:53:11 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 22bot
+[21-Aug-2014 12:53:11 PM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 12:53:11 PM] Man dropped 4x [itemId=557, name=Earth rune] for 22bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 21bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 21bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 13bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 12:53:12 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 25bot
+[21-Aug-2014 12:53:13 PM] Man dropped 1x [itemId=12158, name=Gold charm] for 33bot
+[21-Aug-2014 12:53:13 PM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 12:53:13 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 33bot
+[21-Aug-2014 12:53:13 PM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 12:53:13 PM] Man dropped 7x [itemId=555, name=Water rune] for 44bot
+[21-Aug-2014 12:53:14 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 8bot
+[21-Aug-2014 12:53:14 PM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 12:53:14 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 8bot
+[21-Aug-2014 12:53:14 PM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 12:53:14 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 3bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 32bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 12:53:15 PM] Man dropped 4x [itemId=557, name=Earth rune] for 19bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 39bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 12:53:15 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 7bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 12:53:17 PM] Man dropped 4x [itemId=995, name=Coins] for 30bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 37bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 11bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 12:53:17 PM] Man dropped 38x [itemId=995, name=Coins] for 11bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 12:53:17 PM] Man dropped 9x [itemId=558, name=Mind rune] for 9bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 10bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 12:53:17 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 6bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 38bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=436, name=Copper ore] for 38bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 1bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 1bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=526, name=Bones] for 26bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 26bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 47bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 47bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 10bot
+[21-Aug-2014 12:53:18 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 12:53:18 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 10bot
+[21-Aug-2014 12:53:19 PM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 12:53:19 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 0bot
+[21-Aug-2014 12:53:19 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 12:53:19 PM] Man dropped 9x [itemId=558, name=Mind rune] for 14bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 5bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 49bot
+[21-Aug-2014 12:53:20 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 49bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=438, name=Tin ore] for 29bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=12158, name=Gold charm] for 42bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 42bot
+[21-Aug-2014 12:53:20 PM] Man dropped 3x [itemId=877, name=Bronze bolts] for 42bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 15bot
+[21-Aug-2014 12:53:20 PM] Man dropped 4x [itemId=557, name=Earth rune] for 15bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 43bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 43bot
+[21-Aug-2014 12:53:20 PM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 12:53:20 PM] Man dropped 5x [itemId=877, name=Bronze bolts] for 24bot
+[21-Aug-2014 12:53:21 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:53:21 PM] Man dropped 6x [itemId=554, name=Fire rune] for 12bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 45bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 41bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=526, name=Bones] for 2bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 2bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 12:53:22 PM] Man dropped 9x [itemId=558, name=Mind rune] for 23bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 12:53:22 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 1bot
+[21-Aug-2014 12:53:23 PM] Man dropped 1x [itemId=526, name=Bones] for 2bot
+[21-Aug-2014 12:53:23 PM] Man dropped 6x [itemId=554, name=Fire rune] for 2bot
+[21-Aug-2014 12:53:23 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:53:23 PM] Man dropped 7x [itemId=995, name=Coins] for 12bot
+[21-Aug-2014 12:53:23 PM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 12:53:23 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 9bot
+[21-Aug-2014 12:53:24 PM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 12:53:24 PM] Man dropped 7x [itemId=555, name=Water rune] for 46bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=12159, name=Green charm] for 0bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 12:53:25 PM] Man dropped 4x [itemId=557, name=Earth rune] for 0bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 18bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 18bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=12159, name=Green charm] for 35bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 12:53:25 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 35bot
+[21-Aug-2014 12:53:26 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 29bot
+[21-Aug-2014 12:53:26 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 12:53:26 PM] Man dropped 7x [itemId=559, name=Body rune] for 29bot
+[21-Aug-2014 12:53:26 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 12:53:26 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 14bot
+[21-Aug-2014 12:53:27 PM] Man dropped 1x [itemId=526, name=Bones] for 5bot
+[21-Aug-2014 12:53:27 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 5bot
+[21-Aug-2014 12:53:27 PM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 12:53:27 PM] Man dropped 4x [itemId=557, name=Earth rune] for 23bot
+[21-Aug-2014 12:53:28 PM] Man dropped 1x [itemId=12159, name=Green charm] for 6bot
+[21-Aug-2014 12:53:28 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 12:53:28 PM] Man dropped 9x [itemId=877, name=Bronze bolts] for 6bot
+[21-Aug-2014 12:53:28 PM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 12:53:28 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 13bot
+[21-Aug-2014 12:53:29 PM] Man dropped 1x [itemId=526, name=Bones] for 65bot
+[21-Aug-2014 12:53:29 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 65bot
+[21-Aug-2014 12:53:29 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 32bot
+[21-Aug-2014 12:53:29 PM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 12:53:29 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 32bot
+[21-Aug-2014 12:53:30 PM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 12:53:30 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 30bot
+[21-Aug-2014 12:53:30 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 12:53:30 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 21bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 20bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 12:53:31 PM] Man dropped 20x [itemId=995, name=Coins] for 18bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 12:53:31 PM] Man dropped 9x [itemId=558, name=Mind rune] for 51bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 12:53:31 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 47bot
+[21-Aug-2014 12:53:32 PM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 12:53:32 PM] Man dropped 4x [itemId=557, name=Earth rune] for 69bot
+[21-Aug-2014 12:53:32 PM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 12:53:33 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 38bot
+[21-Aug-2014 12:53:34 PM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 12:53:34 PM] Man dropped 28x [itemId=995, name=Coins] for 54bot
+[21-Aug-2014 12:53:34 PM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 12:53:34 PM] Man dropped 1x [itemId=438, name=Tin ore] for 39bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 22bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=526, name=Bones] for 16bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 16bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 34bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 12:53:35 PM] Man dropped 1x [itemId=436, name=Copper ore] for 34bot
+[21-Aug-2014 12:53:36 PM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 12:53:36 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 95bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 70bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 70bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 28bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 12:53:37 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 28bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 94bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=526, name=Bones] for 94bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 94bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 24bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=526, name=Bones] for 81bot
+[21-Aug-2014 12:53:38 PM] Man dropped 12x [itemId=995, name=Coins] for 81bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 33bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 12:53:38 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 37bot
+[21-Aug-2014 12:53:39 PM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 12:53:39 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 73bot
+[21-Aug-2014 12:53:40 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 66bot
+[21-Aug-2014 12:53:40 PM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 12:53:40 PM] Man dropped 6x [itemId=554, name=Fire rune] for 66bot
+[21-Aug-2014 12:53:40 PM] Man dropped 1x [itemId=526, name=Bones] for 82bot
+[21-Aug-2014 12:53:40 PM] Man dropped 1x [itemId=436, name=Copper ore] for 82bot
+[21-Aug-2014 12:53:41 PM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 12:53:41 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 52bot
+[21-Aug-2014 12:53:41 PM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 12:53:41 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 4bot
+[21-Aug-2014 12:53:42 PM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 12:53:42 PM] Man dropped 1x [itemId=436, name=Copper ore] for 41bot
+[21-Aug-2014 12:53:43 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 12:53:43 PM] Man dropped 6x [itemId=554, name=Fire rune] for 10bot
+[21-Aug-2014 12:53:44 PM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 12:53:44 PM] Man dropped 9x [itemId=877, name=Bronze bolts] for 99bot
+[21-Aug-2014 12:53:45 PM] Man dropped 1x [itemId=526, name=Bones] for 78bot
+[21-Aug-2014 12:53:45 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 78bot
+[21-Aug-2014 12:53:46 PM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 12:53:46 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 77bot
+[21-Aug-2014 12:53:47 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:53:47 PM] Man dropped 7x [itemId=555, name=Water rune] for 36bot
+[21-Aug-2014 12:53:50 PM] Man dropped 1x [itemId=526, name=Bones] for 85bot
+[21-Aug-2014 12:53:50 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 85bot
+[21-Aug-2014 12:53:50 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:53:50 PM] Man dropped 1x [itemId=436, name=Copper ore] for 12bot
+[21-Aug-2014 12:53:52 PM] Man dropped 1x [itemId=526, name=Bones] for 84bot
+[21-Aug-2014 12:53:52 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 84bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 12bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 12:53:53 PM] Man dropped 2x [itemId=877, name=Bronze bolts] for 1bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 36bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:53:53 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 36bot
+[21-Aug-2014 12:53:55 PM] Man dropped 1x [itemId=12158, name=Gold charm] for 80bot
+[21-Aug-2014 12:53:55 PM] Man dropped 1x [itemId=526, name=Bones] for 80bot
+[21-Aug-2014 12:53:55 PM] Man dropped 4x [itemId=557, name=Earth rune] for 80bot
+[21-Aug-2014 12:53:55 PM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 12:53:55 PM] Man dropped 1x [itemId=438, name=Tin ore] for 19bot
+[21-Aug-2014 12:53:56 PM] Man dropped 1x [itemId=526, name=Bones] for 42bot
+[21-Aug-2014 12:53:56 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 42bot
+[21-Aug-2014 12:53:57 PM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 12:53:57 PM] Man dropped 2x [itemId=995, name=Coins] for 91bot
+[21-Aug-2014 12:54:05 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 64bot
+[21-Aug-2014 12:54:05 PM] Man dropped 1x [itemId=526, name=Bones] for 64bot
+[21-Aug-2014 12:54:05 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 64bot
+[21-Aug-2014 12:54:06 PM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 12:54:06 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 91bot
+[21-Aug-2014 12:54:07 PM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 12:54:07 PM] Man dropped 1x [itemId=436, name=Copper ore] for 96bot
+[21-Aug-2014 12:54:07 PM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 12:54:07 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 7bot
+[21-Aug-2014 12:54:10 PM] Man dropped 1x [itemId=526, name=Bones] for 27bot
+[21-Aug-2014 12:54:10 PM] Man dropped 1x [itemId=209, name=Grimy irit] for 27bot
+[21-Aug-2014 12:54:19 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:54:19 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 36bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 1bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 12:54:21 PM] Man dropped 7x [itemId=877, name=Bronze bolts] for 11bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=12159, name=Green charm] for 34bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 12:54:21 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 34bot
+[21-Aug-2014 12:54:24 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 12:54:24 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 12bot
+[21-Aug-2014 12:54:24 PM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 12:54:24 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 91bot
+[21-Aug-2014 12:54:31 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 31bot
+[21-Aug-2014 12:54:31 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 12:54:31 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 31bot
+[21-Aug-2014 12:54:43 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 12:54:43 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 35bot
+[21-Aug-2014 12:54:56 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:54:56 PM] Man dropped 2x [itemId=877, name=Bronze bolts] for 36bot
+[21-Aug-2014 12:54:58 PM] Man dropped 1x [itemId=526, name=Bones] for 77bot
+[21-Aug-2014 12:54:58 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 77bot
+[21-Aug-2014 12:55:14 PM] Man dropped 1x [itemId=526, name=Bones] for 83bot
+[21-Aug-2014 12:55:14 PM] Man dropped 7x [itemId=559, name=Body rune] for 83bot
+[21-Aug-2014 12:55:23 PM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 12:55:23 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 19bot
+[21-Aug-2014 12:55:29 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 98bot
+[21-Aug-2014 12:55:29 PM] Man dropped 1x [itemId=526, name=Bones] for 98bot
+[21-Aug-2014 12:55:29 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 98bot
+[21-Aug-2014 12:55:55 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 12:55:55 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 36bot
+[21-Aug-2014 12:55:56 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 12:55:56 PM] Man dropped 7x [itemId=555, name=Water rune] for 6bot
+[21-Aug-2014 12:56:42 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 12:56:42 PM] Man dropped 11x [itemId=877, name=Bronze bolts] for 28bot
+[21-Aug-2014 12:56:54 PM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 12:56:54 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 25bot
+[21-Aug-2014 12:57:03 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 68bot
+[21-Aug-2014 12:57:03 PM] Man dropped 1x [itemId=526, name=Bones] for 68bot
+[21-Aug-2014 12:57:03 PM] Man dropped 1x [itemId=438, name=Tin ore] for 68bot
+[21-Aug-2014 12:59:49 PM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 12:59:49 PM] Man dropped 4x [itemId=557, name=Earth rune] for 70bot
+[21-Aug-2014 1:00:40 PM] Man dropped 1x [itemId=526, name=Bones] for 62bot
+[21-Aug-2014 1:00:40 PM] Man dropped 9x [itemId=558, name=Mind rune] for 62bot
+[21-Aug-2014 1:00:40 PM] Man dropped 1x [itemId=526, name=Bones] for 71bot
+[21-Aug-2014 1:00:40 PM] Man dropped 6x [itemId=877, name=Bronze bolts] for 71bot
+[21-Aug-2014 1:00:43 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 1:00:44 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 21bot
+[21-Aug-2014 1:00:44 PM] Man dropped 1x [itemId=526, name=Bones] for 47bot
+[21-Aug-2014 1:00:44 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 47bot
+[21-Aug-2014 1:00:44 PM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 1:00:44 PM] Man dropped 1x [itemId=438, name=Tin ore] for 96bot
+[21-Aug-2014 1:00:46 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 46bot
+[21-Aug-2014 1:00:46 PM] Man dropped 1x [itemId=526, name=Bones] for 46bot
+[21-Aug-2014 1:00:46 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 46bot
+[21-Aug-2014 1:00:46 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 10bot
+[21-Aug-2014 1:00:46 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 1:00:46 PM] Man dropped 4x [itemId=557, name=Earth rune] for 10bot
+[21-Aug-2014 1:00:46 PM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 1:00:46 PM] Man dropped 6x [itemId=554, name=Fire rune] for 4bot
+[21-Aug-2014 1:00:47 PM] Man dropped 1x [itemId=526, name=Bones] for 11bot
+[21-Aug-2014 1:00:47 PM] Man dropped 1x [itemId=995, name=Coins] for 11bot
+[21-Aug-2014 1:00:47 PM] Man dropped 1x [itemId=526, name=Bones] for 56bot
+[21-Aug-2014 1:00:47 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 56bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 6bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 2bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 2bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 99bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 1:00:48 PM] Man dropped 21x [itemId=995, name=Coins] for 10bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 96bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=436, name=Copper ore] for 96bot
+[21-Aug-2014 1:00:48 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 1:00:48 PM] Man dropped 4x [itemId=877, name=Bronze bolts] for 28bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 35bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 32bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 1:00:49 PM] Man dropped 2x [itemId=877, name=Bronze bolts] for 25bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 97bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 1:00:49 PM] Man dropped 4x [itemId=557, name=Earth rune] for 39bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 40bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 1:00:49 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 40bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 1:00:50 PM] Man dropped 30x [itemId=995, name=Coins] for 6bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=526, name=Bones] for 17bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=438, name=Tin ore] for 17bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=436, name=Copper ore] for 36bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=526, name=Bones] for 82bot
+[21-Aug-2014 1:00:50 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 82bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 73bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 60bot
+[21-Aug-2014 1:00:51 PM] Man dropped 29x [itemId=995, name=Coins] for 60bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 31bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 31bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 61bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 61bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 66bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 66bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 22bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 43bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 43bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 79bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 1:00:51 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 79bot
+[21-Aug-2014 1:00:52 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 1:00:52 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 29bot
+[21-Aug-2014 1:00:52 PM] Man dropped 1x [itemId=526, name=Bones] for 94bot
+[21-Aug-2014 1:00:52 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 94bot
+[21-Aug-2014 1:00:52 PM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 1:00:52 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 8bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=438, name=Tin ore] for 37bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 6bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 6bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=436, name=Copper ore] for 6bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 54bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 20bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 33bot
+[21-Aug-2014 1:00:53 PM] Man dropped 8x [itemId=877, name=Bronze bolts] for 33bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 10bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 10bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 10bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 1:00:53 PM] Man dropped 30x [itemId=995, name=Coins] for 8bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 1:00:53 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 31bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 43bot
+[21-Aug-2014 1:00:54 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 43bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 94bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=436, name=Copper ore] for 94bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 12bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 12bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 21bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 1:00:54 PM] Man dropped 11x [itemId=877, name=Bronze bolts] for 29bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 20bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 20bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 73bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 13bot
+[21-Aug-2014 1:00:54 PM] Man dropped 6x [itemId=877, name=Bronze bolts] for 13bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 61bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 61bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=526, name=Bones] for 71bot
+[21-Aug-2014 1:00:54 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 71bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 49bot
+[21-Aug-2014 1:00:55 PM] Man dropped 4x [itemId=557, name=Earth rune] for 49bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 51bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 51bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 36bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 70bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 70bot
+[21-Aug-2014 1:00:55 PM] Man dropped 4x [itemId=877, name=Bronze bolts] for 70bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=438, name=Tin ore] for 9bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 7bot
+[21-Aug-2014 1:00:55 PM] Man dropped 7x [itemId=555, name=Water rune] for 7bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=526, name=Bones] for 53bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 53bot
+[21-Aug-2014 1:00:55 PM] Man dropped 1x [itemId=12160, name=Crimson charm] for 18bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 18bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 88bot
+[21-Aug-2014 1:00:56 PM] Man dropped 31x [itemId=995, name=Coins] for 88bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 57bot
+[21-Aug-2014 1:00:56 PM] Man dropped 39x [itemId=995, name=Coins] for 57bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 57bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 57bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 44bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 0bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 52bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 1:00:56 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 41bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 82bot
+[21-Aug-2014 1:00:57 PM] Man dropped 7x [itemId=877, name=Bronze bolts] for 82bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 0bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 0bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 99bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 99bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 99bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 89bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 34bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 21bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 21bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=12159, name=Green charm] for 14bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 1:00:57 PM] Man dropped 11x [itemId=995, name=Coins] for 14bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=12159, name=Green charm] for 45bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 45bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 59bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 59bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 8bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 8bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=213, name=Grimy kwuarm] for 51bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 40bot
+[21-Aug-2014 1:00:57 PM] Man dropped 1x [itemId=526, name=Bones] for 22bot
+[21-Aug-2014 1:00:57 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 22bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 84bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=207, name=Grimy ranarr] for 84bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 87bot
+[21-Aug-2014 1:00:58 PM] Man dropped 6x [itemId=554, name=Fire rune] for 87bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 95bot
+[21-Aug-2014 1:00:58 PM] Man dropped 4x [itemId=557, name=Earth rune] for 95bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 51bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=438, name=Tin ore] for 51bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 35bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 35bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 3bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 1:00:58 PM] Man dropped 9x [itemId=558, name=Mind rune] for 31bot
+[21-Aug-2014 1:00:58 PM] Man dropped 1x [itemId=526, name=Bones] for 61bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=313, name=Fishing bait] for 61bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 24bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 24bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 18bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 18bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 36bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 36bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 4bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 4bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 23bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 23bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 52bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=12159, name=Green charm] for 37bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 37bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 37bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 37bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 74bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 1:00:59 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 74bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 44bot
+[21-Aug-2014 1:01:00 PM] Man dropped 9x [itemId=877, name=Bronze bolts] for 44bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 61bot
+[21-Aug-2014 1:01:00 PM] Man dropped 31x [itemId=995, name=Coins] for 61bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 67bot
+[21-Aug-2014 1:01:00 PM] Man dropped 7x [itemId=877, name=Bronze bolts] for 67bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 9bot
+[21-Aug-2014 1:01:00 PM] Man dropped 7x [itemId=555, name=Water rune] for 9bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 42bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 42bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 55bot
+[21-Aug-2014 1:01:00 PM] Man dropped 7x [itemId=555, name=Water rune] for 55bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 1:01:00 PM] Man dropped 1x [itemId=201, name=Grimy marrentill] for 74bot
+[21-Aug-2014 1:01:01 PM] Man dropped 1x [itemId=526, name=Bones] for 39bot
+[21-Aug-2014 1:01:01 PM] Man dropped 4x [itemId=557, name=Earth rune] for 39bot
+[21-Aug-2014 1:01:01 PM] Man dropped 1x [itemId=526, name=Bones] for 40bot
+[21-Aug-2014 1:01:01 PM] Man dropped 1x [itemId=217, name=Grimy dwarf weed] for 40bot
+[21-Aug-2014 1:01:01 PM] Man dropped 1x [itemId=526, name=Bones] for 26bot
+[21-Aug-2014 1:01:01 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 26bot
+[21-Aug-2014 1:01:02 PM] Man dropped 1x [itemId=526, name=Bones] for 74bot
+[21-Aug-2014 1:01:02 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 74bot
+[21-Aug-2014 1:01:02 PM] Man dropped 1x [itemId=12159, name=Green charm] for 3bot
+[21-Aug-2014 1:01:02 PM] Man dropped 1x [itemId=526, name=Bones] for 3bot
+[21-Aug-2014 1:01:03 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 3bot
+[21-Aug-2014 1:01:03 PM] Man dropped 1x [itemId=526, name=Bones] for 73bot
+[21-Aug-2014 1:01:03 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 73bot
+[21-Aug-2014 1:01:03 PM] Man dropped 1x [itemId=526, name=Bones] for 26bot
+[21-Aug-2014 1:01:03 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 26bot
+[21-Aug-2014 1:01:04 PM] Man dropped 1x [itemId=526, name=Bones] for 19bot
+[21-Aug-2014 1:01:04 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 19bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=436, name=Copper ore] for 1bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=3490, name=Clue scroll (easy)] for 45bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=526, name=Bones] for 45bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for 45bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=526, name=Bones] for 34bot
+[21-Aug-2014 1:01:05 PM] Man dropped 1x [itemId=1965, name=Cabbage] for 34bot
+[21-Aug-2014 1:01:06 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 1:01:06 PM] Man dropped 30x [itemId=995, name=Coins] for 1bot
+[21-Aug-2014 1:01:06 PM] Man dropped 1x [itemId=526, name=Bones] for 92bot
+[21-Aug-2014 1:01:06 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 92bot
+[21-Aug-2014 1:01:06 PM] Man dropped 1x [itemId=7237, name=Rewards Casket] for 55bot
+[21-Aug-2014 1:01:06 PM] Man dropped 1x [itemId=526, name=Bones] for 55bot
+[21-Aug-2014 1:01:07 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 55bot
+[21-Aug-2014 1:01:07 PM] Man dropped 1x [itemId=12159, name=Green charm] for 14bot
+[21-Aug-2014 1:01:07 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 1:01:07 PM] Man dropped 1x [itemId=215, name=Grimy cadantine] for 14bot
+[21-Aug-2014 1:01:09 PM] Man dropped 1x [itemId=526, name=Bones] for 21bot
+[21-Aug-2014 1:01:09 PM] Man dropped 14x [itemId=995, name=Coins] for 21bot
+[21-Aug-2014 1:01:09 PM] Man dropped 1x [itemId=526, name=Bones] for 76bot
+[21-Aug-2014 1:01:09 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 76bot
+[21-Aug-2014 1:01:10 PM] Man dropped 1x [itemId=526, name=Bones] for 50bot
+[21-Aug-2014 1:01:10 PM] Man dropped 9x [itemId=558, name=Mind rune] for 50bot
+[21-Aug-2014 1:01:11 PM] Man dropped 1x [itemId=12158, name=Gold charm] for 91bot
+[21-Aug-2014 1:01:11 PM] Man dropped 1x [itemId=526, name=Bones] for 91bot
+[21-Aug-2014 1:01:11 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 91bot
+[21-Aug-2014 1:01:11 PM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 1:01:11 PM] Man dropped 4x [itemId=557, name=Earth rune] for 69bot
+[21-Aug-2014 1:01:12 PM] Man dropped 1x [itemId=526, name=Bones] for 30bot
+[21-Aug-2014 1:01:12 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 30bot
+[21-Aug-2014 1:01:12 PM] Man dropped 1x [itemId=526, name=Bones] for 48bot
+[21-Aug-2014 1:01:12 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 48bot
+[21-Aug-2014 1:01:14 PM] Man dropped 1x [itemId=526, name=Bones] for 79bot
+[21-Aug-2014 1:01:14 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 79bot
+[21-Aug-2014 1:01:20 PM] Man dropped 1x [itemId=526, name=Bones] for 97bot
+[21-Aug-2014 1:01:20 PM] Man dropped 39x [itemId=995, name=Coins] for 97bot
+[21-Aug-2014 1:01:25 PM] Man dropped 1x [itemId=526, name=Bones] for 69bot
+[21-Aug-2014 1:01:25 PM] Man dropped 6x [itemId=554, name=Fire rune] for 69bot
+[21-Aug-2014 1:01:31 PM] Man dropped 1x [itemId=526, name=Bones] for 28bot
+[21-Aug-2014 1:01:31 PM] Man dropped 1x [itemId=436, name=Copper ore] for 28bot
+[21-Aug-2014 1:01:32 PM] Man dropped 1x [itemId=526, name=Bones] for 54bot
+[21-Aug-2014 1:01:32 PM] Man dropped 1x [itemId=1440, name=Earth talisman] for 54bot
+[21-Aug-2014 1:01:37 PM] Man dropped 1x [itemId=526, name=Bones] for 89bot
+[21-Aug-2014 1:01:37 PM] Man dropped 7x [itemId=882, name=Bronze arrow] for 89bot
+[21-Aug-2014 1:01:41 PM] Man dropped 1x [itemId=526, name=Bones] for 41bot
+[21-Aug-2014 1:01:41 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 41bot
+[21-Aug-2014 1:01:44 PM] Man dropped 1x [itemId=526, name=Bones] for 1bot
+[21-Aug-2014 1:01:44 PM] Man dropped 7x [itemId=555, name=Water rune] for 1bot
+[21-Aug-2014 1:01:47 PM] Man dropped 1x [itemId=526, name=Bones] for 49bot
+[21-Aug-2014 1:01:47 PM] Man dropped 1x [itemId=438, name=Tin ore] for 49bot
+[21-Aug-2014 1:01:52 PM] Man dropped 1x [itemId=526, name=Bones] for 38bot
+[21-Aug-2014 1:01:52 PM] Man dropped 4x [itemId=557, name=Earth rune] for 38bot
+[21-Aug-2014 1:01:53 PM] Man dropped 1x [itemId=526, name=Bones] for 31bot
+[21-Aug-2014 1:01:53 PM] Man dropped 1x [itemId=1438, name=Air talisman] for 31bot
+[21-Aug-2014 1:01:58 PM] Man dropped 1x [itemId=526, name=Bones] for 25bot
+[21-Aug-2014 1:01:58 PM] Man dropped 9x [itemId=877, name=Bronze bolts] for 25bot
+[21-Aug-2014 1:02:10 PM] Man dropped 1x [itemId=526, name=Bones] for 32bot
+[21-Aug-2014 1:02:10 PM] Man dropped 1x [itemId=205, name=Grimy harralander] for 32bot
+[21-Aug-2014 1:02:11 PM] Man dropped 1x [itemId=526, name=Bones] for 29bot
+[21-Aug-2014 1:02:11 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 29bot
+[21-Aug-2014 1:02:31 PM] Man dropped 1x [itemId=526, name=Bones] for 14bot
+[21-Aug-2014 1:02:31 PM] Man dropped 6x [itemId=554, name=Fire rune] for 14bot
+[21-Aug-2014 1:02:32 PM] Man dropped 1x [itemId=526, name=Bones] for 52bot
+[21-Aug-2014 1:02:32 PM] Man dropped 1x [itemId=203, name=Grimy tarromin] for 52bot
+[21-Aug-2014 1:02:38 PM] Man dropped 1x [itemId=526, name=Bones] for 72bot
+[21-Aug-2014 1:02:38 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 72bot
+[21-Aug-2014 1:03:13 PM] Man dropped 1x [itemId=12163, name=Blue charm] for 58bot
+[21-Aug-2014 1:03:13 PM] Man dropped 1x [itemId=526, name=Bones] for 58bot
+[21-Aug-2014 1:03:13 PM] Man dropped 1x [itemId=1203, name=Iron dagger] for 58bot
+[21-Aug-2014 1:03:29 PM] Man dropped 1x [itemId=526, name=Bones] for 62bot
+[21-Aug-2014 1:03:29 PM] Man dropped 1x [itemId=1139, name=Bronze med helm] for 62bot
+[21-Aug-2014 1:03:45 PM] Man dropped 1x [itemId=526, name=Bones] for 94bot
+[21-Aug-2014 1:03:45 PM] Man dropped 1x [itemId=199, name=Grimy guam] for 94bot
+[21-Aug-2014 1:25:41 PM] Man dropped 1x [itemId=526, name=Bones] for Mod T
+[21-Aug-2014 1:25:41 PM] Man dropped 1x [itemId=211, name=Grimy avantoe] for Mod T

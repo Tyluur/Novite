@@ -1,0 +1,2 @@
+[22-Aug-2014 3:19:27 PM] Mod T picked up 11x [itemId=18831, name=Frost dragon bones] at region: 10288. Dropee: Mod T
+[22-Aug-2014 3:19:31 PM] Mod T picked up 10x [itemId=10944, name=Vote Token] at region: 10288. Dropee: Mod T

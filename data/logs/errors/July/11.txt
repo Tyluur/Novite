@@ -1,0 +1,252 @@
+[Jul 11, 2014 1:30:18 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 11, 2014 1:30:18 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 11, 2014 1:30:18 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 11, 2014 1:30:18 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 1:30:18 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 1:30:18 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 1:30:19 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 11, 2014 1:30:19 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 11, 2014 1:30:19 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 11, 2014 1:30:19 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 1:30:19 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 1:30:19 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 1:30:20 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 11, 2014 1:30:20 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 11, 2014 1:30:20 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 11, 2014 1:30:20 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 1:30:20 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 1:30:20 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 1:30:22 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 11, 2014 1:30:22 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 11, 2014 1:30:22 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 11, 2014 1:30:22 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 1:30:22 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 1:30:22 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 1:30:23 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:24 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:24 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:25 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:26 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:27 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:28 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:29 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:30 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:31 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:32 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:33 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:34 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:35 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:36 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:36 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:37 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:38 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:39 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:40 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:41 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:41 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:42 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:43 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:44 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:45 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:46 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:46 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:47 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:48 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:49 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:49 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:50 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:51 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:52 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:52 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:53 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:54 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:55 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:55 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:56 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:57 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:58 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:30:59 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:00 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:00 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:01 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:02 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:03 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:04 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:05 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:05 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:06 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:07 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:08 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 1:31:09 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 5:16:07 AM] java.lang.NullPointerException
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.getWorldTile(AkrisaeController.java:246)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.createHillSpawns(AkrisaeController.java:217)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.spawnBrothers(AkrisaeController.java:179)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.process(AkrisaeController.java:61)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.player.ControlerManager.process(ControlerManager.java:191)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.game.player.Player.processEntity(Player.java:518)
+[Jul 11, 2014 5:16:07 AM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:66)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 5:16:07 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 5:16:07 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 6:24:05 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:06 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:07 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:09 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:10 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:11 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:12 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:13 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:14 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:16 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:17 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:18 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:19 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:20 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:22 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:23 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:24 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:25 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:26 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:27 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:29 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:30 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:31 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:32 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:33 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:34 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:35 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:36 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:37 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:38 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:39 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:40 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:41 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:42 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:43 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:44 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:46 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:47 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:48 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:49 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:50 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:51 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:52 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:53 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:54 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:55 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:56 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:58 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:24:59 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:00 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:01 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:03 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:04 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:06 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:08 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:09 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:10 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:11 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:13 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:14 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:15 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:16 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:17 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:18 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:19 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:21 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:22 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:23 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:24 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:25 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:26 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:27 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:28 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:29 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:30 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:31 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:32 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:33 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:34 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 6:25:35 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 11, 2014 4:43:20 PM] java.lang.NullPointerException
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.getWorldTile(AkrisaeController.java:246)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.createHillSpawns(AkrisaeController.java:217)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.spawnBrothers(AkrisaeController.java:179)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.minigames.akrisae.AkrisaeController.process(AkrisaeController.java:61)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.player.ControlerManager.process(ControlerManager.java:191)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.game.player.Player.processEntity(Player.java:518)
+[Jul 11, 2014 4:43:20 PM] 	at novite.rs.engine.game.GameWorker.run(GameWorker.java:66)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:304)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:178)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 4:43:20 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 4:43:20 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 11, 2014 11:54:30 PM] java.lang.ArrayIndexOutOfBoundsException: 197
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.api.event.listeners.interfaces.CharacterCustomisationInterface.handleButtonClick(CharacterCustomisationInterface.java:152)
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:75)
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:176)
+[Jul 11, 2014 11:54:30 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 11, 2014 11:54:30 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 11, 2014 11:54:30 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 11, 2014 11:54:30 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 11, 2014 11:54:30 PM] 	at java.lang.Thread.run(Thread.java:745)

@@ -1,0 +1,607 @@
+[Jul 29, 2014 7:41:40 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 7:41:40 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 7:41:40 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 7:41:40 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 7:41:40 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 7:41:40 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 7:41:41 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 7:41:41 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 7:41:41 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 7:41:41 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 7:41:41 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 7:41:41 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 7:41:43 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 7:41:43 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 7:41:43 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 7:41:43 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 7:41:43 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 7:41:43 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 7:41:44 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 7:41:44 AM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 7:41:44 AM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 7:41:44 AM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 7:41:44 AM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 7:41:44 AM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 7:41:46 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:47 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:48 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:49 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:51 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:52 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:53 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:54 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:55 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:57 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:58 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:41:59 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:00 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:02 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:03 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:04 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:05 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:06 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:07 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:08 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:10 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:11 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:12 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:13 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:14 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:15 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:16 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:17 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:18 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:19 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:20 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:21 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:22 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:23 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:24 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:25 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:26 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:27 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:28 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:29 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:30 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:31 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:32 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:34 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:35 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:36 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:37 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:38 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:39 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:40 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:41 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:42 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:43 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:44 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:45 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 7:42:46 AM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 4:45:52 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:45:52 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:45:52 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:45:52 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:45:52 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:45:52 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:45:58 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:45:58 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:45:58 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:45:58 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:45:58 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:45:58 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:45:59 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:45:59 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:45:59 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:45:59 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:45:59 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:45:59 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:11 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:11 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:11 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:11 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:11 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:11 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:11 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:11 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:11 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:11 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 4:46:12 PM] java.lang.ArrayIndexOutOfBoundsException: 7
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.listeners.interfaces.TelosTeleportationInterface.handleButtonClick(TelosTeleportationInterface.java:61)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.api.event.EventManager.handleButtonClick(EventManager.java:74)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:64)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 4:46:12 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 4:46:12 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 4:46:12 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 4:46:12 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:11:19 PM] java.io.FileNotFoundException: info/script/donations.txt (No such file or directory)
+[Jul 29, 2014 6:11:19 PM] 	at java.io.FileOutputStream.open(Native Method)
+[Jul 29, 2014 6:11:19 PM] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:221)
+[Jul 29, 2014 6:11:19 PM] 	at java.io.FileOutputStream.<init>(FileOutputStream.java:142)
+[Jul 29, 2014 6:11:19 PM] 	at java.io.FileWriter.<init>(FileWriter.java:78)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.api.database.mysql.impl.DatabaseQueries.println(DatabaseQueries.java:66)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.api.database.mysql.impl.DatabaseQueries.claimGoldPoints(DatabaseQueries.java:50)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.api.event.command.impl.CheckPayment.execute(CheckPayment.java:30)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.api.event.command.CommandHandler.handleCommand(CommandHandler.java:33)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.networking.packet.impl.ChatPacketHandler.handle(ChatPacketHandler.java:51)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 6:11:19 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 6:11:19 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 6:11:19 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 6:11:19 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 6:11:19 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:20:18 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 6:20:18 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 6:20:18 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 6:20:18 PM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 6:20:18 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 6:20:18 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:20:20 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 6:20:20 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 6:20:20 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 6:20:20 PM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 6:20:20 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 6:20:20 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:20:22 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 6:20:22 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 6:20:22 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 6:20:22 PM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 6:20:22 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 6:20:22 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:20:25 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.Archive.decompress(Archive.java:102)
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.Archive.<init>(Archive.java:25)
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.MainFile.getArchive(MainFile.java:37)
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.Index.getArchive(Index.java:440)
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.Index.cacheArchiveFiles(Index.java:374)
+[Jul 29, 2014 6:20:25 PM] 	at com.alex.store.Index.getFile(Index.java:120)
+[Jul 29, 2014 6:20:25 PM] 	at novite.rs.game.DynamicRegion.loadRegionMap(DynamicRegion.java:79)
+[Jul 29, 2014 6:20:25 PM] 	at novite.rs.game.Region$1.run(Region.java:58)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:471)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.FutureTask.run(FutureTask.java:262)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:178)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:292)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 6:20:25 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 6:20:25 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 6:20:27 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:28 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:30 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:33 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:35 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:38 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:40 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:42 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:44 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:47 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:50 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:52 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:54 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:20:58 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:00 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:01 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:03 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:05 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:07 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:08 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:10 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:12 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:13 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:15 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:17 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:19 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:20 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:22 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:23 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:25 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:27 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:28 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:30 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:32 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:33 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:35 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:37 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:38 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:40 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:42 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:43 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:45 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:46 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:48 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:49 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:51 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:53 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:54 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:56 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:21:58 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 6:22:00 PM] java.lang.OutOfMemoryError: Java heap space
+[Jul 29, 2014 9:05:24 PM] java.lang.NullPointerException
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.refreshBothStageMessage(DiceGame.java:406)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.cancelAccepted(DiceGame.java:218)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.addItem(DiceGame.java:210)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame$3.handle(DiceGame.java:115)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handleIntegerInput(InputPacketHandler.java:49)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handle(InputPacketHandler.java:26)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 9:05:24 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 9:05:24 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 9:05:24 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 9:05:24 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 9:05:24 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 9:06:51 PM] java.lang.NullPointerException
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.refreshBothStageMessage(DiceGame.java:406)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.cancelAccepted(DiceGame.java:218)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.removeItem(DiceGame.java:244)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.processButtonClick(DiceGame.java:82)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.game.player.ControlerManager.processButtonClick(ControlerManager.java:254)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:58)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 9:06:51 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 9:06:51 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 9:06:51 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 9:06:51 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 9:06:51 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 9:06:54 PM] java.lang.NullPointerException
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.refreshBothStageMessage(DiceGame.java:406)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.cancelAccepted(DiceGame.java:218)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.addItem(DiceGame.java:210)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame$3.handle(DiceGame.java:115)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handleIntegerInput(InputPacketHandler.java:49)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.networking.packet.impl.InputPacketHandler.handle(InputPacketHandler.java:26)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 9:06:54 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 9:06:54 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 9:06:54 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 9:06:54 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 9:06:54 PM] 	at java.lang.Thread.run(Thread.java:745)
+[Jul 29, 2014 9:07:02 PM] java.lang.NullPointerException
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.refreshBothStageMessage(DiceGame.java:406)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.cancelAccepted(DiceGame.java:218)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.removeItem(DiceGame.java:244)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.game.player.controlers.impl.dice.DiceGame.processButtonClick(DiceGame.java:82)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.game.player.ControlerManager.processButtonClick(ControlerManager.java:254)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.networking.codec.handlers.ButtonHandler.handleButtons(ButtonHandler.java:58)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.networking.packet.impl.ButtonPacketHandler.handle(ButtonPacketHandler.java:18)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.networking.protocol.game.DefaultGameDecoder.decode(DefaultGameDecoder.java:177)
+[Jul 29, 2014 9:07:02 PM] 	at novite.rs.networking.ServerChannelHandler.messageReceived(ServerChannelHandler.java:100)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.SimpleChannelUpstreamHandler.handleUpstream(SimpleChannelUpstreamHandler.java:70)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:564)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.DefaultChannelPipeline.sendUpstream(DefaultChannelPipeline.java:559)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:268)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.Channels.fireMessageReceived(Channels.java:255)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.read(NioWorker.java:88)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.process(AbstractNioWorker.java:108)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:318)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.socket.nio.AbstractNioWorker.run(AbstractNioWorker.java:89)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.channel.socket.nio.NioWorker.run(NioWorker.java:178)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+[Jul 29, 2014 9:07:02 PM] 	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+[Jul 29, 2014 9:07:02 PM] 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+[Jul 29, 2014 9:07:02 PM] 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)
+[Jul 29, 2014 9:07:02 PM] 	at java.lang.Thread.run(Thread.java:745)
